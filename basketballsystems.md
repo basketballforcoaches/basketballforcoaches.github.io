@@ -5,6 +5,12 @@ permalink: /systems/
 ---
 
 <h1>{{ page.title }}</h1>
+<p>
+This page contains snippets from videos with a description and key teaching points.
+
+Isolating these examples helps coaches break down key teaching points with live video examples, targeting explicit teaching point examples.
+
+You can use this as a resource to hone your craft, customise your own drills or a point of reference.</p>
 
 <ul>
   {% for video in site.data.videos %}
