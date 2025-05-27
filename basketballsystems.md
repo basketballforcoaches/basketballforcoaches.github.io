@@ -16,29 +16,29 @@ You can use this as a resource to hone your craft, customise your own drills or 
 
 In basketball terminology, especially in the context of modern offenses and coaching lingo, “shorts”, “pistols”, and “shorts into pistols” refer to specific offensive actions or sequences—typically used in youth, high school, or elite coaching programs.
 
-1. Shorts
+## 1. Shorts
 “Shorts” usually refers to a short roll action in a pick-and-roll scenario.
     - Instead of rolling all the way to the rim, the screener pops or stops around elbow area.
     - The ball handler hits them early ("short") to avoid pressure or traps.
     - This is useful when the defense traps or hard-hedges the ball screen.
 
-2. Pistols
+## 2. Pistols
 “Pistols” is a two-player game on one side of the floor that typically includes:
     - A dribble handoff (DHO) or a ball screen, and
     - An off-ball shooter or cutter moving at the same time.
     - Often run early in transition with one guard on the wing and another trailing.
 
-3. Shorts into Pistols - combo:
+## 3. Shorts into Pistols - combo:
     - The play starts with a short roll or pass to the short roll man (Shorts), and
     - Then immediately flows into a pistol action (DHO or pick-and-roll on the side).
 
-Example:
+### Example:
     - See teaching point video below.
     - Guard comes off a ball screen and is blitzed.
     - They pass to the short roller.
     - The short roller quickly hands off to a wing coming up (or sets a screen for a wing), triggering a pistol action.
 
-Why Use It?
+### Why Use It?
     - It breaks traps and keeps the offense flowing.
     - It creates multiple reads and decisions for the defense.
     - It’s great for ball movement and playing through pressure.
