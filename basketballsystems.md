@@ -37,10 +37,8 @@ By isolating these examples, coaches can:
             </li>
           {% endfor %}
         </ul>
-        <div style="font-size: 0.8em; margin-top: 10px;">
-          <h3>Video Credit - with Thanks!</h3>
-          <h3>Thnks{{ video.title }}</h3>
-          <p><strong>Description:</strong> {{ video.description }}</p>
+        <div style="font-size: 0.5em; margin-top: 10px;">
+          <p>Video Credit, with Thanks: {{ video.title }} - Description:{{ video.description }}</p>
         </div>
       </li>
     {% endif %}
