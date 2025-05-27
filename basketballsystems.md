@@ -4,7 +4,7 @@ title: Offensive Systems - Shorts into Pistols
 permalink: /systems/
 ---
 
-# 🏀 {{ page.title }} - *Shorts into Pistols*
+# 🏀 *{{ page.title }}*
 
 This page contains curated video snippets along with descriptions and key teaching points.  
 By isolating these examples, coaches can:
@@ -14,6 +14,38 @@ By isolating these examples, coaches can:
 - Use this as a reference to refine drills or design your own.
 
 🎯 *Use this page as a tool to sharpen your coaching craft and build intentional practice plans.*
+
+<h2>Teaching Point Videos for *{{ page.title }}*</h2>
+
+<ul>
+  {% for video in site.data.videos %}
+    {% if video.teachingPoints %}
+      <li>
+        <ul>
+          {% for point in video.teachingPoints %}
+            <li>
+              <strong>{{ point.name }}</strong>: {{ point.description }}<br>
+              <iframe id="video-{{ video.id }}-{{ point.start }}-{{ point.end }}" width="560" height="315"
+                src="https://www.youtube.com/embed/{{ video.id }}?start={{ point.start }}&end={{ point.end }}"
+                title="Basketball For Coaches"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+              </iframe>
+              <p>Duration: {{ point.duration }}</p>
+              <button onclick="resetVideo('video-{{ video.id }}-{{ point.start }}-{{ point.end }}')">🔁 Reset Video</button>
+            </li>
+          {% endfor %}
+        </ul>
+        <div style="font-size: 0.8em; margin-top: 10px;">
+          <h3>Video Credit - with Thanks!</h3>
+          <h3>Thnks{{ video.title }}</h3>
+          <p><strong>Description:</strong> {{ video.description }}</p>
+        </div>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 <h1> About "Shorts into Pistols" </h1>
 
@@ -45,38 +77,6 @@ In basketball terminology, especially in the context of modern offenses and coac
     - It breaks traps and keeps the offense flowing.
     - It creates multiple reads and decisions for the defense.
     - It’s great for ball movement and playing through pressure.
-
-<h2>Teaching Point Videos</h2>
-
-<ul>
-  {% for video in site.data.videos %}
-    {% if video.teachingPoints %}
-      <li>
-        <ul>
-          {% for point in video.teachingPoints %}
-            <li>
-              <strong>{{ point.name }}</strong>: {{ point.description }}<br>
-              <iframe id="video-{{ video.id }}-{{ point.start }}-{{ point.end }}" width="560" height="315"
-                src="https://www.youtube.com/embed/{{ video.id }}?start={{ point.start }}&end={{ point.end }}"
-                title="Basketball For Coaches"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen>
-              </iframe>
-              <p>Duration: {{ point.duration }}</p>
-              <button onclick="resetVideo('video-{{ video.id }}-{{ point.start }}-{{ point.end }}')">🔁 Reset Video</button>
-            </li>
-          {% endfor %}
-        </ul>
-        <div style="font-size: 0.8em; margin-top: 10px;">
-          <h3>Video Credit - with Thanks!</h3>
-          <h3>Thnks{{ video.title }}</h3>
-          <p><strong>Description:</strong> {{ video.description }}</p>
-        </div>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
 
 <script>
   function resetVideo(id) {
