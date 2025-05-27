@@ -24,21 +24,19 @@ By isolating these examples, coaches can:
         <ul>
           {% for point in video.teachingPoints %}
             <li>
-              <strong>{{ point.name }}</strong>: {{ point.description }}<br>
+              <strong>{{ point.name }}</strong>: {{ point.description }}. Video section duration: {{ point.duration }}<br>
               <iframe id="video-{{ video.id }}-{{ point.start }}-{{ point.end }}" width="560" height="315"
                 src="https://www.youtube.com/embed/{{ video.id }}?start={{ point.start }}&end={{ point.end }}"
-                title="Basketball For Coaches"
-                frameborder="0"
+                frameborder="1"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen>
               </iframe>
-              <p>Duration: {{ point.duration }}</p>
               <button onclick="resetVideo('video-{{ video.id }}-{{ point.start }}-{{ point.end }}')">🔁 Reset Video</button>
             </li>
           {% endfor %}
         </ul>
         <div style="font-size: 0.5em; margin-top: 10px;">
-          <p>Video Credit, with Thanks: {{ video.title }} - Description:{{ video.description }}</p>
+          <p><strong>Video Credit, with Thanks: </strong> {{ video.title }} - Description:{{ video.description }}</p>
         </div>
       </li>
     {% endif %}
@@ -66,7 +64,7 @@ In basketball terminology, especially in the context of modern offenses and coac
     - Then immediately flows into a pistol action (DHO or pick-and-roll on the side).
 
 ### Example:
-    - See teaching point video below.
+    - See teaching point videos above.
     - Guard comes off a ball screen and is blitzed.
     - They pass to the short roller.
     - The short roller quickly hands off to a wing coming up (or sets a screen for a wing), triggering a pistol action.
