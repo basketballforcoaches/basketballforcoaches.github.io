@@ -24,7 +24,7 @@ By isolating these examples, coaches can:
         <ul>
           {% for point in video.teachingPoints %}
             <li>
-              <strong>{{ point.name }}</strong>: {{ point.description }}. Video section duration: {{ point.duration }}<br>
+              <strong>Teaching Point: {{ point.name }}</strong>: {{ point.description }}. Duration: {{ point.duration }}<br>
               <iframe id="video-{{ video.id }}-{{ point.start }}-{{ point.end }}" width="560" height="315"
                 src="https://www.youtube.com/embed/{{ video.id }}?start={{ point.start }}&end={{ point.end }}"
                 frameborder="1"
@@ -33,6 +33,7 @@ By isolating these examples, coaches can:
               </iframe>
               <button onclick="resetVideo('video-{{ video.id }}-{{ point.start }}-{{ point.end }}')">🔁 Reset Video</button>
             </li>
+            <br>
           {% endfor %}
         </ul>
         <div style="font-size: 0.5em; margin-top: 10px;">
