@@ -1,3 +1,9 @@
 title:  Basketball For Coaches
-theme: minima-mistakes-jekyll
+theme: minima
 
+# Add navigation
+header_pages:
+  - index.md
+
+footer:
+  location:  Melbourne Australia
