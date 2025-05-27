@@ -25,7 +25,7 @@ By isolating these examples, coaches can:
           {% for point in video.teachingPoints %}
             <li>
               <strong>Teaching Point: {{ point.name }}</strong>: {{ point.description }}. Duration: {{ point.duration }}<br>
-              <iframe id="video-{{ video.id }}-{{ point.start }}-{{ point.end }}" width="560" height="315"
+              <iframe id="video-{{ video.id }}-{{ point.start }}-{{ point.end }}" width="448" height="252"
                 src="https://www.youtube.com/embed/{{ video.id }}?start={{ point.start }}&end={{ point.end }}"
                 frameborder="1"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
