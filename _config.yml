@@ -4,7 +4,7 @@ theme: minima
 # Add navigation
 header_pages:
   - basketballsystems.md
-  - Offensive Systems - Short into pistols.md
+  - bs1.md
   
 
 footer:
