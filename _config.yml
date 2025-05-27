@@ -3,7 +3,7 @@ theme: minima
 
 # Add navigation
 header_pages:
-  - index.md
+  - videos.md
 
 footer:
   location:  Melbourne Australia
