@@ -5,6 +5,7 @@ theme: minima
 header_pages:
   - videos.md
   - v2.md
+  - v3.md
 
 footer:
   location:  Melbourne Australia
