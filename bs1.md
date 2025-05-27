@@ -62,8 +62,6 @@ permalink: /systems - v1/
   {% for video in site.data.videos %}
     {% if video.teachingPoints %}
       <li>
-        <h3>{{ video.title }}</h3>
-        <p><strong>Description:</strong> {{ video.description }}</p>
         <ul>
           {% for point in video.teachingPoints %}
             <li>
@@ -80,6 +78,11 @@ permalink: /systems - v1/
             </li>
           {% endfor %}
         </ul>
+        <div style="font-size: 0.8em; margin-top: 10px;">
+          <h3>Video Credit - with Thanks!</h3>
+          <h3>Thnks{{ video.title }}</h3>
+          <p><strong>Description:</strong> {{ video.description }}</p>
+        </div>
       </li>
     {% endif %}
   {% endfor %}
