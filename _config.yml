@@ -3,9 +3,8 @@ theme: minima
 
 # Add navigation
 header_pages:
-  - videos.md
-  - v2.md
-  - v3.md
+  - basketballsystems.md
+  
 
 footer:
   location:  Melbourne Australia
