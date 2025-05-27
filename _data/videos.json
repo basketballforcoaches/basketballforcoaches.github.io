@@ -11,7 +11,10 @@
         "name": "Short into pistols",
         "description": "Example execution of short into pistols. In this variation, the driver pops.",
         "startTime": "https://youtu.be/wz8sXiNjoSs?t=2475",
-        "duration": "20 seconds"
+        "duration": "20 seconds",
+        "youtubeId": "wz8sXiNjoSs",
+        "start": 2475,
+        "end": 2495
       }
     ]
   }

@@ -18,7 +18,7 @@ permalink: /videos/
           {% for point in video.teachingPoints %}
             <li>
               <strong>{{ point.name }}</strong>: {{ point.description }}<br>
-              <a href="{{ point.startTime }}" target="_blank">Watch from here</a> (Duration: {{ point.duration }})
+              <a href="{{ point.startTime }}" target="_blank">Watch here</a> (Duration: {{ point.duration }})
             </li>
           {% endfor %}
         </ul>
