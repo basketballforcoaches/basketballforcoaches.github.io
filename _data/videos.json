@@ -9,11 +9,12 @@
       {
         "id": "short_into_pistols",
         "name": "Short into pistols",
-        "description": "Example execution of short into pistols, keeper (Pick and roll). In this variation, the driver pops.",
+        "Short description": "Example execution of short into pistols, keeper (Pick and roll). In this variation, the driver pops.",
         "startTime": "https://youtu.be/wz8sXiNjoSs?t=2475",
         "start": 2477,
         "end": 2487,
         "duration": "10 Seconds"
+        
       }
     ]
   }

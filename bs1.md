@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Basketball Systems - Shorts into Pistols - v1
-permalink: /systems/
+permalink: /systems - v1/
 ---
 
 <h1>{{ page.title }}</h1>
