@@ -1,7 +1,7 @@
 ---
 layout: default
-title: v2
-permalink: /v2/
+title: Basket Ball Systems
+permalink: /systems/
 ---
 
 <h1>{{ page.title }}</h1>
@@ -9,10 +9,8 @@ permalink: /v2/
 <ul>
   {% for video in site.data.videos %}
     <li>
-      <h2><a href="{{ video.url }}">{{ video.title }}</a></h2>
-      <p>{{ video.description }}</p>
-      <p><strong>Upload Date:</strong> {{ video.uploadDate }}</p>
-      {% if video.teachingPoints %}
+        {% if video.teachingPoints %}
+        <h2>Basketball Systems</h2>
         <h3>Teaching Points:</h3>
         <ul>
         {% for point in video.teachingPoints %}
