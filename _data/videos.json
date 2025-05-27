@@ -15,6 +15,15 @@
         "end": 2487,
         "duration": "10 Seconds"
         
+      },
+      {
+        "id": "shorts",
+        "name": "Short action",
+        "Short description": "Example shorts action",
+        "start": 2477,
+        "end": 2481,
+        "duration": "10 Seconds"
+        
       }
     ]
   }
