@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 permalink: /
 ---
-![Swish!](/_images/markus-spiske-BfphcCvhl6E-unsplash.jpg "swish")
+![Swish!](/images/markus-spiske-BfphcCvhl6E-unsplash.jpg "swish")
 
 # 🏀 *{{ page.title }}*
 
