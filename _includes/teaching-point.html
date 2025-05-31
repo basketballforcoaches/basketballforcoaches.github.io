@@ -1,0 +1,10 @@
+<li>
+  <strong>{{ include.name }}</strong> – {{ include.description }}<br>
+  <iframe width="448" height="252"
+    src="https://www.youtube.com/embed/{{ include.video_id }}?start={{ include.start }}&end={{ include.end }}"
+    frameborder="1"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+  <p style="font-size: 0.7em;">⏱ Duration: {{ include.duration }}</p>
+</li>

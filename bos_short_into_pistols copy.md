@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Offensive Systems - Shorts into Pistols
-permalink: /systems/
+permalink: /systems/offense/short_into_pistols
 ---
 
 # 🏀 *{{ page.title }}*

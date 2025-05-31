@@ -1,10 +1,11 @@
-title: Basketball For Coaches
+title: Basketball Teaching Points
 theme: minima
 
 # Add navigation
 header_pages:
-  - basketballsystems.md
-  - bs1.md
+  - bos_short_into_pistols.md
+  - bds_arrows_press.md
+  - test.md
   
 
 footer:

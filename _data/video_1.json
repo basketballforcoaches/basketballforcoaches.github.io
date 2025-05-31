@@ -1,0 +1,31 @@
+[
+  {
+    "id": "wz8sXiNjoSs",
+    "title": "VJBL 2023/24 - VC Round 8 - Sunbury Jets U16.1 vs Camberwell Dragons U16.1",
+    "url": "https://www.youtube.com/watch?v=wz8sXiNjoSs",
+    "description": "Game footage from VC Round 8.",
+    "uploadDate": "2024-05-17",
+    "teachingPoints": [
+      {
+        "id": "short_into_pistols",
+        "name": "Short into pistols",
+        "Short description": "Example execution of short into pistols, keeper (Pick and roll). In this variation, the driver pops.",
+        "startTime": "https://youtu.be/wz8sXiNjoSs?t=2475",
+        "start": 2477,
+        "end": 2487,
+        "duration": "10 Seconds"
+        
+      },
+      {
+        "id": "shorts",
+        "name": "Short action",
+        "Short description": "Example shorts action",
+        "start": 2477,
+        "end": 2481,
+        "duration": "4 Seconds"
+        
+      }
+    ]
+  }
+
+]
