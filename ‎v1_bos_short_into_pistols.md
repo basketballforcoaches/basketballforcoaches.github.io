@@ -17,6 +17,7 @@ By isolating these examples, coaches can:
 
 <h2>Teaching Point Videos for *{{ page.title }}*</h2>
 
+## start here ##
 <ul>
   {% for video in site.data.videos %}
     {% if video.teachingPoints %}
@@ -43,6 +44,8 @@ By isolating these examples, coaches can:
     {% endif %}
   {% endfor %}
 </ul>
+
+## End here
 
 <h1> About "Shorts into Pistols" </h1>
 
