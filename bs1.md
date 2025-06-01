@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Basketball Systems - Shorts into Pistols - v1
+title: Basketball Systems - Shorts into Pistols - v1 (bs1)
 permalink: /systems - v1/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Offensive Systems - Shorts into Pistols
+title: Defensive Systems - arrow_press
 permalink: /systems/defense/arrow_press
 ---
 
