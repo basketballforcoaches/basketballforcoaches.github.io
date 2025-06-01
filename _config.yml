@@ -4,8 +4,11 @@ theme: minima
 # Add navigation
 header_pages:
   - bos_short_into_pistols.md
+  - bos_short_into_pistols copy.md
   - bds_arrows_press.md
+  - bs1.md
   - test.md
+  - videos.md
   
 
 footer:
