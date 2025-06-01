@@ -78,6 +78,36 @@ In basketball terminology, especially in the context of modern offenses and coac
     - It creates multiple reads and decisions for the defense.
     - It’s great for ball movement and playing through pressure.
 
+{% for video in site.data.videos %}
+{{ video.title }}
+
+{{ video.description }}
+
+Upload Date: {{ video.uploadDate }}
+{% if video.teachingPoints %}
+Teaching Points:
+
+        {% for point in video.teachingPoints %}
+        {{ point.name }}: {{ point.description }}
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ video.id }}?start={{ point.start }}&end={{ point.end }}" title="Basketball For Coaches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+
+        Duration: {{ point.duration }}
+        {% endfor %} {% endif %}
+    {% endfor %} 
+
+Manual code -
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wz8sXiNjoSs?start=2477&end=2487" title="Basketball For Coaches" frameborder="15" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Reset Video
+Manual code - bk!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wz8sXiNjoSs?si=701MtYzVVNf-lRpJ&start=2477&end=2487" title="Basketball For Coaches" frameborder="15" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Reset Video
+
+🔁 Reset Video - object not page
+<script> function resetVideo(id) { const iframe = document.getElementById(id); const src = iframe.src; iframe.src = src; } </script> 
+
+
 <script>
   function resetVideo(id) {
     const iframe = document.getElementById(id);
