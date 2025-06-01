@@ -1,16 +1,13 @@
-title: Basketball Teaching Points - v1
+title: Basketball Teaching Points
 theme: minima
 
 # Add navigation
 header_pages:
-  - bos_short_into_pistols.md
-  - bos_short_into_pistols copy.md
-  - bds_arrows_press.md
-  - bs1.md
   - test.md
-  - videos.md
-  - v1_bos_short_into_pistols.md
-  
+
+
+  # Set to `true` to show excerpts on the homepage.
+show_excerpts: true
 
 footer:
   location:  Melbourne Australia
