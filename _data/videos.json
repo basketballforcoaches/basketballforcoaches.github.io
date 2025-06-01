@@ -44,6 +44,25 @@
         "duration": "10 Seconds"
         
       }
+      ]
+  },
+   {
+    "id": "kSJnL3gADqQ",
+    "title": "VJBL Bacchus Marsh Lions 16.1 @ Wyndham 16.2",
+    "url": "https://www.youtube.com/watch?v=kSJnL3gADqQ",
+    "description": "",
+    "uploadDate": "",
+    "teachingPoints": [
+      {
+        "id": "arrows_full_court_press_v2",
+        "name": "Arrows - Full court press",
+        "Short description": "Arrow head formation to trap inbound baseline ball. - this example shows a great trap in corner - steal and transtion for easy bucket.",
+        "startTime": "https://youtu.be/kSJnL3gADqQ?t=796",
+        "start": 796,
+        "end": 812,
+        "duration": "15 Seconds"
+        
+      }
     ]
   }
 
