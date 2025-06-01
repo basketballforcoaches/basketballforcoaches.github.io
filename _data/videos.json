@@ -26,6 +26,25 @@
         
       }
     ]
+  },
+    {
+    "id": "FEPObunkRb8",
+    "title": "VJBL Bacchus Marsh Lions 16.1 @ Wyndham 16.2",
+    "url": "https://www.youtube.com/watch?v=FEPObunkRb8",
+    "description": "Eagle Stadium / Court 1\n8th Marsh 2024\n\nWyndham def. Bacchus Marsh 97-64",
+    "uploadDate": "2024-03-08",
+    "teachingPoints": [
+      {
+        "id": "arrows_full_court_press",
+        "name": "Arrows - Full court press",
+        "Short description": "Arrow head formation to trap inbound baseline ball.",
+        "startTime": "https://youtu.be/FEPObunkRb8?t=94",
+        "start": 94,
+        "end": 105,
+        "duration": "10 Seconds"
+        
+      }
+    ]
   }
 
 ]
