@@ -19,14 +19,6 @@
         ]
     },
     {
-        "videoId": "apG5K3zc4V0",
-        "title": "One Ontology, One Data Set, Multiple Shapes with SHACL. Tara Raafat",
-        "url": "https://www.youtube.com/watch?v=apG5K3zc4V0",
-        "uploadDate": "2019-11-06",
-        "teachingPoint": [],
-        "teachingPoints": []
-    },
-    {
         "videoId": "7U-TcoCxuCk",
         "title": "One Simple Drill for Instant Success in the 5-Out Motion Offense",
         "url": "https://www.youtube.com/watch?v=7U-TcoCxuCk",
@@ -229,7 +221,7 @@
             {
                 "teachingPoint_id": "TP-010",
                 "teachingPoint_name": "Dive (5 out trigger to cut)",
-                "teachingPoint_short_description": "A nice trigger to dive cut on ball penetration.\r\nGood for cyclones\r\n\r\nhttps://youtu.be/lICvxZiWi44?t=4039",
+                "teachingPoint_short_description": "A nice trigger to dive cut on ball penetration.\r\n\r\nhttps://youtu.be/lICvxZiWi44?t=4039",
                 "startTime": 4003,
                 "endTime": 4037,
                 "duration": "34 seconds",
@@ -463,7 +455,7 @@
     },
     {
         "videoId": "wvZAh9js_8c",
-        "title": "James Janssen - Skills and Drills a",
+        "title": "James Janssen - Skills and Drills",
         "url": "https://www.youtube.com/watch?v=wvZAh9js_8c",
         "uploadDate": "2025-05-29",
         "teachingPoint": [],
