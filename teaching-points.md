@@ -14,13 +14,11 @@ permalink: /teaching-points/
     {% assign tps = video.teachingPoints %}
     {% if tps and tps.size > 0 %}
       <div style="margin-bottom: 3em;">
-        <h2>{{ video.title }}</h2>
-        <p><a href="{{ video.url }}" target="_blank">{{ video.url }}</a></p>
+
         <ul>
           {% for tp in tps %}
             <li style="margin-bottom: 1em;">
-              <strong>{{ tp.teachingPoint_name }}</strong>: {{ tp.teachingPoint_short_description }}<br>
-              <p>Debug: start={{ tp.startTime }} end={{ tp.endTime }}</p>
+              <strong>{{ tp.teachingPoint_id }} {{ tp.teachingPoint_name }}</strong>: {{ tp.teachingPoint_short_description }}<br>
               <iframe
                 id="video-{{ video.videoId }}-{{ tp.startTime }}-{{ tp.endTime }}"
                 width="448"
