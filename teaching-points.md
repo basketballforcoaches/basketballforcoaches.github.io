@@ -4,39 +4,40 @@ title: Teaching Points
 permalink: /teaching-points/
 ---
 
-<h1>🎥 Teaching Points by Video</h1> 
+<h1>🎥 Teaching Points by Video</h1>
 <p>Source: <code>teachingPoints</code> array in each video</p>
 
 <p>Total videos in data: {{ site.data.teaching_points | size }}</p>
 
-<ul>
+<div class="container my-4">
   {% for video in site.data.teaching_points %}
     {% assign tps = video.teachingPoints %}
     {% if tps and tps.size > 0 %}
-      <div style="margin-bottom: 3em;">
-
-        <ul>
-          {% for tp in tps %}
-            <li style="margin-bottom: 1em;">
-              <strong>{{ tp.teachingPoint_id }} {{ tp.teachingPoint_name }}</strong>: {{ tp.teachingPoint_short_description }}<br>
+      {% for tp in tps %}
+        <div class="row mb-5 align-items-start">
+          <div class="col-md-6">
+            <div class="ratio ratio-16x9">
               <iframe
                 id="video-{{ video.videoId }}-{{ tp.startTime }}-{{ tp.endTime }}"
-                width="448"
-                height="252"
                 src="https://www.youtube.com/embed/{{ video.videoId }}?start={{ tp.startTime }}&end={{ tp.endTime }}"
-                frameborder="0"
+                title="{{ tp.teachingPoint_name }}"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen>
               </iframe>
-              <br>
-              <button onclick="resetVideo('video-{{ video.videoId }}-{{ tp.startTime }}-{{ tp.endTime }}')">🔁 Reset Video</button>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <h5>{{ tp.teachingPoint_id }} – {{ tp.teachingPoint_name }}</h5>
+            <p>{{ tp.teachingPoint_short_description }}</p>
+            <p><strong>Duration:</strong> {{ tp.duration }}</p>
+            <button class="btn btn-outline-secondary btn-sm"
+                    onclick="resetVideo('video-{{ video.videoId }}-{{ tp.startTime }}-{{ tp.endTime }}')">🔁 Reset Video</button>
+          </div>
+        </div>
+      {% endfor %}
     {% endif %}
   {% endfor %}
-</ul>
+</div>
 
 <script>
 function resetVideo(id) {
