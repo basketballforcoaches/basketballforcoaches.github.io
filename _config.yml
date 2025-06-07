@@ -5,6 +5,7 @@ theme: minima
 header_pages:
   - concepts.html
   - teaching-points.md
+  - practice/index.md
 
 
   # Set to `true` to show excerpts on the homepage.

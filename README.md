@@ -17,8 +17,9 @@ By isolating these examples, coaches can:
 🎯 *Use this page as a tool to sharpen your coaching craft and build intentional practice plans.*
 
 ## Browse by Topic
-* [Offensive Systems](https://duckduckgo.com).
-* [Defensive Systems](https://duckduckgo.com).
+* [Basket Ball Concepts]({{ site.baseurl }}/practice/)
+* [Training Plans]({{ site.baseurl }}/practice/)
+
 
 | Offense | Defense |
 | ----------- | ----------- |
