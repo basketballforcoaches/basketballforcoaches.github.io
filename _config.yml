@@ -3,6 +3,7 @@ theme: minima
 
 # Add navigation
 header_pages:
+  - concepts.html
   - teaching-points.md
 
 
