@@ -1,0 +1,20 @@
+<!-- _includes/concept-video.html -->
+<div class="row mt-4 mb-4 border rounded p-3">
+  <div class="col-md-6">
+    <div class="ratio ratio-16x9">
+      <iframe
+        id="video-{{ id }}"
+        src="{{ embed_url }}"
+        title="{{ title }}"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <h5>{{ title }}</h5>
+    <p>{{ description }}</p>
+    <p><strong>Duration:</strong> {{ duration }}</p>
+    <button class="btn btn-outline-secondary btn-sm" onclick="document.getElementById('video-{{ id }}').src = document.getElementById('video-{{ id }}').src">🔁 Reset Video</button>
+  </div>
+</div>

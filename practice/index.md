@@ -28,6 +28,10 @@ permalink: /practice/
     <small class="text-muted d-block">Great for mixed age teams needing help in conversion defense</small>
   </a>
 
+  <a href="practice/u14-boys-1hr_tp2/" class="list-group-item list-group-item-action">
+    🏀 Accordian format - with embedded
+    <small class="text-muted d-block">include the coaching tips and videos in each drop down section</small>
+  </a>
   <!-- Add new links here as you create more plans -->
 
 </div>
