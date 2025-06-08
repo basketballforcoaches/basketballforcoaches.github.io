@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "U12 Boys",
+        "title": "U12 Boys - Plan A",
         "date": "2025-06-02",
         "duration_minutes": 60,
         "notes": "1.  warm up\r\n2.  cool down",
@@ -92,20 +92,7 @@
             },
             {
                 "id": 6,
-                "teaching_points": [
-                    {
-                        "teachingPoint_id": "TP-002",
-                        "teachingPoint_name": "defend",
-                        "teachingPoint_short_description": "la la la",
-                        "startTime": 67,
-                        "endTime": 96,
-                        "duration": "29 seconds",
-                        "video": "NqgaWL7b86A",
-                        "embed_url": "https://www.youtube.com/embed/NqgaWL7b86A?start=67&end=96",
-                        "keywords": [],
-                        "educationalLevel": ""
-                    }
-                ],
+                "teaching_points": [],
                 "order": 6,
                 "time_range": "10min",
                 "title": "s6",
@@ -116,7 +103,7 @@
     },
     {
         "id": 2,
-        "title": "U14 Boys",
+        "title": "U14 Boys - Plan A",
         "date": "2025-06-10",
         "duration_minutes": 60,
         "notes": "Winter season - Training plan A",
