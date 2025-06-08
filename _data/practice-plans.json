@@ -1,0 +1,206 @@
+[
+    {
+        "id": 1,
+        "title": "U12 Boys",
+        "date": "2025-06-02",
+        "duration_minutes": 60,
+        "notes": "1.  warm up\r\n2.  cool down",
+        "segments": [
+            {
+                "id": 1,
+                "teaching_points": [],
+                "order": 1,
+                "time_range": "0 to 10 min",
+                "title": "warm up",
+                "notes": "stretch",
+                "plan": 1
+            },
+            {
+                "id": 2,
+                "teaching_points": [],
+                "order": 2,
+                "time_range": "10 to 20 min",
+                "title": "cool down",
+                "notes": "",
+                "plan": 1
+            },
+            {
+                "id": 3,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-004",
+                        "teachingPoint_name": "Pass and Cut Drill",
+                        "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
+                        "startTime": 3,
+                        "endTime": 25,
+                        "duration": "22 seconds",
+                        "video": "DGK4f0GzAC4",
+                        "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 3,
+                "time_range": "10min",
+                "title": "s3",
+                "notes": "",
+                "plan": 1
+            },
+            {
+                "id": 4,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-005",
+                        "teachingPoint_name": "lay up, in bound and trap",
+                        "teachingPoint_short_description": "lay ups and in bounding. (10 makes - can adjust layup style) limit balls.\r\nGreat teaching points for Junior boys.\r\n+ adapted to add defensive trap on top of inbound ball (teaching how to hunt) - \r\n\r\n# 3 traps to change trappers.\r\n# 10 makes before changing up lay-up.",
+                        "startTime": 1187,
+                        "endTime": 1234,
+                        "duration": "47 seconds",
+                        "video": "5wv2YRZ-D0U",
+                        "embed_url": "https://www.youtube.com/embed/5wv2YRZ-D0U?start=1187&end=1234",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 4,
+                "time_range": "10min",
+                "title": "s4",
+                "notes": "",
+                "plan": 1
+            },
+            {
+                "id": 5,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-006",
+                        "teachingPoint_name": "passing fundamentals",
+                        "teachingPoint_short_description": "drill for basic passing sequence for capable kids who think the know it all.",
+                        "startTime": 621,
+                        "endTime": 955,
+                        "duration": "334 seconds",
+                        "video": "5wv2YRZ-D0U",
+                        "embed_url": "https://www.youtube.com/embed/5wv2YRZ-D0U?start=621&end=955",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 5,
+                "time_range": "10min",
+                "title": "s5",
+                "notes": "",
+                "plan": 1
+            },
+            {
+                "id": 6,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-002",
+                        "teachingPoint_name": "defend",
+                        "teachingPoint_short_description": "la la la",
+                        "startTime": 67,
+                        "endTime": 96,
+                        "duration": "29 seconds",
+                        "video": "NqgaWL7b86A",
+                        "embed_url": "https://www.youtube.com/embed/NqgaWL7b86A?start=67&end=96",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 6,
+                "time_range": "10min",
+                "title": "s6",
+                "notes": "",
+                "plan": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "U14 Boys",
+        "date": "2025-06-10",
+        "duration_minutes": 60,
+        "notes": "Winter season - Training plan A",
+        "segments": [
+            {
+                "id": 7,
+                "teaching_points": [],
+                "order": 1,
+                "time_range": "10 min",
+                "title": "Team Discussion",
+                "notes": "Retro on last game.",
+                "plan": 2
+            },
+            {
+                "id": 8,
+                "teaching_points": [],
+                "order": 2,
+                "time_range": "10 min",
+                "title": "crazy layups",
+                "notes": "",
+                "plan": 2
+            },
+            {
+                "id": 9,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-015",
+                        "teachingPoint_name": "5 out (motion offense)",
+                        "teachingPoint_short_description": "focus is on cutting - 3 dribbles max - full court scrimmage",
+                        "startTime": 4484,
+                        "endTime": 4737,
+                        "duration": "253 seconds",
+                        "video": "lICvxZiWi44",
+                        "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=4484&end=4737",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 3,
+                "time_range": "10 min",
+                "title": "5 out shell",
+                "notes": "",
+                "plan": 2
+            },
+            {
+                "id": 10,
+                "teaching_points": [],
+                "order": 4,
+                "time_range": "pressure",
+                "title": "pressure",
+                "notes": "",
+                "plan": 2
+            },
+            {
+                "id": 11,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-005",
+                        "teachingPoint_name": "lay up, in bound and trap",
+                        "teachingPoint_short_description": "lay ups and in bounding. (10 makes - can adjust layup style) limit balls.\r\nGreat teaching points for Junior boys.\r\n+ adapted to add defensive trap on top of inbound ball (teaching how to hunt) - \r\n\r\n# 3 traps to change trappers.\r\n# 10 makes before changing up lay-up.",
+                        "startTime": 1187,
+                        "endTime": 1234,
+                        "duration": "47 seconds",
+                        "video": "5wv2YRZ-D0U",
+                        "embed_url": "https://www.youtube.com/embed/5wv2YRZ-D0U?start=1187&end=1234",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 5,
+                "time_range": "layup drill with tra",
+                "title": "d1",
+                "notes": "",
+                "plan": 2
+            },
+            {
+                "id": 12,
+                "teaching_points": [],
+                "order": 6,
+                "time_range": "3 point shooting",
+                "title": "d2",
+                "notes": "pick spot on 3 point arch.\r\n2 minutes on clock.\r\nsee how many team can knock down.",
+                "plan": 2
+            }
+        ]
+    }
+]
