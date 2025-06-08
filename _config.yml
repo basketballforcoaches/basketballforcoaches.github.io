@@ -7,9 +7,12 @@ header_pages:
   - teaching-points.md
   - practice/index.md
 
-
+include:
+  - assets/css/custom.css
   # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
+
+
 
 footer:
   location:  Melbourne Australia

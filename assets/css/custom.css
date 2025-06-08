@@ -1,0 +1,13 @@
+/* /assets/css/custom.css */
+
+
+.accordion-button:not(.collapsed) {
+  background-color: orange;
+  color: white;
+  box-shadow: none;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+}
+
