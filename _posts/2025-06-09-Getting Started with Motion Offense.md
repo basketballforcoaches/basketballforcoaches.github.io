@@ -32,6 +32,7 @@ Once players are comfortable, add variety and decision-making to mimic game flow
 Introduce live defenders to increase challenge and realism. Focus on spacing, reading the defense, and maintaining tempo.  
 ➡️ *[Insert drill guide – Motion offense with defense]*
 
+focus is on cutting - 3 dribbles max - full court scrimmage - pass outside the key or inside the 3.
 ---
 
 ## ⏱️ Step 3: Overlay Timing and Sequences

@@ -6,6 +6,7 @@ header_pages:
   - concepts.html
   - teaching-points.md
   - practice/index.md
+  - Posts
 
 include:
   - assets/css/custom.css

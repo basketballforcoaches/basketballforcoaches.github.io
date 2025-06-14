@@ -111,6 +111,18 @@
                 "embed_url": "https://www.youtube.com/embed/7xAzANFC74c?start=104&end=121",
                 "keywords": [],
                 "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-023",
+                "teachingPoint_name": "Pistol Action",
+                "teachingPoint_short_description": "A Pistol action is a dribble hand-off immediately followed by a ball screen. \r\n\r\nThis sequence forces the defense to navigate two consecutive actions back-to-back.\r\n\r\nThe goal is to disrupt defensive coverage, creating opportunities through:\r\n- Switches (ie defenders switch - hard to do effectively, giving advantantage to ball handler)\r\n- Dribble penetration (or PnR)\r\n- Drive-and-kick options\r\nMain video has a number of different outcomes.",
+                "startTime": 108,
+                "endTime": 114,
+                "duration": "6 seconds",
+                "video": "tqCEfMR6vMY",
+                "embed_url": "https://www.youtube.com/embed/tqCEfMR6vMY?start=108&end=114",
+                "keywords": [],
+                "educationalLevel": ""
             }
         ]
     },
@@ -319,6 +331,18 @@
                 "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=4003&end=4037",
                 "keywords": [],
                 "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-001",
+                "teachingPoint_name": "shorts",
+                "teachingPoint_short_description": "pistols is outlined in a different video.  This is shorts into pistols, but the short action is off a SLOB ball.",
+                "startTime": 2477,
+                "endTime": 2487,
+                "duration": "10 seconds",
+                "video": "wz8sXiNjoSs",
+                "embed_url": "https://www.youtube.com/embed/wz8sXiNjoSs?start=2477&end=2487",
+                "keywords": [],
+                "educationalLevel": ""
             }
         ]
     },
@@ -445,7 +469,31 @@
                 "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=4126&end=4205",
                 "keywords": [],
                 "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-023",
+                "teachingPoint_name": "Pistol Action",
+                "teachingPoint_short_description": "A Pistol action is a dribble hand-off immediately followed by a ball screen. \r\n\r\nThis sequence forces the defense to navigate two consecutive actions back-to-back.\r\n\r\nThe goal is to disrupt defensive coverage, creating opportunities through:\r\n- Switches (ie defenders switch - hard to do effectively, giving advantantage to ball handler)\r\n- Dribble penetration (or PnR)\r\n- Drive-and-kick options\r\nMain video has a number of different outcomes.",
+                "startTime": 108,
+                "endTime": 114,
+                "duration": "6 seconds",
+                "video": "tqCEfMR6vMY",
+                "embed_url": "https://www.youtube.com/embed/tqCEfMR6vMY?start=108&end=114",
+                "keywords": [],
+                "educationalLevel": ""
             }
         ]
+    },
+    {
+        "name": "Offense",
+        "definition": "Highest level offense",
+        "ontology_uri": "",
+        "teachingPoints": []
+    },
+    {
+        "name": "drill explanation",
+        "definition": "drill explanation",
+        "ontology_uri": "",
+        "teachingPoints": []
     }
 ]
