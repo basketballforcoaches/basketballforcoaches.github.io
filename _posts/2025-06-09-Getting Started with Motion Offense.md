@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started with Motion Offense"
-date: 2025-09-06
+date: 2025-06-09
 categories: coaching basketball
 ---
 
@@ -20,6 +20,8 @@ Begin with a simple triangle setup to show spacing and player movement.
 **b) Master pass-cut-replace (corner to corner)**  
 Drill this movement without defense until players flow naturally between positions.  
 ➡️ *[Insert teaching point video – Corner-to-corner]*
+
+{% include teaching-point-by-id.html id="TP-001" description="Demonstration of triangle concept spacing" %}
 
 **c) Advance to pass-cut-replace with random movement**  
 Once players are comfortable, add variety and decision-making to mimic game flow.  

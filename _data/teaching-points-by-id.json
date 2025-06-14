@@ -1,0 +1,250 @@
+{
+    "TP-001": {
+        "teachingPoint_id": "TP-001",
+        "teachingPoint_name": "shorts",
+        "startTime": 2477,
+        "endTime": 2487,
+        "duration": "10 seconds",
+        "video": "wz8sXiNjoSs"
+    },
+    "TP-003": {
+        "teachingPoint_id": "TP-003",
+        "teachingPoint_name": "Arrows - Full court press",
+        "startTime": 799,
+        "endTime": 812,
+        "duration": "13 seconds",
+        "video": "kSJnL3gADqQ"
+    },
+    "TP-004": {
+        "teachingPoint_id": "TP-004",
+        "teachingPoint_name": "Pass and Cut Drill",
+        "startTime": 3,
+        "endTime": 25,
+        "duration": "22 seconds",
+        "video": "DGK4f0GzAC4"
+    },
+    "TP-005": {
+        "teachingPoint_id": "TP-005",
+        "teachingPoint_name": "lay up, in bound and trap",
+        "startTime": 1187,
+        "endTime": 1234,
+        "duration": "47 seconds",
+        "video": "5wv2YRZ-D0U"
+    },
+    "TP-006": {
+        "teachingPoint_id": "TP-006",
+        "teachingPoint_name": "passing fundamentals",
+        "startTime": 621,
+        "endTime": 955,
+        "duration": "334 seconds",
+        "video": "5wv2YRZ-D0U"
+    },
+    "TP-007": {
+        "teachingPoint_id": "TP-007",
+        "teachingPoint_name": "Mouse in the house (cut recieve seal shoot)",
+        "startTime": 2834,
+        "endTime": 2860,
+        "duration": "26 seconds",
+        "video": "lICvxZiWi44"
+    },
+    "TP-008": {
+        "teachingPoint_id": "TP-008",
+        "teachingPoint_name": "catch - eyes at rim",
+        "startTime": 3043,
+        "endTime": 3056,
+        "duration": "13 seconds",
+        "video": "lICvxZiWi44"
+    },
+    "TP-009": {
+        "teachingPoint_id": "TP-009",
+        "teachingPoint_name": "Back cut",
+        "startTime": 3085,
+        "endTime": 3092,
+        "duration": "7 seconds",
+        "video": "lICvxZiWi44"
+    },
+    "TP-010": {
+        "teachingPoint_id": "TP-010",
+        "teachingPoint_name": "Dive (5 out trigger to cut)",
+        "startTime": 4003,
+        "endTime": 4037,
+        "duration": "34 seconds",
+        "video": "lICvxZiWi44"
+    },
+    "TP-011": {
+        "teachingPoint_id": "TP-011",
+        "teachingPoint_name": "Offball - down screen (5 out)",
+        "startTime": 4126,
+        "endTime": 4205,
+        "duration": "79 seconds",
+        "video": "lICvxZiWi44"
+    },
+    "TP-012": {
+        "teachingPoint_id": "TP-012",
+        "teachingPoint_name": "defensive stance - guarding motion offense",
+        "startTime": 4264,
+        "endTime": 4285,
+        "duration": "21 seconds",
+        "video": "lICvxZiWi44"
+    },
+    "TP-013": {
+        "teachingPoint_id": "TP-013",
+        "teachingPoint_name": "pass - cut - recieve - score (motion offense)",
+        "startTime": 4312,
+        "endTime": 4327,
+        "duration": "15 seconds",
+        "video": "lICvxZiWi44"
+    },
+    "TP-014": {
+        "teachingPoint_id": "TP-014",
+        "teachingPoint_name": "Dribble Penetration and back cutting rule (motion offense)",
+        "startTime": 4399,
+        "endTime": 4474,
+        "duration": "75 seconds",
+        "video": "lICvxZiWi44"
+    },
+    "TP-015": {
+        "teachingPoint_id": "TP-015",
+        "teachingPoint_name": "5 out (motion offense)",
+        "startTime": 4484,
+        "endTime": 4737,
+        "duration": "253 seconds",
+        "video": "lICvxZiWi44"
+    },
+    "TP-016": {
+        "teachingPoint_id": "TP-016",
+        "teachingPoint_name": "4 out,1 in (motion offense)",
+        "startTime": 4758,
+        "endTime": 5108,
+        "duration": "350 seconds",
+        "video": "lICvxZiWi44"
+    },
+    "TP-017": {
+        "teachingPoint_id": "TP-017",
+        "teachingPoint_name": "5 out - pass/cut/replace (Corner to Corner)",
+        "startTime": 104,
+        "endTime": 121,
+        "duration": "17 seconds",
+        "video": "7xAzANFC74c"
+    },
+    "TP-018": {
+        "teachingPoint_id": "TP-018",
+        "teachingPoint_name": "5 out - pass/cut/replace (random)",
+        "startTime": 133,
+        "endTime": 142,
+        "duration": "9 seconds",
+        "video": "7xAzANFC74c"
+    },
+    "TP-019": {
+        "teachingPoint_id": "TP-019",
+        "teachingPoint_name": "5 out - the readline",
+        "startTime": 221,
+        "endTime": 332,
+        "duration": "111 seconds",
+        "video": "7xAzANFC74c"
+    },
+    "TP-020": {
+        "teachingPoint_id": "TP-020",
+        "teachingPoint_name": "observe match up vision and movement",
+        "startTime": 2,
+        "endTime": 10,
+        "duration": "8 seconds",
+        "video": "mi1rKro2AiA"
+    },
+    "TP-021": {
+        "teachingPoint_id": "TP-021",
+        "teachingPoint_name": "your match up goes to help on dribble penetration",
+        "startTime": 11,
+        "endTime": 21,
+        "duration": "10 seconds",
+        "video": "mi1rKro2AiA"
+    },
+    "TP-022": {
+        "teachingPoint_id": "TP-022",
+        "teachingPoint_name": "Cutting when you are not going to get the ball",
+        "startTime": 24,
+        "endTime": 32,
+        "duration": "8 seconds",
+        "video": "mi1rKro2AiA"
+    },
+    "TP-023": {
+        "teachingPoint_id": "TP-023",
+        "teachingPoint_name": "Pistol Action",
+        "startTime": 108,
+        "endTime": 114,
+        "duration": "6 seconds",
+        "video": "tqCEfMR6vMY"
+    },
+    "TP-024": {
+        "teachingPoint_id": "TP-024",
+        "teachingPoint_name": "Pistol Action (reject hand off)",
+        "startTime": 537,
+        "endTime": 542,
+        "duration": "5 seconds",
+        "video": "tqCEfMR6vMY"
+    },
+    "TP-025": {
+        "teachingPoint_id": "TP-025",
+        "teachingPoint_name": "Pistol Action - Weak side player switch",
+        "startTime": 667,
+        "endTime": 689,
+        "duration": "22 seconds",
+        "video": "tqCEfMR6vMY"
+    },
+    "TP-028": {
+        "teachingPoint_id": "TP-028",
+        "teachingPoint_name": "Read & React Layer 3: hook and look - drill explanation",
+        "startTime": 2,
+        "endTime": 67,
+        "duration": "65 seconds",
+        "video": "whTfWGzJvHU"
+    },
+    "TP-029": {
+        "teachingPoint_id": "TP-029",
+        "teachingPoint_name": "Read & React Layer 3: hook and look - drill explanation- drill (no defense)",
+        "startTime": 68,
+        "endTime": 82,
+        "duration": "14 seconds",
+        "video": "whTfWGzJvHU"
+    },
+    "TP-030": {
+        "teachingPoint_id": "TP-030",
+        "teachingPoint_name": "hook and look cut - drill (with defense)",
+        "startTime": 83,
+        "endTime": 92,
+        "duration": "9 seconds",
+        "video": "whTfWGzJvHU"
+    },
+    "TP-031": {
+        "teachingPoint_id": "TP-031",
+        "teachingPoint_name": "Read & React Layer 3: hook and look - demo",
+        "startTime": 143,
+        "endTime": 167,
+        "duration": "24 seconds",
+        "video": "whTfWGzJvHU"
+    },
+    "TP-032": {
+        "teachingPoint_id": "TP-032",
+        "teachingPoint_name": "Read & React Layer 3: pin down and skip",
+        "startTime": 168,
+        "endTime": 172,
+        "duration": "4 seconds",
+        "video": "whTfWGzJvHU"
+    },
+    "TP-033": {
+        "teachingPoint_id": "TP-033",
+        "teachingPoint_name": "warm up - Star passing",
+        "startTime": 2,
+        "endTime": 74,
+        "duration": "72 seconds",
+        "video": "qaQKiZsLNYU"
+    },
+    "TP-034": {
+        "teachingPoint_id": "TP-034",
+        "teachingPoint_name": "warm up - pass and cut - lay up",
+        "startTime": 81,
+        "endTime": 225,
+        "duration": "144 seconds",
+        "video": "qaQKiZsLNYU"
+    }
+}

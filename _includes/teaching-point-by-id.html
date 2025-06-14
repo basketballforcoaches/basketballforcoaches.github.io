@@ -1,0 +1,20 @@
+{% assign tp = site.data.teaching-points-by-id[include.id] %}
+
+<li>
+  <strong>{{ tp.teachingPoint_name }}</strong><br />
+  <em>{{ include.description }}</em><br />
+
+  <iframe 
+    width="420" 
+    height="236" 
+    src="https://www.youtube.com/embed/{{ tp.video }}?start={{ tp.startTime }}&end={{ tp.endTime }}" 
+    title="{{ tp.teachingPoint_name }}" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+
+  <p>
+    ⏱️ {{ tp.duration }}<br />
+    <a href="https://www.youtube.com/embed/{{ tp.video }}?start={{ tp.startTime }}&end={{ tp.endTime }}" target="_blank">Watch on YouTube</a>
+  </p>
+</li>
