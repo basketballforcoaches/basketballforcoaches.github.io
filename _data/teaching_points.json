@@ -552,15 +552,6 @@
         "teachingPoint": []
     },
     {
-        "videoId": "wvZAh9js_8c",
-        "title": "James Janssen - Skills and Drills",
-        "url": "https://www.youtube.com/watch?v=wvZAh9js_8c",
-        "uploadDate": "2025-05-29",
-        "concepts": [],
-        "teachingPoints": [],
-        "teachingPoint": []
-    },
-    {
         "videoId": "IhD--QCpWqU",
         "title": "Trans-Tasman Throwdown Coaching Clinic",
         "url": "https://www.youtube.com/watch?v=IhD--QCpWqU",
@@ -672,6 +663,169 @@
                 "duration": "22 seconds",
                 "video": "tqCEfMR6vMY",
                 "embed_url": "https://www.youtube.com/embed/tqCEfMR6vMY?start=667&end=689",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "a9K33VWVPQU",
+        "title": "Pistol Offense Volume 2: Pistol Elbow & Pistol Up",
+        "url": "https://www.youtube.com/watch?v=a9K33VWVPQU",
+        "uploadDate": "2021-08-02",
+        "concepts": [],
+        "teachingPoints": [],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "whTfWGzJvHU",
+        "title": "Read & React Offense: Zone Attack DVD Excerpt",
+        "url": "https://www.youtube.com/watch?v=whTfWGzJvHU",
+        "uploadDate": "2011-04-03",
+        "concepts": [
+            {
+                "name": "Motion Offense",
+                "definition": "Motion offense focused around pass, cut, replace.",
+                "ontology_uri": ""
+            },
+            {
+                "name": "Offense",
+                "definition": "Highest level offense",
+                "ontology_uri": ""
+            }
+        ],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-028",
+                "teachingPoint_name": "Read & React Layer 3: hook and look - drill explanation",
+                "teachingPoint_short_description": "Must set up post markers\r\n\r\ncut to key - hook and look for the ball.\r\nStay until next pass is caught.\r\nMove\r\n\r\nWhat level is this (in R&R thing?)",
+                "startTime": 2,
+                "endTime": 67,
+                "duration": "65 seconds",
+                "video": "whTfWGzJvHU",
+                "embed_url": "https://www.youtube.com/embed/whTfWGzJvHU?start=2&end=67",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-029",
+                "teachingPoint_name": "Read & React Layer 3: hook and look - drill explanation- drill (no defense)",
+                "teachingPoint_short_description": "Must set up post markers\r\n\r\ncut to key - hook and look for the ball.\r\nStay until next pass is caught.\r\nMove",
+                "startTime": 68,
+                "endTime": 82,
+                "duration": "14 seconds",
+                "video": "whTfWGzJvHU",
+                "embed_url": "https://www.youtube.com/embed/whTfWGzJvHU?start=68&end=82",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-030",
+                "teachingPoint_name": "hook and look cut - drill (with defense)",
+                "teachingPoint_short_description": "Must set up post markers\r\n\r\ncut to key - hook and look for the ball.\r\nStay until next pass is caught.\r\nMove",
+                "startTime": 83,
+                "endTime": 92,
+                "duration": "9 seconds",
+                "video": "whTfWGzJvHU",
+                "embed_url": "https://www.youtube.com/embed/whTfWGzJvHU?start=83&end=92",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-031",
+                "teachingPoint_name": "Read & React Layer 3: hook and look - demo",
+                "teachingPoint_short_description": "Must set up post markers\r\n\r\ncut to key - hook and look for the ball.\r\nStay until next pass is caught.\r\nMove",
+                "startTime": 143,
+                "endTime": 167,
+                "duration": "24 seconds",
+                "video": "whTfWGzJvHU",
+                "embed_url": "https://www.youtube.com/embed/whTfWGzJvHU?start=143&end=167",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-032",
+                "teachingPoint_name": "Read & React Layer 3: pin down and skip",
+                "teachingPoint_short_description": "-Offense  2 out -/ Defense 2 in short corners\r\nPin means pindown screen (a weekside screen) and skip means skip pass, although the clip doesn't display that.  it shows pass wing to top, top to short corner, to a cutter.\r\n\r\nthis is pin and skip:  https://www.youtube.com/watch?v=QHYE0RLcaMg",
+                "startTime": 168,
+                "endTime": 172,
+                "duration": "4 seconds",
+                "video": "whTfWGzJvHU",
+                "embed_url": "https://www.youtube.com/embed/whTfWGzJvHU?start=168&end=172",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "xjGzhdjMN8E",
+        "title": "Make Better Choices in a 2-on-1 Fast Break! - Basketball 2015 #64",
+        "url": "https://www.youtube.com/watch?v=xjGzhdjMN8E",
+        "uploadDate": "2015-08-03",
+        "concepts": [
+            {
+                "name": "Offense",
+                "definition": "Highest level offense",
+                "ontology_uri": ""
+            }
+        ],
+        "teachingPoints": [],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "M9Acu3IlURQ",
+        "title": "Fundamentals of a 2 on 1 Fast Break",
+        "url": "https://www.youtube.com/watch?v=M9Acu3IlURQ",
+        "uploadDate": "2022-06-03",
+        "concepts": [],
+        "teachingPoints": [],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "ANuV3dSSlF4",
+        "title": "Penetration Automatics - Middle Drive • Elbow Dive",
+        "url": "https://www.youtube.com/watch?v=ANuV3dSSlF4",
+        "uploadDate": "2025-06-11",
+        "concepts": [],
+        "teachingPoints": [],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "qaQKiZsLNYU",
+        "title": "Quick Fire Warm-Up Drills",
+        "url": "https://www.youtube.com/watch?v=qaQKiZsLNYU",
+        "uploadDate": "2013-06-24",
+        "concepts": [
+            {
+                "name": "skill_passing",
+                "definition": "",
+                "ontology_uri": ""
+            }
+        ],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-033",
+                "teachingPoint_name": "warm up - Star passing",
+                "teachingPoint_short_description": "Start passing warm up\r\n\r\nno dribble - good movement.\r\n    \r\nhttps://youtu.be/qaQKiZsLNYU?t=8\r\nhttps://youtu.be/qaQKiZsLNYU?t=74",
+                "startTime": 2,
+                "endTime": 74,
+                "duration": "72 seconds",
+                "video": "qaQKiZsLNYU",
+                "embed_url": "https://www.youtube.com/embed/qaQKiZsLNYU?start=2&end=74",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-034",
+                "teachingPoint_name": "warm up - pass and cut - lay up",
+                "teachingPoint_short_description": "circular pass cut layup drill.\r\nx dribbles to get to ring (2 dribbles)",
+                "startTime": 81,
+                "endTime": 225,
+                "duration": "144 seconds",
+                "video": "qaQKiZsLNYU",
+                "embed_url": "https://www.youtube.com/embed/qaQKiZsLNYU?start=81&end=225",
                 "keywords": [],
                 "educationalLevel": ""
             }
