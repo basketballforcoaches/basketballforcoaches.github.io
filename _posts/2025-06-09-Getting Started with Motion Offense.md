@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started with Motion Offense"
-date: 2025-06-09
+date: 2025-09-06
 categories: coaching basketball
 ---
 
