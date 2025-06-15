@@ -189,5 +189,120 @@
                 "plan": 2
             }
         ]
+    },
+    {
+        "id": 3,
+        "title": "U14 Boys - Plan B",
+        "date": "2025-06-16",
+        "duration_minutes": 60,
+        "notes": "U14 Boys - Plan B\r\nShorter session",
+        "segments": [
+            {
+                "id": 16,
+                "teaching_points": [],
+                "order": 1,
+                "time_range": "finishing in paint",
+                "title": "ball tap and finish in paint",
+                "notes": "options from state finalist finishing video",
+                "plan": 3
+            },
+            {
+                "id": 13,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-018",
+                        "teachingPoint_name": "5 out - pass/cut/replace (random)",
+                        "teachingPoint_short_description": "Rules:\r\n1) If you pass, you must cut – either to the basket or through to the weak side.\r\n 2) If a teammate cuts and you're next to the open space, you must replace to keep the spacing.\r\n\r\nThis is an important foundation for building on top of this system.",
+                        "startTime": 133,
+                        "endTime": 142,
+                        "duration": "9 seconds",
+                        "video": "7xAzANFC74c",
+                        "embed_url": "https://www.youtube.com/embed/7xAzANFC74c?start=133&end=142",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 2,
+                "time_range": "10 min",
+                "title": "shell drill",
+                "notes": "4 defense baseline\r\n4 offense around arch (corner/wing/corner/wing)\r\n\r\nNeed 5 passes start, then limit to 10 seconds",
+                "plan": 3
+            },
+            {
+                "id": 14,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-031",
+                        "teachingPoint_name": "Read & React Layer 3: hook and look - demo",
+                        "teachingPoint_short_description": "Must set up post markers\r\n\r\ncut to key - hook and look for the ball.\r\nStay until next pass is caught.\r\nMove",
+                        "startTime": 143,
+                        "endTime": 167,
+                        "duration": "24 seconds",
+                        "video": "whTfWGzJvHU",
+                        "embed_url": "https://www.youtube.com/embed/whTfWGzJvHU?start=143&end=167",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 3,
+                "time_range": "10 min",
+                "title": "shell drill (with hook and look)",
+                "notes": "Add another layer to shell drill with hook and look.\r\nWe're already doing this, but this formalises with clearer spots to stand and actions to move on.\r\n\r\n4 defense baseline\r\n4 offense around arch (corner/wing/corner/wing)\r\n\r\nNeed 5 passes start, then limit to 10 seconds\r\n1 pass must be a hook and look,\r\nhigh/low or short corner:\r\n- cut into key > stay until next completed pass is caught \r\n- then move back out to perim (or another spot)\r\n- do not stay inside key for more than 3 seconds",
+                "plan": 3
+            },
+            {
+                "id": 15,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-036",
+                        "teachingPoint_name": "Post move (drop step moses)",
+                        "teachingPoint_short_description": "4 kids.\r\n\r\nwing and low post - both sides.\r\n\r\nstart wing, shotfake then > pass into low post\r\nlow post receive (drop step/turn and shoot)\r\nrebound and kick out to opposite side to reset.",
+                        "startTime": 0,
+                        "endTime": 21,
+                        "duration": "21 seconds",
+                        "video": "ZR4x2moxMcA",
+                        "embed_url": "https://www.youtube.com/embed/ZR4x2moxMcA?start=0&end=21",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 4,
+                "time_range": "10 min",
+                "title": "Post Moves",
+                "notes": "Could add the hook and look.\r\nDefense is not allowed to look back (to show game play).\r\nOffense can shoot or pass to post move?",
+                "plan": 3
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "U12 Boys - Plan B",
+        "date": "2025-06-15",
+        "duration_minutes": 60,
+        "notes": "",
+        "segments": [
+            {
+                "id": 17,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-035",
+                        "teachingPoint_name": "break press when inbounding after score.",
+                        "teachingPoint_short_description": "1-2-2 press breaker.\r\n\r\nsimpler version of sideline",
+                        "startTime": 0,
+                        "endTime": 29,
+                        "duration": "29 seconds",
+                        "video": "nCWd5-vdM7E",
+                        "embed_url": "https://www.youtube.com/embed/nCWd5-vdM7E?start=0&end=29",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 3,
+                "time_range": "15 min",
+                "title": "press break inbounding",
+                "notes": "simplified view of sideline.",
+                "plan": 4
+            }
+        ]
     }
 ]
