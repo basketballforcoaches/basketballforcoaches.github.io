@@ -11,3 +11,15 @@
   box-shadow: none;
 }
 
+
+<!-- in _layouts/default.html or specific page -->
+<style>
+  ::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #999;
+    border-radius: 6px;
+  }
+</style>
