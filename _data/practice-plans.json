@@ -267,8 +267,30 @@
                     }
                 ],
                 "order": 4,
-                "time_range": "10 min",
-                "title": "Post Moves",
+                "time_range": "5 min",
+                "title": "Post Moves (drop step)",
+                "notes": "Could add the hook and look.\r\nDefense is not allowed to look back (to show game play).\r\nOffense can shoot or pass to post move?",
+                "plan": 3
+            },
+            {
+                "id": 18,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-037",
+                        "teachingPoint_name": "Post move (up and under - dominique)",
+                        "teachingPoint_short_description": "4 kids.\r\n\r\nwing and low post - both sides.\r\n\r\nstart wing, shotfake, side step > pass into low post\r\nlow post receive (pivot - either baseline or to foul line) > shot fake and score.\r\nIf you need to dribble (only 1 once between legs) - but try to avoid it)\r\n\r\nrebound and kick out to opposite side to reset.",
+                        "startTime": 22,
+                        "endTime": 43,
+                        "duration": "21 seconds",
+                        "video": "ZR4x2moxMcA",
+                        "embed_url": "https://www.youtube.com/embed/ZR4x2moxMcA?start=22&end=43",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 5,
+                "time_range": "5 min",
+                "title": "Post Moves (up and under)",
                 "notes": "Could add the hook and look.\r\nDefense is not allowed to look back (to show game play).\r\nOffense can shoot or pass to post move?",
                 "plan": 3
             }
