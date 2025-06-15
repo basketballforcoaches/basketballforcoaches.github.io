@@ -293,6 +293,28 @@
                 "title": "Post Moves (up and under)",
                 "notes": "Could add the hook and look.\r\nDefense is not allowed to look back (to show game play).\r\nOffense can shoot or pass to post move?",
                 "plan": 3
+            },
+            {
+                "id": 19,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-035",
+                        "teachingPoint_name": "break press when inbounding after score.",
+                        "teachingPoint_short_description": "1-2-2 press breaker.\r\n\r\nsimpler version of sideline",
+                        "startTime": 0,
+                        "endTime": 29,
+                        "duration": "29 seconds",
+                        "video": "nCWd5-vdM7E",
+                        "embed_url": "https://www.youtube.com/embed/nCWd5-vdM7E?start=0&end=29",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 6,
+                "time_range": "15 min",
+                "title": "press break inbounding",
+                "notes": "simplified press break inbound after score - (simplified version of sideline)",
+                "plan": 3
             }
         ]
     },
