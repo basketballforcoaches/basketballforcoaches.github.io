@@ -82,9 +82,70 @@
         "uploadDate": "2011-05-12",
         "concepts": [
             {
-                "name": "Motion Offense",
-                "definition": "Motion offense focused around pass, cut, replace.",
-                "ontology_uri": ""
+                "id": 1,
+                "name": "Offense",
+                "concept_type": "domain",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 14,
+                        "name": "hello",
+                        "concept_type": "skill",
+                        "parent": 1,
+                        "children": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Motion Offense",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": [
+                            {
+                                "id": 7,
+                                "name": "Cutting",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 6,
+                                "name": "Passing",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 10,
+                                "name": "Timing",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Press Break",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": [
+                            {
+                                "id": 8,
+                                "name": "Sealing",
+                                "concept_type": "skill",
+                                "parent": 4,
+                                "children": []
+                            },
+                            {
+                                "id": 9,
+                                "name": "Vision",
+                                "concept_type": "skill",
+                                "parent": 4,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             }
         ],
         "teachingPoints": [
@@ -567,14 +628,92 @@
         "uploadDate": "2024-06-02",
         "concepts": [
             {
-                "name": "Motion Offense",
-                "definition": "Motion offense focused around pass, cut, replace.",
-                "ontology_uri": ""
+                "id": 1,
+                "name": "Offense",
+                "concept_type": "domain",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 14,
+                        "name": "hello",
+                        "concept_type": "skill",
+                        "parent": 1,
+                        "children": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Motion Offense",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": [
+                            {
+                                "id": 7,
+                                "name": "Cutting",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 6,
+                                "name": "Passing",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 10,
+                                "name": "Timing",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Press Break",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": [
+                            {
+                                "id": 8,
+                                "name": "Sealing",
+                                "concept_type": "skill",
+                                "parent": 4,
+                                "children": []
+                            },
+                            {
+                                "id": 9,
+                                "name": "Vision",
+                                "concept_type": "skill",
+                                "parent": 4,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "name": "skill_cut",
-                "definition": "",
-                "ontology_uri": ""
+                "id": 4,
+                "name": "Press Break",
+                "concept_type": "system",
+                "parent": 1,
+                "children": [
+                    {
+                        "id": 8,
+                        "name": "Sealing",
+                        "concept_type": "skill",
+                        "parent": 4,
+                        "children": []
+                    },
+                    {
+                        "id": 9,
+                        "name": "Vision",
+                        "concept_type": "skill",
+                        "parent": 4,
+                        "children": []
+                    }
+                ]
             }
         ],
         "teachingPoints": [
@@ -624,9 +763,70 @@
         "uploadDate": "2020-05-02",
         "concepts": [
             {
-                "name": "Motion Offense",
-                "definition": "Motion offense focused around pass, cut, replace.",
-                "ontology_uri": ""
+                "id": 1,
+                "name": "Offense",
+                "concept_type": "domain",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 14,
+                        "name": "hello",
+                        "concept_type": "skill",
+                        "parent": 1,
+                        "children": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Motion Offense",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": [
+                            {
+                                "id": 7,
+                                "name": "Cutting",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 6,
+                                "name": "Passing",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 10,
+                                "name": "Timing",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Press Break",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": [
+                            {
+                                "id": 8,
+                                "name": "Sealing",
+                                "concept_type": "skill",
+                                "parent": 4,
+                                "children": []
+                            },
+                            {
+                                "id": 9,
+                                "name": "Vision",
+                                "concept_type": "skill",
+                                "parent": 4,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             }
         ],
         "teachingPoints": [
@@ -685,14 +885,77 @@
         "uploadDate": "2011-04-03",
         "concepts": [
             {
-                "name": "Motion Offense",
-                "definition": "Motion offense focused around pass, cut, replace.",
-                "ontology_uri": ""
+                "id": 1,
+                "name": "Offense",
+                "concept_type": "domain",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 14,
+                        "name": "hello",
+                        "concept_type": "skill",
+                        "parent": 1,
+                        "children": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Motion Offense",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": [
+                            {
+                                "id": 7,
+                                "name": "Cutting",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 6,
+                                "name": "Passing",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 10,
+                                "name": "Timing",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Press Break",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": [
+                            {
+                                "id": 8,
+                                "name": "Sealing",
+                                "concept_type": "skill",
+                                "parent": 4,
+                                "children": []
+                            },
+                            {
+                                "id": 9,
+                                "name": "Vision",
+                                "concept_type": "skill",
+                                "parent": 4,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "name": "Offense",
-                "definition": "Highest level offense",
-                "ontology_uri": ""
+                "id": 12,
+                "name": "Example",
+                "concept_type": "format",
+                "parent": null,
+                "children": []
             }
         ],
         "teachingPoints": [
@@ -766,9 +1029,11 @@
         "uploadDate": "2015-08-03",
         "concepts": [
             {
-                "name": "Offense",
-                "definition": "Highest level offense",
-                "ontology_uri": ""
+                "id": 12,
+                "name": "Example",
+                "concept_type": "format",
+                "parent": null,
+                "children": []
             }
         ],
         "teachingPoints": [],
@@ -799,9 +1064,19 @@
         "uploadDate": "2013-06-24",
         "concepts": [
             {
-                "name": "skill_passing",
-                "definition": "",
-                "ontology_uri": ""
+                "id": 2,
+                "name": "Defense",
+                "concept_type": "domain",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 5,
+                        "name": "Press Defense",
+                        "concept_type": "system",
+                        "parent": 2,
+                        "children": []
+                    }
+                ]
             }
         ],
         "teachingPoints": [
@@ -839,9 +1114,11 @@
         "uploadDate": "2016-04-05",
         "concepts": [
             {
-                "name": "press break",
-                "definition": "",
-                "ontology_uri": ""
+                "id": 14,
+                "name": "hello",
+                "concept_type": "skill",
+                "parent": 1,
+                "children": []
             }
         ],
         "teachingPoints": [
@@ -867,29 +1144,69 @@
         "uploadDate": "2016-04-05",
         "concepts": [
             {
-                "name": "skill_passing",
-                "definition": "",
-                "ontology_uri": ""
+                "id": 2,
+                "name": "Defense",
+                "concept_type": "domain",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 5,
+                        "name": "Press Defense",
+                        "concept_type": "system",
+                        "parent": 2,
+                        "children": []
+                    }
+                ]
             },
             {
-                "name": "drill",
-                "definition": "",
-                "ontology_uri": ""
+                "id": 13,
+                "name": "Drill Explanation",
+                "concept_type": "format",
+                "parent": null,
+                "children": []
             },
             {
-                "name": "example",
-                "definition": "",
-                "ontology_uri": ""
+                "id": 12,
+                "name": "Example",
+                "concept_type": "format",
+                "parent": null,
+                "children": []
             },
             {
-                "name": "Offense",
-                "definition": "Highest level offense",
-                "ontology_uri": ""
+                "id": 3,
+                "name": "Motion Offense",
+                "concept_type": "system",
+                "parent": 1,
+                "children": [
+                    {
+                        "id": 7,
+                        "name": "Cutting",
+                        "concept_type": "skill",
+                        "parent": 3,
+                        "children": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "Passing",
+                        "concept_type": "skill",
+                        "parent": 3,
+                        "children": []
+                    },
+                    {
+                        "id": 10,
+                        "name": "Timing",
+                        "concept_type": "skill",
+                        "parent": 3,
+                        "children": []
+                    }
+                ]
             },
             {
-                "name": "drill explanation",
-                "definition": "drill explanation",
-                "ontology_uri": ""
+                "id": 5,
+                "name": "Press Defense",
+                "concept_type": "system",
+                "parent": 2,
+                "children": []
             }
         ],
         "teachingPoints": [
@@ -921,6 +1238,240 @@
         "teachingPoint": []
     },
     {
+        "videoId": "r1TxAW5SA_g",
+        "title": "Casey Basketball Peter Lonergan Coaches Clinic",
+        "url": "https://www.youtube.com/watch?v=r1TxAW5SA_g",
+        "uploadDate": "2025-01-28",
+        "concepts": [
+            {
+                "id": 7,
+                "name": "Cutting",
+                "concept_type": "skill",
+                "parent": 3,
+                "children": []
+            }
+        ],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-038",
+                "teachingPoint_name": "dribble Take off ( chest over knee)",
+                "teachingPoint_short_description": "want to go for length, get as far as you can.\r\nChest over knee, toe to ring.",
+                "startTime": 525,
+                "endTime": 554,
+                "duration": "29 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=525&end=554",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-039",
+                "teachingPoint_name": "protect ball on dribble",
+                "teachingPoint_short_description": "protect hand on dribble",
+                "startTime": 583,
+                "endTime": 596,
+                "duration": "13 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=583&end=596",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-040",
+                "teachingPoint_name": "2 bounces - first at defense, then flare out",
+                "teachingPoint_short_description": "2 bounces - first at defense, then flare out",
+                "startTime": 597,
+                "endTime": 608,
+                "duration": "11 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=597&end=608",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-041",
+                "teachingPoint_name": "use the wedge in the funnel",
+                "teachingPoint_short_description": "https://youtu.be/r1TxAW5SA_g?t=607\r\nhttps://youtu.be/r1TxAW5SA_g?t=623",
+                "startTime": 609,
+                "endTime": 623,
+                "duration": "14 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=609&end=623",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-042",
+                "teachingPoint_name": "North south wedge drill - sequence -4 and 0",
+                "teachingPoint_short_description": "https://youtu.be/r1TxAW5SA_g?t=902\r\nhttps://youtu.be/r1TxAW5SA_g?t=925\r\n\r\nNorth south on offense (go direct)\r\neast west of defence (chip around)",
+                "startTime": 902,
+                "endTime": 925,
+                "duration": "23 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=902&end=925",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-043",
+                "teachingPoint_name": "North south wedge drill - sequence -4 and 4",
+                "teachingPoint_short_description": "on catch, must square up and shotfake\r\nhttps://youtu.be/r1TxAW5SA_g?t=1024",
+                "startTime": 1026,
+                "endTime": 1685,
+                "duration": "659 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=1026&end=1685",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-044",
+                "teachingPoint_name": "First movement with stance, balance and force",
+                "teachingPoint_short_description": "First movement with stance, balance and force (get it out of the stoppage) - get a clearance\r\nTolerate contact, play in stance, stay balanced and create some force",
+                "startTime": 1686,
+                "endTime": 2400,
+                "duration": "714 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=1686&end=2400",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-045",
+                "teachingPoint_name": "bully bumps layup (variation 1)",
+                "teachingPoint_short_description": "bully bumps, pick scorer.\r\nScorer runs out to 3 and squares hips.\r\nDefense closes out.\r\nThen play north south to basket\r\n\r\nAdd time and urgency",
+                "startTime": 2926,
+                "endTime": 3038,
+                "duration": "112 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=2926&end=3038",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-046",
+                "teachingPoint_name": "2 hard dribbles to get base",
+                "teachingPoint_short_description": "2 hard dribbles to get base",
+                "startTime": 3840,
+                "endTime": 3867,
+                "duration": "27 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=3840&end=3867",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-047",
+                "teachingPoint_name": "2v2 with wing catch",
+                "teachingPoint_short_description": "everything is off 2 bounces.\r\nmust have wing catch\r\none side at a time.",
+                "startTime": 3965,
+                "endTime": 4004,
+                "duration": "39 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=3965&end=4004",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-048",
+                "teachingPoint_name": "cross over vs 2 hard dribbles",
+                "teachingPoint_short_description": "30% of cross overs at every level of the game are superflous.\r\n\r\ncatch it, rip to hard dribble and move it on.  North south",
+                "startTime": 4137,
+                "endTime": 4160,
+                "duration": "23 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=4137&end=4160",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-049",
+                "teachingPoint_name": "birds in a box into play to basket",
+                "teachingPoint_short_description": "just cause you can dribble hand off, doesn't mean you should dribble hand off.\r\nbrids in a box,\r\nThen 4 out..\r\n2 dribbles into the paint.\r\nchange, chaos, \r\nCoach the behaviour and the decision, not the execution.\r\n\r\nDon't single them out.. flight path coaching (say it on the way past).",
+                "startTime": 4293,
+                "endTime": 4909,
+                "duration": "616 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=4293&end=4909",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-050",
+                "teachingPoint_name": "birds in a box into play to basket v2",
+                "teachingPoint_short_description": "https://youtu.be/r1TxAW5SA_g?t=5143\r\nhttps://youtu.be/r1TxAW5SA_g?t=5255",
+                "startTime": 5143,
+                "endTime": 5255,
+                "duration": "112 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5143&end=5255",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-051",
+                "teachingPoint_name": "beat the trap",
+                "teachingPoint_short_description": "2v1 and play out of the advantage",
+                "startTime": 5186,
+                "endTime": 5255,
+                "duration": "69 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5186&end=5255",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-052",
+                "teachingPoint_name": "avoid 1 shallow dribble",
+                "teachingPoint_short_description": "avoid 1 shallow dribble\r\nGet to 2 hard dribbles in the wedge (top) and play out of that.",
+                "startTime": 5261,
+                "endTime": 5321,
+                "duration": "60 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5261&end=5321",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-053",
+                "teachingPoint_name": "coaching wisdom - pick what is important",
+                "teachingPoint_short_description": "just pick the most important thing",
+                "startTime": 5408,
+                "endTime": 5463,
+                "duration": "55 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5408&end=5463",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-054",
+                "teachingPoint_name": "4v4 shell variation (from centre)",
+                "teachingPoint_short_description": "Google Mike Dunlap cutthroat drill \r\nhttps://youtu.be/r1TxAW5SA_g?t=5500\r\nhttps://youtu.be/r1TxAW5SA_g?t=5659\r\n\r\nGoogle Mike Dunlap cutthroat drill",
+                "startTime": 5500,
+                "endTime": 5659,
+                "duration": "159 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5500&end=5659",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-055",
+                "teachingPoint_name": "4v4 shell variation (from centre) - with Trap",
+                "teachingPoint_short_description": "4v4 shell variation (from centre) - with Trap",
+                "startTime": 5746,
+                "endTime": 5857,
+                "duration": "111 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5746&end=5857",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
+        "teachingPoint": []
+    },
+    {
         "videoId": "gzR7vZp2dzc",
         "title": "Mike Dunlap: Transition Offense - The First 6 Seconds",
         "url": "https://www.youtube.com/watch?v=gzR7vZp2dzc",
@@ -931,9 +1482,9 @@
     },
     {
         "videoId": "LlCA2RVQV4M",
-        "title": "",
+        "title": "shell drill 5 phase by Basketball Coach Brett Brown",
         "url": "https://www.youtube.com/watch?v=LlCA2RVQV4M",
-        "uploadDate": null,
+        "uploadDate": "2014-06-29",
         "concepts": [],
         "teachingPoints": [],
         "teachingPoint": []
@@ -945,24 +1496,54 @@
         "uploadDate": "2024-09-10",
         "concepts": [
             {
-                "name": "drill",
-                "definition": "",
-                "ontology_uri": ""
+                "id": 13,
+                "name": "Drill Explanation",
+                "concept_type": "format",
+                "parent": null,
+                "children": []
             },
             {
-                "name": "example",
-                "definition": "",
-                "ontology_uri": ""
+                "id": 7,
+                "name": "Cutting",
+                "concept_type": "skill",
+                "parent": 3,
+                "children": []
             },
             {
-                "name": "defense",
-                "definition": "",
-                "ontology_uri": ""
+                "id": 3,
+                "name": "Motion Offense",
+                "concept_type": "system",
+                "parent": 1,
+                "children": [
+                    {
+                        "id": 7,
+                        "name": "Cutting",
+                        "concept_type": "skill",
+                        "parent": 3,
+                        "children": []
+                    },
+                    {
+                        "id": 6,
+                        "name": "Passing",
+                        "concept_type": "skill",
+                        "parent": 3,
+                        "children": []
+                    },
+                    {
+                        "id": 10,
+                        "name": "Timing",
+                        "concept_type": "skill",
+                        "parent": 3,
+                        "children": []
+                    }
+                ]
             },
             {
-                "name": "drill explanation",
-                "definition": "drill explanation",
-                "ontology_uri": ""
+                "id": 5,
+                "name": "Press Defense",
+                "concept_type": "system",
+                "parent": 2,
+                "children": []
             }
         ],
         "teachingPoints": [
