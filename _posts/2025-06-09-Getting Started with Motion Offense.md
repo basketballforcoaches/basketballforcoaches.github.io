@@ -39,6 +39,6 @@ When a defender steps up with one foot over the three-point line, the ball-handl
 🎥 {% include teaching-point-by-id.html id="TP-019" description="Readline cut" %}
 
 If two defenders collapse into the paint, teach the *opposite 45 cut* — which creates space by pulling help defense away.  
-🎥 {% include teaching-point-by-id.html id="TP-030" description="5 out - pass/cut/replace (with defence)" %}
+🎥 {% include teaching-point-by-id.html id="TP-010" description="45 cut " %}
 
 Other reads like *drive → kick out → relocate → shot*, *back cuts from the corner*, and *base cuts from the high post* against zones should be layered in gradually as game-like options.

@@ -17,7 +17,7 @@ By isolating these examples, coaches can:
 
 ## 📚 Browse by Topic
 - [📘 Basketball Concepts](/basketball-concepts/)
-- [🎯 Teaching Points](/teaching-points.html)
+- [🎯 Teaching Points](/teaching-points/)
 - [📝 Practice Plans](/practice/)
-- [📰 Blog](/blog.html)
+- [📰 Blog](/blog/)
 
