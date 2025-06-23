@@ -4,17 +4,21 @@
   <strong>{{ tp.teachingPoint_name }}</strong><br />
   <em>{{ include.description }}</em><br />
 
-  <iframe 
-    width="420" 
-    height="236" 
-    src="https://www.youtube.com/embed/{{ tp.video }}?start={{ tp.startTime }}&end={{ tp.endTime }}" 
-    title="{{ tp.teachingPoint_name }}" 
-    frameborder="0" 
-    allowfullscreen>
-  </iframe>
+  <div class="ratio ratio-16x9" style="max-width: 960px; margin-bottom: 0.5em;">
+    <iframe 
+      id="tp-{{ tp.teachingPoint_id }}"
+      src="https://www.youtube.com/embed/{{ tp.video }}?start={{ tp.startTime }}&end={{ tp.endTime }}" 
+      title="{{ tp.teachingPoint_name }}"
+      allowfullscreen 
+      frameborder="0"
+      style="width: 100%; height: 100%;">
+    </iframe>
+  </div>
 
-  <p>
+  <p style="font-size: 0.9em;">
     ⏱️ {{ tp.duration }}<br />
-    <a href="https://www.youtube.com/embed/{{ tp.video }}?start={{ tp.startTime }}&end={{ tp.endTime }}" target="_blank">Watch on YouTube</a>
+    <a href="https://www.youtube.com/embed/{{ tp.video }}?start={{ tp.startTime }}&end={{ tp.endTime }}" target="_blank">▶️ Watch on YouTube</a>
+    &nbsp;|&nbsp;
+    ⏪ <a href="#" onclick="event.preventDefault(); resetVideo('tp-{{ tp.teachingPoint_id }}');">Reset Video</a>
   </p>
 </li>

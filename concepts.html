@@ -9,8 +9,10 @@ permalink: /basketball-concepts/
 <label for="concept-filter">Filter by Concept:</label>
 <select id="concept-filter" class="form-select w-auto d-inline-block mb-4">
   <option value="all">All</option>
-  {% for concept in site.data.concepts %}
-    <option value="{{ concept.name }}">{{ concept.name }}</option>
+  {% assign filtered_concepts = site.data.concepts | where_exp: "c", "c.teachingPoints.size > 0" %}
+  {% assign concept_names = filtered_concepts | map: "name" | uniq %}
+  {% for name in concept_names %}
+    <option value="{{ name | strip }}">{{ name | strip }}</option>
   {% endfor %}
 </select>
 
@@ -28,53 +30,55 @@ permalink: /basketball-concepts/
     }
   }
 
-  function renderConcepts(filteredConcepts) {
+  function renderConcepts(concepts) {
     container.innerHTML = "";
 
-    filteredConcepts.forEach(concept => {
-      const conceptSection = document.createElement("div");
-      conceptSection.className = "mb-5";
-      conceptSection.innerHTML = `<h2 class="mb-4">${concept.name}</h2>`;
+    concepts
+      .filter(concept => concept.teachingPoints && concept.teachingPoints.length > 0)
+      .forEach(concept => {
+        const conceptSection = document.createElement("div");
+        conceptSection.className = "mb-5";
+        conceptSection.innerHTML = `<h2 class="mb-4">${concept.name}</h2>`;
 
-      concept.teachingPoints.forEach(tp => {
-        const iframeId = `video-${tp.video}-${tp.startTime}-${tp.endTime}`;
-        const card = document.createElement("div");
-        card.className = "row mb-5 border rounded p-3";
-        card.innerHTML = `
-          <div class="col-md-6">
-            <div class="ratio ratio-16x9">
-              <iframe
-                id="${iframeId}"
-                src="${tp.embed_url}"
-                title="${tp.teachingPoint_name}"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen>
-              </iframe>
+        concept.teachingPoints.forEach(tp => {
+          const iframeId = `video-${tp.video}-${tp.startTime}-${tp.endTime}`;
+          const card = document.createElement("div");
+          card.className = "row mb-5 border rounded p-3";
+          card.innerHTML = `
+            <div class="col-md-6">
+              <div class="ratio ratio-16x9">
+                <iframe
+                  id="${iframeId}"
+                  src="${tp.embed_url}"
+                  title="${tp.teachingPoint_name}"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen>
+                </iframe>
+              </div>
             </div>
-          </div>
-          <div class="col-md-6">
-            <h5>${tp.teachingPoint_id} – ${tp.teachingPoint_name}</h5>
-            <p>${tp.teachingPoint_short_description}</p>
-            <p><strong>Duration:</strong> ${tp.duration}</p>
-            <button class="btn btn-outline-secondary btn-sm" onclick="resetVideo('${iframeId}')">🔁 Reset Video</button>
-          </div>
-        `;
-        conceptSection.appendChild(card);
-      });
+            <div class="col-md-6">
+              <h5>${tp.teachingPoint_id} – ${tp.teachingPoint_name}</h5>
+              <p>${tp.teachingPoint_short_description}</p>
+              <p><strong>Duration:</strong> ${tp.duration}</p>
+              <button class="btn btn-outline-secondary btn-sm" onclick="resetVideo('${iframeId}')">🔁 Reset Video</button>
+            </div>
+          `;
+          conceptSection.appendChild(card);
+        });
 
-      container.appendChild(conceptSection);
-    });
+        container.appendChild(conceptSection);
+      });
   }
 
   document.addEventListener("DOMContentLoaded", () => {
     renderConcepts(allConcepts);
 
     dropdown.addEventListener("change", () => {
-      const selected = dropdown.value;
+      const selected = dropdown.value.trim().toLowerCase();
       const filtered = selected === "all"
         ? allConcepts
         : allConcepts.filter(concept =>
-            concept.name.trim().toLowerCase() === selected.trim().toLowerCase()
+            concept.name && concept.name.trim().toLowerCase() === selected
           );
       renderConcepts(filtered);
     });

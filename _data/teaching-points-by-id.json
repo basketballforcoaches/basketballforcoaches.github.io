@@ -568,5 +568,15 @@
         "duration": "13 seconds",
         "video": "9uXjyH54toM",
         "visible": true
+    },
+    "TP-066": {
+        "teachingPoint_id": "TP-066",
+        "teachingPoint_name": "motion offense - triangles",
+        "teachingPoint_short_description": "teach juniors the basic pass cut replace movement using a simple triangle",
+        "startTime": 1325,
+        "endTime": 1433,
+        "duration": "108 seconds",
+        "video": "TWl5b3HTlds",
+        "visible": true
     }
 }

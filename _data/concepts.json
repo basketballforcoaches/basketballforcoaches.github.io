@@ -5,38 +5,14 @@
         "ontology_uri": "",
         "teachingPoints": [
             {
-                "teachingPoint_id": "TP-004",
-                "teachingPoint_name": "Pass and Cut Drill",
-                "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
-                "startTime": 3,
-                "endTime": 25,
-                "duration": "22 seconds",
-                "video": "DGK4f0GzAC4",
-                "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-010",
-                "teachingPoint_name": "Dive (5 out trigger to cut)",
-                "teachingPoint_short_description": "A nice trigger to dive cut on ball penetration.\r\n\r\nhttps://youtu.be/lICvxZiWi44?t=4039",
-                "startTime": 4003,
-                "endTime": 4037,
-                "duration": "34 seconds",
-                "video": "lICvxZiWi44",
-                "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=4003&end=4037",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-018",
-                "teachingPoint_name": "5 out - pass/cut/replace (random)",
-                "teachingPoint_short_description": "Rules:\r\n1) If you pass, you must cut – either to the basket or through to the weak side.\r\n 2) If a teammate cuts and you're next to the open space, you must replace to keep the spacing.\r\n\r\nThis is an important foundation for building on top of this system.",
-                "startTime": 133,
-                "endTime": 142,
-                "duration": "9 seconds",
-                "video": "7xAzANFC74c",
-                "embed_url": "https://www.youtube.com/embed/7xAzANFC74c?start=133&end=142",
+                "teachingPoint_id": "TP-003",
+                "teachingPoint_name": "Arrows - Full court press",
+                "teachingPoint_short_description": "Arrows - Full court press \r\ntextbook example of trap in corner",
+                "startTime": 799,
+                "endTime": 812,
+                "duration": "13 seconds",
+                "video": "kSJnL3gADqQ",
+                "embed_url": "https://www.youtube.com/embed/kSJnL3gADqQ?start=799&end=812",
                 "keywords": [],
                 "educationalLevel": ""
             }
@@ -56,18 +32,6 @@
                 "duration": "26 seconds",
                 "video": "lICvxZiWi44",
                 "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=2834&end=2860",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-009",
-                "teachingPoint_name": "Back cut",
-                "teachingPoint_short_description": "nice back cut",
-                "startTime": 3085,
-                "endTime": 3092,
-                "duration": "7 seconds",
-                "video": "lICvxZiWi44",
-                "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=3085&end=3092",
                 "keywords": [],
                 "educationalLevel": ""
             },
@@ -214,35 +178,40 @@
                 "embed_url": "https://www.youtube.com/embed/whTfWGzJvHU?start=2&end=67",
                 "keywords": [],
                 "educationalLevel": ""
-            }
-        ]
-    },
-    {
-        "name": "Drill",
-        "definition": "",
-        "ontology_uri": "",
-        "teachingPoints": [
+            },
             {
-                "teachingPoint_id": "TP-011",
-                "teachingPoint_name": "Offball - down screen (5 out)",
-                "teachingPoint_short_description": "After pass - set down screen for wing/corner.\r\n\r\ncommunication between screener and team mate.\r\nhead hunt - duckshot principle to find the screen (screen the head) - nice easy way to think of it.\r\n\r\nNice 4 out sequence to send the ball, offball and roll back through middle",
-                "startTime": 4126,
-                "endTime": 4205,
-                "duration": "79 seconds",
-                "video": "lICvxZiWi44",
-                "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=4126&end=4205",
+                "teachingPoint_id": "TP-004",
+                "teachingPoint_name": "Pass and Cut Drill",
+                "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
+                "startTime": 3,
+                "endTime": 25,
+                "duration": "22 seconds",
+                "video": "DGK4f0GzAC4",
+                "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
                 "keywords": [],
                 "educationalLevel": ""
             },
             {
-                "teachingPoint_id": "TP-023",
-                "teachingPoint_name": "Pistol Action",
-                "teachingPoint_short_description": "A Pistol action is a dribble hand-off immediately followed by a ball screen. \r\n\r\nThis sequence forces the defense to navigate two consecutive actions back-to-back.\r\n\r\nThe goal is to disrupt defensive coverage, creating opportunities through:\r\n- Switches (ie defenders switch - hard to do effectively, giving advantantage to ball handler)\r\n- Dribble penetration (or PnR)\r\n- Drive-and-kick options\r\nMain video has a number of different outcomes.",
-                "startTime": 108,
-                "endTime": 114,
-                "duration": "6 seconds",
-                "video": "tqCEfMR6vMY",
-                "embed_url": "https://www.youtube.com/embed/tqCEfMR6vMY?start=108&end=114",
+                "teachingPoint_id": "TP-001",
+                "teachingPoint_name": "shorts",
+                "teachingPoint_short_description": "This is shorts into pistols (with a pick and roll action).  The short action is off a SLOB ball.\r\n\r\nNote - pistols is outlined in a different video.",
+                "startTime": 2477,
+                "endTime": 2487,
+                "duration": "10 seconds",
+                "video": "wz8sXiNjoSs",
+                "embed_url": "https://www.youtube.com/embed/wz8sXiNjoSs?start=2477&end=2487",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-006",
+                "teachingPoint_name": "passing fundamentals",
+                "teachingPoint_short_description": "drill for basic passing sequence for capable kids who think the know it all.",
+                "startTime": 621,
+                "endTime": 955,
+                "duration": "334 seconds",
+                "video": "5wv2YRZ-D0U",
+                "embed_url": "https://www.youtube.com/embed/5wv2YRZ-D0U?start=621&end=955",
                 "keywords": [],
                 "educationalLevel": ""
             }
@@ -255,25 +224,67 @@
         "teachingPoints": []
     },
     {
-        "name": "Example",
-        "definition": "",
-        "ontology_uri": "",
-        "teachingPoints": []
-    },
-    {
         "name": "Cutting",
         "definition": "",
         "ontology_uri": "",
         "teachingPoints": [
             {
-                "teachingPoint_id": "TP-003",
-                "teachingPoint_name": "Arrows - Full court press",
-                "teachingPoint_short_description": "Arrows - Full court press \r\ntextbook example of trap in corner",
-                "startTime": 799,
-                "endTime": 812,
-                "duration": "13 seconds",
-                "video": "kSJnL3gADqQ",
-                "embed_url": "https://www.youtube.com/embed/kSJnL3gADqQ?start=799&end=812",
+                "teachingPoint_id": "TP-004",
+                "teachingPoint_name": "Pass and Cut Drill",
+                "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
+                "startTime": 3,
+                "endTime": 25,
+                "duration": "22 seconds",
+                "video": "DGK4f0GzAC4",
+                "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-010",
+                "teachingPoint_name": "Dive (5 out trigger to cut)",
+                "teachingPoint_short_description": "A nice trigger to dive cut on ball penetration.\r\n\r\nhttps://youtu.be/lICvxZiWi44?t=4039",
+                "startTime": 4003,
+                "endTime": 4037,
+                "duration": "34 seconds",
+                "video": "lICvxZiWi44",
+                "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=4003&end=4037",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-018",
+                "teachingPoint_name": "5 out - pass/cut/replace (random)",
+                "teachingPoint_short_description": "Rules:\r\n1) If you pass, you must cut – either to the basket or through to the weak side.\r\n 2) If a teammate cuts and you're next to the open space, you must replace to keep the spacing.\r\n\r\nThis is an important foundation for building on top of this system.",
+                "startTime": 133,
+                "endTime": 142,
+                "duration": "9 seconds",
+                "video": "7xAzANFC74c",
+                "embed_url": "https://www.youtube.com/embed/7xAzANFC74c?start=133&end=142",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-006",
+                "teachingPoint_name": "passing fundamentals",
+                "teachingPoint_short_description": "drill for basic passing sequence for capable kids who think the know it all.",
+                "startTime": 621,
+                "endTime": 955,
+                "duration": "334 seconds",
+                "video": "5wv2YRZ-D0U",
+                "embed_url": "https://www.youtube.com/embed/5wv2YRZ-D0U?start=621&end=955",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-022",
+                "teachingPoint_name": "Cutting when you are not going to get the ball",
+                "teachingPoint_short_description": "you should cut, even when you are not going to get the ball, your cut draws defense to the paint, which leaves your team mates open.",
+                "startTime": 24,
+                "endTime": 32,
+                "duration": "8 seconds",
+                "video": "mi1rKro2AiA",
+                "embed_url": "https://www.youtube.com/embed/mi1rKro2AiA?start=24&end=32",
                 "keywords": [],
                 "educationalLevel": ""
             }
@@ -283,7 +294,20 @@
         "name": "General Skills",
         "definition": "General Skills",
         "ontology_uri": "",
-        "teachingPoints": []
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-058",
+                "teachingPoint_name": "3v3 - drill hand off to basket (DHO)",
+                "teachingPoint_short_description": "create chaos and confusion for defence with this 3v3 game\r\n\r\nWhen he said go, if you can get out wide, we want to advance pass it (not just watch in confines of drill)",
+                "startTime": 1317,
+                "endTime": 1342,
+                "duration": "25 seconds",
+                "video": "9uXjyH54toM",
+                "embed_url": "https://www.youtube.com/embed/9uXjyH54toM?start=1317&end=1342",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ]
     },
     {
         "name": "Passing",
@@ -291,14 +315,26 @@
         "ontology_uri": "",
         "teachingPoints": [
             {
-                "teachingPoint_id": "TP-003",
-                "teachingPoint_name": "Arrows - Full court press",
-                "teachingPoint_short_description": "Arrows - Full court press \r\ntextbook example of trap in corner",
-                "startTime": 799,
-                "endTime": 812,
-                "duration": "13 seconds",
-                "video": "kSJnL3gADqQ",
-                "embed_url": "https://www.youtube.com/embed/kSJnL3gADqQ?start=799&end=812",
+                "teachingPoint_id": "TP-005",
+                "teachingPoint_name": "lay up, in bound and trap",
+                "teachingPoint_short_description": "lay ups and in bounding. (10 makes - can adjust layup style) limit balls.\r\nGreat teaching points for Junior boys.\r\n+ adapted to add defensive trap on top of inbound ball (teaching how to hunt) - \r\n\r\n# 3 traps to change trappers.\r\n# 10 makes before changing up lay-up.",
+                "startTime": 1187,
+                "endTime": 1234,
+                "duration": "47 seconds",
+                "video": "5wv2YRZ-D0U",
+                "embed_url": "https://www.youtube.com/embed/5wv2YRZ-D0U?start=1187&end=1234",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-022",
+                "teachingPoint_name": "Cutting when you are not going to get the ball",
+                "teachingPoint_short_description": "you should cut, even when you are not going to get the ball, your cut draws defense to the paint, which leaves your team mates open.",
+                "startTime": 24,
+                "endTime": 32,
+                "duration": "8 seconds",
+                "video": "mi1rKro2AiA",
+                "embed_url": "https://www.youtube.com/embed/mi1rKro2AiA?start=24&end=32",
                 "keywords": [],
                 "educationalLevel": ""
             }
@@ -322,6 +358,12 @@
                 "educationalLevel": ""
             }
         ]
+    },
+    {
+        "name": "Shooting and Finishing",
+        "definition": "",
+        "ontology_uri": "",
+        "teachingPoints": []
     },
     {
         "name": "Timing",
@@ -385,18 +427,6 @@
         "ontology_uri": "",
         "teachingPoints": [
             {
-                "teachingPoint_id": "TP-004",
-                "teachingPoint_name": "Pass and Cut Drill",
-                "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
-                "startTime": 3,
-                "endTime": 25,
-                "duration": "22 seconds",
-                "video": "DGK4f0GzAC4",
-                "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
                 "teachingPoint_id": "TP-010",
                 "teachingPoint_name": "Dive (5 out trigger to cut)",
                 "teachingPoint_short_description": "A nice trigger to dive cut on ball penetration.\r\n\r\nhttps://youtu.be/lICvxZiWi44?t=4039",
@@ -419,23 +449,16 @@
                 "embed_url": "https://www.youtube.com/embed/7xAzANFC74c?start=133&end=142",
                 "keywords": [],
                 "educationalLevel": ""
-            }
-        ]
-    },
-    {
-        "name": "Press Break",
-        "definition": "",
-        "ontology_uri": "",
-        "teachingPoints": [
+            },
             {
-                "teachingPoint_id": "TP-004",
-                "teachingPoint_name": "Pass and Cut Drill",
-                "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
-                "startTime": 3,
-                "endTime": 25,
-                "duration": "22 seconds",
-                "video": "DGK4f0GzAC4",
-                "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
+                "teachingPoint_id": "TP-023",
+                "teachingPoint_name": "Pistol Action",
+                "teachingPoint_short_description": "A Pistol action is a dribble hand-off immediately followed by a ball screen. \r\n\r\nThis sequence forces the defense to navigate two consecutive actions back-to-back.\r\n\r\nThe goal is to disrupt defensive coverage, creating opportunities through:\r\n- Switches (ie defenders switch - hard to do effectively, giving advantantage to ball handler)\r\n- Dribble penetration (or PnR)\r\n- Drive-and-kick options\r\nMain video has a number of different outcomes.",
+                "startTime": 108,
+                "endTime": 114,
+                "duration": "6 seconds",
+                "video": "tqCEfMR6vMY",
+                "embed_url": "https://www.youtube.com/embed/tqCEfMR6vMY?start=108&end=114",
                 "keywords": [],
                 "educationalLevel": ""
             },
@@ -452,38 +475,33 @@
                 "educationalLevel": ""
             },
             {
-                "teachingPoint_id": "TP-010",
-                "teachingPoint_name": "Dive (5 out trigger to cut)",
-                "teachingPoint_short_description": "A nice trigger to dive cut on ball penetration.\r\n\r\nhttps://youtu.be/lICvxZiWi44?t=4039",
-                "startTime": 4003,
-                "endTime": 4037,
-                "duration": "34 seconds",
-                "video": "lICvxZiWi44",
-                "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=4003&end=4037",
+                "teachingPoint_id": "TP-001",
+                "teachingPoint_name": "shorts",
+                "teachingPoint_short_description": "This is shorts into pistols (with a pick and roll action).  The short action is off a SLOB ball.\r\n\r\nNote - pistols is outlined in a different video.",
+                "startTime": 2477,
+                "endTime": 2487,
+                "duration": "10 seconds",
+                "video": "wz8sXiNjoSs",
+                "embed_url": "https://www.youtube.com/embed/wz8sXiNjoSs?start=2477&end=2487",
                 "keywords": [],
                 "educationalLevel": ""
-            },
+            }
+        ]
+    },
+    {
+        "name": "Press Break",
+        "definition": "",
+        "ontology_uri": "",
+        "teachingPoints": [
             {
-                "teachingPoint_id": "TP-018",
-                "teachingPoint_name": "5 out - pass/cut/replace (random)",
-                "teachingPoint_short_description": "Rules:\r\n1) If you pass, you must cut – either to the basket or through to the weak side.\r\n 2) If a teammate cuts and you're next to the open space, you must replace to keep the spacing.\r\n\r\nThis is an important foundation for building on top of this system.",
-                "startTime": 133,
-                "endTime": 142,
-                "duration": "9 seconds",
-                "video": "7xAzANFC74c",
-                "embed_url": "https://www.youtube.com/embed/7xAzANFC74c?start=133&end=142",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-013",
-                "teachingPoint_name": "pass - cut - recieve - score (motion offense)",
-                "teachingPoint_short_description": "nice cut/pass/finish\r\n\r\npass - cut - receive - score\r\n\r\nreceive - spot - bounce - assist",
-                "startTime": 4312,
-                "endTime": 4327,
-                "duration": "15 seconds",
-                "video": "lICvxZiWi44",
-                "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=4312&end=4327",
+                "teachingPoint_id": "TP-035",
+                "teachingPoint_name": "break press when inbounding after score.",
+                "teachingPoint_short_description": "1-2-2 press breaker.\r\n\r\nsimpler version of sideline",
+                "startTime": 0,
+                "endTime": 29,
+                "duration": "29 seconds",
+                "video": "nCWd5-vdM7E",
+                "embed_url": "https://www.youtube.com/embed/nCWd5-vdM7E?start=0&end=29",
                 "keywords": [],
                 "educationalLevel": ""
             }
@@ -515,42 +533,6 @@
                 "duration": "13 seconds",
                 "video": "lICvxZiWi44",
                 "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=3043&end=3056",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-009",
-                "teachingPoint_name": "Back cut",
-                "teachingPoint_short_description": "nice back cut",
-                "startTime": 3085,
-                "endTime": 3092,
-                "duration": "7 seconds",
-                "video": "lICvxZiWi44",
-                "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=3085&end=3092",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-010",
-                "teachingPoint_name": "Dive (5 out trigger to cut)",
-                "teachingPoint_short_description": "A nice trigger to dive cut on ball penetration.\r\n\r\nhttps://youtu.be/lICvxZiWi44?t=4039",
-                "startTime": 4003,
-                "endTime": 4037,
-                "duration": "34 seconds",
-                "video": "lICvxZiWi44",
-                "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=4003&end=4037",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-001",
-                "teachingPoint_name": "shorts",
-                "teachingPoint_short_description": "pistols is outlined in a different video.  This is shorts into pistols, but the short action is off a SLOB ball.",
-                "startTime": 2477,
-                "endTime": 2487,
-                "duration": "10 seconds",
-                "video": "wz8sXiNjoSs",
-                "embed_url": "https://www.youtube.com/embed/wz8sXiNjoSs?start=2477&end=2487",
                 "keywords": [],
                 "educationalLevel": ""
             }

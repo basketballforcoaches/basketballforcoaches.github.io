@@ -7,21 +7,17 @@ permalink: /
 
 # 🏀 *{{ page.title }}*
 
-This site contains curated video snippets along with descriptions and key teaching points.  
+This site contains curated video snippets along with descriptions and itemised key teaching points.  
 By isolating these examples, coaches can:
-
 - Break down key concepts with real-game footage.
 - Target explicit teaching moments for deeper understanding.
 - Use this as a reference to refine drills or design your own.
 
-🎯 *Use this page as a tool to sharpen your coaching craft and build intentional practice plans.*
+🎯 *Use this site as a tool to sharpen your coaching craft and build intentional practice plans.*
 
-## Browse by Topic
-* [Basket Ball Concepts]({{ site.baseurl }}/practice/)
-* [Training Plans]({{ site.baseurl }}/practice/)
+## 📚 Browse by Topic
+- [📘 Basketball Concepts](/basketball-concepts/)
+- [🎯 Teaching Points](/teaching-points.html)
+- [📝 Practice Plans](/practice/)
+- [📰 Blog](/blog.html)
 
-
-| Offense | Defense |
-| ----------- | ----------- |
-| Shorts | Shell |
-| Pistols | Arrow Press | 
