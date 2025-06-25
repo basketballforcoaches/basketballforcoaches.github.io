@@ -62,8 +62,158 @@
         "title": "State Performance Program - Shooting",
         "url": "https://www.youtube.com/watch?v=8AC1olVk_g4&t=112s",
         "uploadDate": "2025-01-03",
-        "concepts": [],
-        "teachingPoints": [],
+        "concepts": [
+            {
+                "id": 1,
+                "name": "Offense",
+                "concept_type": "domain",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 16,
+                        "name": "Shooting and Finishing",
+                        "concept_type": "skill",
+                        "parent": 1,
+                        "children": []
+                    },
+                    {
+                        "id": 14,
+                        "name": "hello",
+                        "concept_type": "skill",
+                        "parent": 1,
+                        "children": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Motion Offense",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": [
+                            {
+                                "id": 7,
+                                "name": "Cutting",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 10,
+                                "name": "Timing",
+                                "concept_type": "skill",
+                                "parent": 3,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Press Break",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": [
+                            {
+                                "id": 8,
+                                "name": "Sealing",
+                                "concept_type": "skill",
+                                "parent": 4,
+                                "children": []
+                            },
+                            {
+                                "id": 9,
+                                "name": "Vision",
+                                "concept_type": "skill",
+                                "parent": 4,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "name": "General Skills",
+                "concept_type": "skill",
+                "parent": null,
+                "children": [
+                    {
+                        "id": 17,
+                        "name": "Passing",
+                        "concept_type": "skill",
+                        "parent": 15,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "name": "Shooting and Finishing",
+                "concept_type": "skill",
+                "parent": 1,
+                "children": []
+            }
+        ],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-061",
+                "teachingPoint_name": "partnered shooting  - 1 bounce jump shot",
+                "teachingPoint_short_description": "partnered shooting drill\r\n1 bounce, step around jump shot",
+                "startTime": 253,
+                "endTime": 263,
+                "duration": "10 seconds",
+                "video": "8AC1olVk_g4",
+                "embed_url": "https://www.youtube.com/embed/8AC1olVk_g4?start=253&end=263",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-062",
+                "teachingPoint_name": "partnered shooting  - catch and shoot 3",
+                "teachingPoint_short_description": "partner catch and shoot 3's",
+                "startTime": 276,
+                "endTime": 294,
+                "duration": "18 seconds",
+                "video": "8AC1olVk_g4",
+                "embed_url": "https://www.youtube.com/embed/8AC1olVk_g4?start=276&end=294",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-063",
+                "teachingPoint_name": "partnered shooting  - run shoot",
+                "teachingPoint_short_description": "take shot at elbow, then run and touch sideline back for catch and shoot elbow",
+                "startTime": 295,
+                "endTime": 322,
+                "duration": "27 seconds",
+                "video": "8AC1olVk_g4",
+                "embed_url": "https://www.youtube.com/embed/8AC1olVk_g4?start=295&end=322",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-064",
+                "teachingPoint_name": "Reciever Shooting",
+                "teachingPoint_short_description": "various recieve shooting pair positions.\r\n\r\nBaseline Drive + Dunker spot\r\nhttps://youtu.be/8AC1olVk_g4?t=342\r\n\r\nMiddle drive + Dunker spot\r\nhttps://youtu.be/8AC1olVk_g4?t=359\r\n\r\nbaseline drive with drifting 3\r\nhttps://youtu.be/8AC1olVk_g4?t=407\r\n\r\nhttps://youtu.be/8AC1olVk_g4?t=439",
+                "startTime": 342,
+                "endTime": 439,
+                "duration": "97 seconds",
+                "video": "8AC1olVk_g4",
+                "embed_url": "https://www.youtube.com/embed/8AC1olVk_g4?start=342&end=439",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-065",
+                "teachingPoint_name": "finish in paint - euro step and reverse pivot",
+                "teachingPoint_short_description": "finish in paint\r\n\r\nhttps://youtu.be/8AC1olVk_g4?t=116",
+                "startTime": 108,
+                "endTime": 116,
+                "duration": "8 seconds",
+                "video": "8AC1olVk_g4",
+                "embed_url": "https://www.youtube.com/embed/8AC1olVk_g4?start=108&end=116",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
         "teachingPoint": []
     },
     {
@@ -88,6 +238,13 @@
                 "parent": null,
                 "children": [
                     {
+                        "id": 16,
+                        "name": "Shooting and Finishing",
+                        "concept_type": "skill",
+                        "parent": 1,
+                        "children": []
+                    },
+                    {
                         "id": 14,
                         "name": "hello",
                         "concept_type": "skill",
@@ -103,13 +260,6 @@
                             {
                                 "id": 7,
                                 "name": "Cutting",
-                                "concept_type": "skill",
-                                "parent": 3,
-                                "children": []
-                            },
-                            {
-                                "id": 6,
-                                "name": "Passing",
                                 "concept_type": "skill",
                                 "parent": 3,
                                 "children": []
@@ -257,7 +407,20 @@
         "url": "https://www.youtube.com/watch?v=TWl5b3HTlds",
         "uploadDate": "2025-02-11",
         "concepts": [],
-        "teachingPoints": [],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-066",
+                "teachingPoint_name": "motion offense - triangles",
+                "teachingPoint_short_description": "teach juniors the basic pass cut replace movement using a simple triangle",
+                "startTime": 1325,
+                "endTime": 1433,
+                "duration": "108 seconds",
+                "video": "TWl5b3HTlds",
+                "embed_url": "https://www.youtube.com/embed/TWl5b3HTlds?start=1325&end=1433",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
         "teachingPoint": []
     },
     {
@@ -634,6 +797,13 @@
                 "parent": null,
                 "children": [
                     {
+                        "id": 16,
+                        "name": "Shooting and Finishing",
+                        "concept_type": "skill",
+                        "parent": 1,
+                        "children": []
+                    },
+                    {
                         "id": 14,
                         "name": "hello",
                         "concept_type": "skill",
@@ -649,13 +819,6 @@
                             {
                                 "id": 7,
                                 "name": "Cutting",
-                                "concept_type": "skill",
-                                "parent": 3,
-                                "children": []
-                            },
-                            {
-                                "id": 6,
-                                "name": "Passing",
                                 "concept_type": "skill",
                                 "parent": 3,
                                 "children": []
@@ -769,6 +932,13 @@
                 "parent": null,
                 "children": [
                     {
+                        "id": 16,
+                        "name": "Shooting and Finishing",
+                        "concept_type": "skill",
+                        "parent": 1,
+                        "children": []
+                    },
+                    {
                         "id": 14,
                         "name": "hello",
                         "concept_type": "skill",
@@ -784,13 +954,6 @@
                             {
                                 "id": 7,
                                 "name": "Cutting",
-                                "concept_type": "skill",
-                                "parent": 3,
-                                "children": []
-                            },
-                            {
-                                "id": 6,
-                                "name": "Passing",
                                 "concept_type": "skill",
                                 "parent": 3,
                                 "children": []
@@ -891,6 +1054,13 @@
                 "parent": null,
                 "children": [
                     {
+                        "id": 16,
+                        "name": "Shooting and Finishing",
+                        "concept_type": "skill",
+                        "parent": 1,
+                        "children": []
+                    },
+                    {
                         "id": 14,
                         "name": "hello",
                         "concept_type": "skill",
@@ -906,13 +1076,6 @@
                             {
                                 "id": 7,
                                 "name": "Cutting",
-                                "concept_type": "skill",
-                                "parent": 3,
-                                "children": []
-                            },
-                            {
-                                "id": 6,
-                                "name": "Passing",
                                 "concept_type": "skill",
                                 "parent": 3,
                                 "children": []
@@ -949,13 +1112,6 @@
                         ]
                     }
                 ]
-            },
-            {
-                "id": 12,
-                "name": "Example",
-                "concept_type": "format",
-                "parent": null,
-                "children": []
             }
         ],
         "teachingPoints": [
@@ -1027,15 +1183,7 @@
         "title": "Make Better Choices in a 2-on-1 Fast Break! - Basketball 2015 #64",
         "url": "https://www.youtube.com/watch?v=xjGzhdjMN8E",
         "uploadDate": "2015-08-03",
-        "concepts": [
-            {
-                "id": 12,
-                "name": "Example",
-                "concept_type": "format",
-                "parent": null,
-                "children": []
-            }
-        ],
+        "concepts": [],
         "teachingPoints": [],
         "teachingPoint": []
     },
@@ -1166,13 +1314,6 @@
                 "children": []
             },
             {
-                "id": 12,
-                "name": "Example",
-                "concept_type": "format",
-                "parent": null,
-                "children": []
-            },
-            {
                 "id": 3,
                 "name": "Motion Offense",
                 "concept_type": "system",
@@ -1181,13 +1322,6 @@
                     {
                         "id": 7,
                         "name": "Cutting",
-                        "concept_type": "skill",
-                        "parent": 3,
-                        "children": []
-                    },
-                    {
-                        "id": 6,
-                        "name": "Passing",
                         "concept_type": "skill",
                         "parent": 3,
                         "children": []
@@ -1231,240 +1365,6 @@
                 "duration": "21 seconds",
                 "video": "ZR4x2moxMcA",
                 "embed_url": "https://www.youtube.com/embed/ZR4x2moxMcA?start=22&end=43",
-                "keywords": [],
-                "educationalLevel": ""
-            }
-        ],
-        "teachingPoint": []
-    },
-    {
-        "videoId": "r1TxAW5SA_g",
-        "title": "Casey Basketball Peter Lonergan Coaches Clinic",
-        "url": "https://www.youtube.com/watch?v=r1TxAW5SA_g",
-        "uploadDate": "2025-01-28",
-        "concepts": [
-            {
-                "id": 7,
-                "name": "Cutting",
-                "concept_type": "skill",
-                "parent": 3,
-                "children": []
-            }
-        ],
-        "teachingPoints": [
-            {
-                "teachingPoint_id": "TP-038",
-                "teachingPoint_name": "dribble Take off ( chest over knee)",
-                "teachingPoint_short_description": "want to go for length, get as far as you can.\r\nChest over knee, toe to ring.",
-                "startTime": 525,
-                "endTime": 554,
-                "duration": "29 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=525&end=554",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-039",
-                "teachingPoint_name": "protect ball on dribble",
-                "teachingPoint_short_description": "protect hand on dribble",
-                "startTime": 583,
-                "endTime": 596,
-                "duration": "13 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=583&end=596",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-040",
-                "teachingPoint_name": "2 bounces - first at defense, then flare out",
-                "teachingPoint_short_description": "2 bounces - first at defense, then flare out",
-                "startTime": 597,
-                "endTime": 608,
-                "duration": "11 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=597&end=608",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-041",
-                "teachingPoint_name": "use the wedge in the funnel",
-                "teachingPoint_short_description": "https://youtu.be/r1TxAW5SA_g?t=607\r\nhttps://youtu.be/r1TxAW5SA_g?t=623",
-                "startTime": 609,
-                "endTime": 623,
-                "duration": "14 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=609&end=623",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-042",
-                "teachingPoint_name": "North south wedge drill - sequence -4 and 0",
-                "teachingPoint_short_description": "https://youtu.be/r1TxAW5SA_g?t=902\r\nhttps://youtu.be/r1TxAW5SA_g?t=925\r\n\r\nNorth south on offense (go direct)\r\neast west of defence (chip around)",
-                "startTime": 902,
-                "endTime": 925,
-                "duration": "23 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=902&end=925",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-043",
-                "teachingPoint_name": "North south wedge drill - sequence -4 and 4",
-                "teachingPoint_short_description": "on catch, must square up and shotfake\r\nhttps://youtu.be/r1TxAW5SA_g?t=1024",
-                "startTime": 1026,
-                "endTime": 1685,
-                "duration": "659 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=1026&end=1685",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-044",
-                "teachingPoint_name": "First movement with stance, balance and force",
-                "teachingPoint_short_description": "First movement with stance, balance and force (get it out of the stoppage) - get a clearance\r\nTolerate contact, play in stance, stay balanced and create some force",
-                "startTime": 1686,
-                "endTime": 2400,
-                "duration": "714 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=1686&end=2400",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-045",
-                "teachingPoint_name": "bully bumps layup (variation 1)",
-                "teachingPoint_short_description": "bully bumps, pick scorer.\r\nScorer runs out to 3 and squares hips.\r\nDefense closes out.\r\nThen play north south to basket\r\n\r\nAdd time and urgency",
-                "startTime": 2926,
-                "endTime": 3038,
-                "duration": "112 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=2926&end=3038",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-046",
-                "teachingPoint_name": "2 hard dribbles to get base",
-                "teachingPoint_short_description": "2 hard dribbles to get base",
-                "startTime": 3840,
-                "endTime": 3867,
-                "duration": "27 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=3840&end=3867",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-047",
-                "teachingPoint_name": "2v2 with wing catch",
-                "teachingPoint_short_description": "everything is off 2 bounces.\r\nmust have wing catch\r\none side at a time.",
-                "startTime": 3965,
-                "endTime": 4004,
-                "duration": "39 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=3965&end=4004",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-048",
-                "teachingPoint_name": "cross over vs 2 hard dribbles",
-                "teachingPoint_short_description": "30% of cross overs at every level of the game are superflous.\r\n\r\ncatch it, rip to hard dribble and move it on.  North south",
-                "startTime": 4137,
-                "endTime": 4160,
-                "duration": "23 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=4137&end=4160",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-049",
-                "teachingPoint_name": "birds in a box into play to basket",
-                "teachingPoint_short_description": "just cause you can dribble hand off, doesn't mean you should dribble hand off.\r\nbrids in a box,\r\nThen 4 out..\r\n2 dribbles into the paint.\r\nchange, chaos, \r\nCoach the behaviour and the decision, not the execution.\r\n\r\nDon't single them out.. flight path coaching (say it on the way past).",
-                "startTime": 4293,
-                "endTime": 4909,
-                "duration": "616 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=4293&end=4909",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-050",
-                "teachingPoint_name": "birds in a box into play to basket v2",
-                "teachingPoint_short_description": "https://youtu.be/r1TxAW5SA_g?t=5143\r\nhttps://youtu.be/r1TxAW5SA_g?t=5255",
-                "startTime": 5143,
-                "endTime": 5255,
-                "duration": "112 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5143&end=5255",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-051",
-                "teachingPoint_name": "beat the trap",
-                "teachingPoint_short_description": "2v1 and play out of the advantage",
-                "startTime": 5186,
-                "endTime": 5255,
-                "duration": "69 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5186&end=5255",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-052",
-                "teachingPoint_name": "avoid 1 shallow dribble",
-                "teachingPoint_short_description": "avoid 1 shallow dribble\r\nGet to 2 hard dribbles in the wedge (top) and play out of that.",
-                "startTime": 5261,
-                "endTime": 5321,
-                "duration": "60 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5261&end=5321",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-053",
-                "teachingPoint_name": "coaching wisdom - pick what is important",
-                "teachingPoint_short_description": "just pick the most important thing",
-                "startTime": 5408,
-                "endTime": 5463,
-                "duration": "55 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5408&end=5463",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-054",
-                "teachingPoint_name": "4v4 shell variation (from centre)",
-                "teachingPoint_short_description": "Google Mike Dunlap cutthroat drill \r\nhttps://youtu.be/r1TxAW5SA_g?t=5500\r\nhttps://youtu.be/r1TxAW5SA_g?t=5659\r\n\r\nGoogle Mike Dunlap cutthroat drill",
-                "startTime": 5500,
-                "endTime": 5659,
-                "duration": "159 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5500&end=5659",
-                "keywords": [],
-                "educationalLevel": ""
-            },
-            {
-                "teachingPoint_id": "TP-055",
-                "teachingPoint_name": "4v4 shell variation (from centre) - with Trap",
-                "teachingPoint_short_description": "4v4 shell variation (from centre) - with Trap",
-                "startTime": 5746,
-                "endTime": 5857,
-                "duration": "111 seconds",
-                "video": "r1TxAW5SA_g",
-                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5746&end=5857",
                 "keywords": [],
                 "educationalLevel": ""
             }
@@ -1518,13 +1418,6 @@
                     {
                         "id": 7,
                         "name": "Cutting",
-                        "concept_type": "skill",
-                        "parent": 3,
-                        "children": []
-                    },
-                    {
-                        "id": 6,
-                        "name": "Passing",
                         "concept_type": "skill",
                         "parent": 3,
                         "children": []
@@ -1604,6 +1497,207 @@
                 "duration": "13 seconds",
                 "video": "9uXjyH54toM",
                 "embed_url": "https://www.youtube.com/embed/9uXjyH54toM?start=1602&end=1615",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "cO5SIooszXg",
+        "title": "South Australia took Victoria DOWN TO THE WIRE! | U18 Champs Full Highlights",
+        "url": "https://youtu.be/cO5SIooszXg",
+        "uploadDate": "2025-04-08",
+        "concepts": [
+            {
+                "id": 3,
+                "name": "Motion Offense",
+                "concept_type": "system",
+                "parent": 1,
+                "children": [
+                    {
+                        "id": 7,
+                        "name": "Cutting",
+                        "concept_type": "skill",
+                        "parent": 3,
+                        "children": []
+                    },
+                    {
+                        "id": 10,
+                        "name": "Timing",
+                        "concept_type": "skill",
+                        "parent": 3,
+                        "children": []
+                    }
+                ]
+            }
+        ],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-067",
+                "teachingPoint_name": "Screen and roll",
+                "teachingPoint_short_description": "Nice screen, wait for next pass and roll to basket.",
+                "startTime": 183,
+                "endTime": 191,
+                "duration": "8 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=183&end=191",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-068",
+                "teachingPoint_name": "shot fake, drive and pocket pass",
+                "teachingPoint_short_description": "shot fake, drive and pocket pass\r\nhttps://youtu.be/cO5SIooszXg?t=266",
+                "startTime": 270,
+                "endTime": 277,
+                "duration": "7 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=270&end=277",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-069",
+                "teachingPoint_name": "DHO - cut, recieve and score",
+                "teachingPoint_short_description": "https://youtu.be/cO5SIooszXg?t=457",
+                "startTime": 460,
+                "endTime": 467,
+                "duration": "7 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=460&end=467",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-070",
+                "teachingPoint_name": "Rebound and euro away from defense",
+                "teachingPoint_short_description": "https://youtu.be/cO5SIooszXg?t=580",
+                "startTime": 578,
+                "endTime": 584,
+                "duration": "6 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=578&end=584",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-071",
+                "teachingPoint_name": "45 drive, draw help D and hook middle",
+                "teachingPoint_short_description": "45 drive, draw help D and hook middle",
+                "startTime": 586,
+                "endTime": 590,
+                "duration": "4 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=586&end=590",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-072",
+                "teachingPoint_name": "shell pass, cut, hit",
+                "teachingPoint_short_description": "top to wing, wing to corner and 45 cut and recieve",
+                "startTime": 604,
+                "endTime": 613,
+                "duration": "9 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=604&end=613",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-073",
+                "teachingPoint_name": "shell action - pnr - drive  >dish > dish > 3",
+                "teachingPoint_short_description": "shell action - pnr - drive  >dish > dish > 3\r\n\r\nDrew defense in kicked out and around for open 3",
+                "startTime": 658,
+                "endTime": 666,
+                "duration": "8 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=658&end=666",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-074",
+                "teachingPoint_name": "Ball swing, then into a low post move (and 1)",
+                "teachingPoint_short_description": "Ball swing, then into a low post move (and 1)",
+                "startTime": 698,
+                "endTime": 705,
+                "duration": "7 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=698&end=705",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-075",
+                "teachingPoint_name": "45 drive and pocket pass",
+                "teachingPoint_short_description": "45 drive, draw help defense and pocket pass",
+                "startTime": 710,
+                "endTime": 716,
+                "duration": "6 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=710&end=716",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-076",
+                "teachingPoint_name": "dunker ball screen and drive",
+                "teachingPoint_short_description": "dunker ball screen and drive",
+                "startTime": 734,
+                "endTime": 741,
+                "duration": "7 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=734&end=741",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-077",
+                "teachingPoint_name": "ball screen pnr",
+                "teachingPoint_short_description": "https://youtu.be/cO5SIooszXg?t=768",
+                "startTime": 768,
+                "endTime": 776,
+                "duration": "8 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=768&end=776",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-078",
+                "teachingPoint_name": "layup - finish in paint (contested)",
+                "teachingPoint_short_description": "https://youtu.be/cO5SIooszXg?t=782",
+                "startTime": 781,
+                "endTime": 787,
+                "duration": "6 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=781&end=787",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-079",
+                "teachingPoint_name": "layup - shotfake/wobble - step through",
+                "teachingPoint_short_description": "What does he do with the ball to lose the defense?",
+                "startTime": 828,
+                "endTime": 833,
+                "duration": "5 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=828&end=833",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-080",
+                "teachingPoint_name": "shotfake and penetrating pass",
+                "teachingPoint_short_description": "defense caught ball watching",
+                "startTime": 974,
+                "endTime": 983,
+                "duration": "9 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=974&end=983",
                 "keywords": [],
                 "educationalLevel": ""
             }

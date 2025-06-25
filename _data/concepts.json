@@ -214,6 +214,66 @@
                 "embed_url": "https://www.youtube.com/embed/5wv2YRZ-D0U?start=621&end=955",
                 "keywords": [],
                 "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-074",
+                "teachingPoint_name": "Ball swing, then into a low post move (and 1)",
+                "teachingPoint_short_description": "Ball swing, then into a low post move (and 1)",
+                "startTime": 698,
+                "endTime": 705,
+                "duration": "7 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=698&end=705",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-075",
+                "teachingPoint_name": "45 drive and pocket pass",
+                "teachingPoint_short_description": "45 drive, draw help defense and pocket pass",
+                "startTime": 710,
+                "endTime": 716,
+                "duration": "6 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=710&end=716",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-078",
+                "teachingPoint_name": "layup - finish in paint (contested)",
+                "teachingPoint_short_description": "https://youtu.be/cO5SIooszXg?t=782",
+                "startTime": 781,
+                "endTime": 787,
+                "duration": "6 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=781&end=787",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-079",
+                "teachingPoint_name": "layup - shotfake/wobble - step through",
+                "teachingPoint_short_description": "What does he do with the ball to lose the defense?",
+                "startTime": 828,
+                "endTime": 833,
+                "duration": "5 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=828&end=833",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-080",
+                "teachingPoint_name": "shotfake and penetrating pass",
+                "teachingPoint_short_description": "defense caught ball watching",
+                "startTime": 974,
+                "endTime": 983,
+                "duration": "9 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=974&end=983",
+                "keywords": [],
+                "educationalLevel": ""
             }
         ]
     },
@@ -285,6 +345,30 @@
                 "duration": "8 seconds",
                 "video": "mi1rKro2AiA",
                 "embed_url": "https://www.youtube.com/embed/mi1rKro2AiA?start=24&end=32",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-067",
+                "teachingPoint_name": "Screen and roll",
+                "teachingPoint_short_description": "Nice screen, wait for next pass and roll to basket.",
+                "startTime": 183,
+                "endTime": 191,
+                "duration": "8 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=183&end=191",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-069",
+                "teachingPoint_name": "DHO - cut, recieve and score",
+                "teachingPoint_short_description": "https://youtu.be/cO5SIooszXg?t=457",
+                "startTime": 460,
+                "endTime": 467,
+                "duration": "7 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=460&end=467",
                 "keywords": [],
                 "educationalLevel": ""
             }
@@ -363,7 +447,32 @@
         "name": "Shooting and Finishing",
         "definition": "",
         "ontology_uri": "",
-        "teachingPoints": []
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-078",
+                "teachingPoint_name": "layup - finish in paint (contested)",
+                "teachingPoint_short_description": "https://youtu.be/cO5SIooszXg?t=782",
+                "startTime": 781,
+                "endTime": 787,
+                "duration": "6 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=781&end=787",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-079",
+                "teachingPoint_name": "layup - shotfake/wobble - step through",
+                "teachingPoint_short_description": "What does he do with the ball to lose the defense?",
+                "startTime": 828,
+                "endTime": 833,
+                "duration": "5 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=828&end=833",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ]
     },
     {
         "name": "Timing",
@@ -483,6 +592,30 @@
                 "duration": "10 seconds",
                 "video": "wz8sXiNjoSs",
                 "embed_url": "https://www.youtube.com/embed/wz8sXiNjoSs?start=2477&end=2487",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-075",
+                "teachingPoint_name": "45 drive and pocket pass",
+                "teachingPoint_short_description": "45 drive, draw help defense and pocket pass",
+                "startTime": 710,
+                "endTime": 716,
+                "duration": "6 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=710&end=716",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-080",
+                "teachingPoint_name": "shotfake and penetrating pass",
+                "teachingPoint_short_description": "defense caught ball watching",
+                "startTime": 974,
+                "endTime": 983,
+                "duration": "9 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=974&end=983",
                 "keywords": [],
                 "educationalLevel": ""
             }

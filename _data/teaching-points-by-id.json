@@ -578,5 +578,135 @@
         "duration": "108 seconds",
         "video": "TWl5b3HTlds",
         "visible": true
+    },
+    "TP-067": {
+        "teachingPoint_id": "TP-067",
+        "teachingPoint_name": "Screen and roll",
+        "teachingPoint_short_description": "Nice screen, wait for next pass and roll to basket.",
+        "startTime": 183,
+        "endTime": 191,
+        "duration": "8 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-068": {
+        "teachingPoint_id": "TP-068",
+        "teachingPoint_name": "shot fake, drive and pocket pass",
+        "teachingPoint_short_description": "shot fake, drive and pocket pass\r\nhttps://youtu.be/cO5SIooszXg?t=266",
+        "startTime": 270,
+        "endTime": 277,
+        "duration": "7 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-069": {
+        "teachingPoint_id": "TP-069",
+        "teachingPoint_name": "DHO - cut, recieve and score",
+        "teachingPoint_short_description": "https://youtu.be/cO5SIooszXg?t=457",
+        "startTime": 460,
+        "endTime": 467,
+        "duration": "7 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-070": {
+        "teachingPoint_id": "TP-070",
+        "teachingPoint_name": "Rebound and euro away from defense",
+        "teachingPoint_short_description": "https://youtu.be/cO5SIooszXg?t=580",
+        "startTime": 578,
+        "endTime": 584,
+        "duration": "6 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-071": {
+        "teachingPoint_id": "TP-071",
+        "teachingPoint_name": "45 drive, draw help D and hook middle",
+        "teachingPoint_short_description": "45 drive, draw help D and hook middle",
+        "startTime": 586,
+        "endTime": 590,
+        "duration": "4 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-072": {
+        "teachingPoint_id": "TP-072",
+        "teachingPoint_name": "shell pass, cut, hit",
+        "teachingPoint_short_description": "top to wing, wing to corner and 45 cut and recieve",
+        "startTime": 604,
+        "endTime": 613,
+        "duration": "9 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-073": {
+        "teachingPoint_id": "TP-073",
+        "teachingPoint_name": "shell action - pnr - drive  >dish > dish > 3",
+        "teachingPoint_short_description": "shell action - pnr - drive  >dish > dish > 3\r\n\r\nDrew defense in kicked out and around for open 3",
+        "startTime": 658,
+        "endTime": 666,
+        "duration": "8 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-074": {
+        "teachingPoint_id": "TP-074",
+        "teachingPoint_name": "Ball swing, then into a low post move (and 1)",
+        "teachingPoint_short_description": "Ball swing, then into a low post move (and 1)",
+        "startTime": 698,
+        "endTime": 705,
+        "duration": "7 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-075": {
+        "teachingPoint_id": "TP-075",
+        "teachingPoint_name": "45 drive and pocket pass",
+        "teachingPoint_short_description": "45 drive, draw help defense and pocket pass",
+        "startTime": 710,
+        "endTime": 716,
+        "duration": "6 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-077": {
+        "teachingPoint_id": "TP-077",
+        "teachingPoint_name": "ball screen pnr",
+        "teachingPoint_short_description": "https://youtu.be/cO5SIooszXg?t=768",
+        "startTime": 768,
+        "endTime": 776,
+        "duration": "8 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-078": {
+        "teachingPoint_id": "TP-078",
+        "teachingPoint_name": "layup - finish in paint (contested)",
+        "teachingPoint_short_description": "https://youtu.be/cO5SIooszXg?t=782",
+        "startTime": 781,
+        "endTime": 787,
+        "duration": "6 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-079": {
+        "teachingPoint_id": "TP-079",
+        "teachingPoint_name": "layup - shotfake/wobble - step through",
+        "teachingPoint_short_description": "What does he do with the ball to lose the defense?",
+        "startTime": 828,
+        "endTime": 833,
+        "duration": "5 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-080": {
+        "teachingPoint_id": "TP-080",
+        "teachingPoint_name": "shotfake and penetrating pass",
+        "teachingPoint_short_description": "defense caught ball watching",
+        "startTime": 974,
+        "endTime": 983,
+        "duration": "9 seconds",
+        "video": "cO5SIooszXg",
+        "visible": true
     }
 }
