@@ -17,61 +17,82 @@ permalink: /basketball-concepts/
 </select>
 
 <div id="concept-list" class="container my-4"></div>
+<div id="lazy-sentinel" style="height: 50px;"></div>
 
 <script>
   const allConcepts = {{ site.data.concepts | jsonify | safe }};
   const dropdown = document.getElementById("concept-filter");
   const container = document.getElementById("concept-list");
+  const sentinel = document.getElementById("lazy-sentinel");
+
+  let currentConcepts = [];
+  let conceptsLoaded = 0;
+  const batchSize = 3;
 
   function resetVideo(id) {
     const iframe = document.getElementById(id);
-    if (iframe) {
-      iframe.src = iframe.src;
-    }
+    if (iframe) iframe.src = iframe.src;
   }
 
-  function renderConcepts(concepts) {
-    container.innerHTML = "";
+  function renderConceptsToPage(concepts) {
+    concepts.forEach(concept => {
+      const conceptSection = document.createElement("div");
+      conceptSection.className = "mb-5";
+      conceptSection.innerHTML = `<h2 class="mb-4">${concept.name}</h2>`;
 
-    concepts
-      .filter(concept => concept.teachingPoints && concept.teachingPoints.length > 0)
-      .forEach(concept => {
-        const conceptSection = document.createElement("div");
-        conceptSection.className = "mb-5";
-        conceptSection.innerHTML = `<h2 class="mb-4">${concept.name}</h2>`;
-
-        concept.teachingPoints.forEach(tp => {
-          const iframeId = `video-${tp.video}-${tp.startTime}-${tp.endTime}`;
-          const card = document.createElement("div");
-          card.className = "row mb-5 border rounded p-3";
-          card.innerHTML = `
-            <div class="col-md-6">
-              <div class="ratio ratio-16x9">
-                <iframe
-                  id="${iframeId}"
-                  src="${tp.embed_url}"
-                  title="${tp.teachingPoint_name}"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowfullscreen>
-                </iframe>
-              </div>
+      concept.teachingPoints.forEach(tp => {
+        const iframeId = `video-${tp.video}-${tp.startTime}-${tp.endTime}`;
+        const card = document.createElement("div");
+        card.className = "row mb-5 border rounded p-3";
+        card.innerHTML = `
+          <div class="col-md-6">
+            <div class="ratio ratio-16x9">
+              <iframe
+                id="${iframeId}"
+                src="${tp.embed_url}"
+                title="${tp.teachingPoint_name}"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+              </iframe>
             </div>
-            <div class="col-md-6">
-              <h5>${tp.teachingPoint_id} – ${tp.teachingPoint_name}</h5>
-              <p>${tp.teachingPoint_short_description}</p>
-              <p><strong>Duration:</strong> ${tp.duration}</p>
-             <button class="btn btn-outline-secondary btn-sm"onclick="resetVideo('${iframeId}')">🔁 Reset Video</button>
-             </div>
-          `;
-          conceptSection.appendChild(card);
-        });
-
-        container.appendChild(conceptSection);
+          </div>
+          <div class="col-md-6">
+            <h5>${tp.teachingPoint_id} – ${tp.teachingPoint_name}</h5>
+            <p>${tp.teachingPoint_short_description}</p>
+            <p><strong>Duration:</strong> ${tp.duration}</p>
+            <button class="btn btn-outline-secondary btn-sm" onclick="resetVideo('${iframeId}')">🔁 Reset Video</button>
+          </div>
+        `;
+        conceptSection.appendChild(card);
       });
+
+      container.appendChild(conceptSection);
+    });
+  }
+
+  function loadNextBatch() {
+    const nextBatch = currentConcepts.slice(conceptsLoaded, conceptsLoaded + batchSize);
+    if (nextBatch.length === 0) return;
+    renderConceptsToPage(nextBatch);
+    conceptsLoaded += batchSize;
+  }
+
+  const observer = new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting) {
+      loadNextBatch();
+    }
+  });
+
+  function initConcepts(concepts) {
+    currentConcepts = concepts.filter(c => c.teachingPoints && c.teachingPoints.length > 0);
+    conceptsLoaded = 0;
+    container.innerHTML = "";
+    loadNextBatch();
   }
 
   document.addEventListener("DOMContentLoaded", () => {
-    renderConcepts(allConcepts);
+    initConcepts(allConcepts);
+    observer.observe(sentinel);
 
     dropdown.addEventListener("change", () => {
       const selected = dropdown.value.trim().toLowerCase();
@@ -80,17 +101,7 @@ permalink: /basketball-concepts/
         : allConcepts.filter(concept =>
             concept.name && concept.name.trim().toLowerCase() === selected
           );
-      renderConcepts(filtered);
+      initConcepts(filtered);
     });
   });
-</script>
-
-<script>
-function resetVideo(id) {
-  const iframe = document.getElementById(id);
-  if (iframe) {
-    const src = iframe.src;
-    iframe.src = src;
-  }
-}
 </script>
