@@ -7,41 +7,62 @@ permalink: /teaching-points/
 <h1>🎥 Teaching Points by Video</h1>
 <p>Total teaching points: {{ site.data.teaching-points-by-id | size }}</p>
 
-<div class="container my-4">
-  {% for pair in site.data.teaching-points-by-id %}
-    {% assign tp = pair[1] %}
-    
-    <div class="row mb-5 align-items-start">
-      <div class="col-md-6">
-        <div class="ratio ratio-16x9">
-          <iframe
-            id="video-{{ tp.video }}-{{ tp.startTime }}-{{ tp.endTime }}"
-            src="https://www.youtube.com/embed/{{ tp.video }}?start={{ tp.startTime }}&end={{ tp.endTime }}"
-            title="{{ tp.teachingPoint_name }}"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen>
-          </iframe>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <h5>{{ tp.teachingPoint_id }} – {{ tp.teachingPoint_name }}</h5>
-        <p><strong>Duration:</strong> {{ tp.duration }}</p>
-        {% if tp.teachingPoint_short_description %}
-          <p>{{ tp.teachingPoint_short_description }}</p>
-        {% endif %}
-        <button class="btn btn-outline-secondary btn-sm"
-                onclick="resetVideo('video-{{ tp.video }}-{{ tp.startTime }}-{{ tp.endTime }}')">🔁 Reset Video</button>
-      </div>
-    </div>
-  {% endfor %}
-</div>
+<div id="teaching-point-list" class="container my-4"></div>
+<div id="lazy-sentinel" style="height: 50px;"></div>
 
 <script>
-function resetVideo(id) {
-  const iframe = document.getElementById(id);
-  if (iframe) {
-    const src = iframe.src;
-    iframe.src = src;
+  // Inject all teaching point data into JS
+  const allTPs = Object.values({{ site.data["teaching-points-by-id"] | jsonify | safe }});
+  const container = document.getElementById("teaching-point-list");
+  const sentinel = document.getElementById("lazy-sentinel");
+
+  let currentIndex = 0;
+  const batchSize = 10;
+
+  function resetVideo(id) {
+    const iframe = document.getElementById(id);
+    if (iframe) iframe.src = iframe.src;
   }
-}
+
+  function renderNextBatch() {
+    const nextBatch = allTPs.slice(currentIndex, currentIndex + batchSize);
+    nextBatch.forEach(tp => {
+      const iframeId = `video-${tp.video}-${tp.startTime}-${tp.endTime}`;
+      const row = document.createElement("div");
+      row.className = "row mb-5 align-items-start";
+      row.innerHTML = `
+        <div class="col-md-6">
+          <div class="ratio ratio-16x9">
+            <iframe
+              id="${iframeId}"
+              src="https://www.youtube.com/embed/${tp.video}?start=${tp.startTime}&end=${tp.endTime}"
+              title="${tp.teachingPoint_name}"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <h5>${tp.teachingPoint_id} – ${tp.teachingPoint_name}</h5>
+          <p><strong>Duration:</strong> ${tp.duration}</p>
+          ${tp.teachingPoint_short_description ? `<p>${tp.teachingPoint_short_description}</p>` : ""}
+          <button class="btn btn-outline-secondary btn-sm"
+                  onclick="resetVideo('${iframeId}')">🔁 Reset Video</button>
+        </div>
+      `;
+      container.appendChild(row);
+    });
+    currentIndex += batchSize;
+  }
+
+  const observer = new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting) {
+      renderNextBatch();
+    }
+  });
+
+  document.addEventListener("DOMContentLoaded", () => {
+    renderNextBatch();
+    observer.observe(sentinel);
+  });
 </script>
