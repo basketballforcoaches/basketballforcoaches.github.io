@@ -60,8 +60,8 @@ permalink: /basketball-concepts/
               <h5>${tp.teachingPoint_id} – ${tp.teachingPoint_name}</h5>
               <p>${tp.teachingPoint_short_description}</p>
               <p><strong>Duration:</strong> ${tp.duration}</p>
-              <button class="btn btn-outline-secondary btn-sm" onclick="resetVideo('${iframeId}')">🔁 Reset Video</button>
-            </div>
+             <button class="btn btn-outline-secondary btn-sm"onclick="resetVideo('${iframeId}')">🔁 Reset Video</button>
+             </div>
           `;
           conceptSection.appendChild(card);
         });
@@ -83,4 +83,14 @@ permalink: /basketball-concepts/
       renderConcepts(filtered);
     });
   });
+</script>
+
+<script>
+function resetVideo(id) {
+  const iframe = document.getElementById(id);
+  if (iframe) {
+    const src = iframe.src;
+    iframe.src = src;
+  }
+}
 </script>
