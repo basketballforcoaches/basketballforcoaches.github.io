@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "title": "U12 Boys - Plan A",
-        "date": "2025-06-02",
+        "title": "U12 Boys - Plan C",
+        "date": "2025-06-30",
         "duration_minutes": 60,
         "notes": "1.  warm up\r\n2.  cool down",
         "segments": [
@@ -11,17 +11,30 @@
                 "teaching_points": [],
                 "order": 1,
                 "time_range": "0 to 10 min",
-                "title": "warm up",
-                "notes": "stretch",
+                "title": "warm up - Baseketball Tag.",
+                "notes": "Baseketball Tag.\r\n1 pair inside the 2.  ball tag others.",
                 "plan": 1
             },
             {
                 "id": 2,
-                "teaching_points": [],
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-004",
+                        "teachingPoint_name": "Pass and Cut Drill",
+                        "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
+                        "startTime": 3,
+                        "endTime": 25,
+                        "duration": "22 seconds",
+                        "video": "DGK4f0GzAC4",
+                        "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
                 "order": 2,
                 "time_range": "10 to 20 min",
-                "title": "cool down",
-                "notes": "",
+                "title": "cut to basket",
+                "notes": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
                 "plan": 1
             },
             {
@@ -41,9 +54,9 @@
                     }
                 ],
                 "order": 3,
-                "time_range": "10min",
-                "title": "s3",
-                "notes": "",
+                "time_range": "10 to 20 min",
+                "title": "2 v 1 - corner",
+                "notes": "3 side .. corer gets ball runs to short corner (jump stop pivit pass back to corner), wing and point drift to corner and wing.\r\n\r\nCorner recieves and 2 v 1 to basket.",
                 "plan": 1
             },
             {
@@ -63,8 +76,8 @@
                     }
                 ],
                 "order": 4,
-                "time_range": "10min",
-                "title": "s4",
+                "time_range": "30 to 40 min",
+                "title": "star passing - 5 makes then pressure",
                 "notes": "",
                 "plan": 1
             },
@@ -72,22 +85,22 @@
                 "id": 5,
                 "teaching_points": [
                     {
-                        "teachingPoint_id": "TP-006",
-                        "teachingPoint_name": "passing fundamentals",
-                        "teachingPoint_short_description": "drill for basic passing sequence for capable kids who think the know it all.",
-                        "startTime": 621,
-                        "endTime": 955,
-                        "duration": "334 seconds",
-                        "video": "5wv2YRZ-D0U",
-                        "embed_url": "https://www.youtube.com/embed/5wv2YRZ-D0U?start=621&end=955",
+                        "teachingPoint_id": "TP-058",
+                        "teachingPoint_name": "3v3 - drill hand off to basket (DHO)",
+                        "teachingPoint_short_description": "create chaos and confusion for defence with this 3v3 game\r\n\r\nWhen he said go, if you can get out wide, we want to advance pass it (not just watch in confines of drill)\r\n\r\n3 man weave DHO, when coach says go - attack basket (3v3)",
+                        "startTime": 1317,
+                        "endTime": 1342,
+                        "duration": "25 seconds",
+                        "video": "9uXjyH54toM",
+                        "embed_url": "https://www.youtube.com/embed/9uXjyH54toM?start=1317&end=1342",
                         "keywords": [],
                         "educationalLevel": ""
                     }
                 ],
                 "order": 5,
-                "time_range": "10min",
-                "title": "s5",
-                "notes": "",
+                "time_range": "40 to 50 min",
+                "title": "3 v 3 DHO to bucket",
+                "notes": "insert",
                 "plan": 1
             },
             {
@@ -95,8 +108,8 @@
                 "teaching_points": [],
                 "order": 6,
                 "time_range": "10min",
-                "title": "s6",
-                "notes": "",
+                "title": "scrimmage",
+                "notes": "pass outside the 3 or inside the key.\r\nreinforce intent to use what we practice not take poor shots.",
                 "plan": 1
             }
         ]

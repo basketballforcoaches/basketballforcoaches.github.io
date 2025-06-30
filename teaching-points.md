@@ -20,8 +20,11 @@ permalink: /teaching-points/
   const batchSize = 10;
 
   function resetVideo(id) {
-    const iframe = document.getElementById(id);
-    if (iframe) iframe.src = iframe.src;
+  const oldIframe = document.getElementById(id);
+  if (oldIframe) {
+    const newIframe = oldIframe.cloneNode(true);
+    oldIframe.parentNode.replaceChild(newIframe, oldIframe);
+   }
   }
 
   function renderNextBatch() {
