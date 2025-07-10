@@ -274,6 +274,78 @@
                 "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=974&end=983",
                 "keywords": [],
                 "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-081",
+                "teachingPoint_name": "shorts/pistols pnr",
+                "teachingPoint_short_description": "shorts/pistols pnr",
+                "startTime": 725,
+                "endTime": 733,
+                "duration": "8 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=725&end=733",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-082",
+                "teachingPoint_name": "baseline cut",
+                "teachingPoint_short_description": "inbound and full court ball movement through to baseline cut",
+                "startTime": 1021,
+                "endTime": 1032,
+                "duration": "11 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=1021&end=1032",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-083",
+                "teachingPoint_name": "Draw help side defender and pocket pass",
+                "teachingPoint_short_description": "motion into low post, draw help defender and pocket pass for easy bucket",
+                "startTime": 1699,
+                "endTime": 1709,
+                "duration": "10 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=1699&end=1709",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-085",
+                "teachingPoint_name": "simple stride stop shot fake layup",
+                "teachingPoint_short_description": "simple side stop hesi shot fake layup",
+                "startTime": 3594,
+                "endTime": 3600,
+                "duration": "6 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=3594&end=3600",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-087",
+                "teachingPoint_name": "DHO",
+                "teachingPoint_short_description": "reject first dho, honour 2nd for 3",
+                "startTime": 5285,
+                "endTime": 5296,
+                "duration": "11 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=5285&end=5296",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-088",
+                "teachingPoint_name": "pass fake, then assist into key",
+                "teachingPoint_short_description": "inbound, into pistols - at 3 point line, see a pass fake and hook into key.\r\n\r\nInbounder runs a nicely timed rim run and easy bucket",
+                "startTime": 6684,
+                "endTime": 6690,
+                "duration": "6 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=6684&end=6690",
+                "keywords": [],
+                "educationalLevel": ""
             }
         ]
     },
@@ -371,6 +443,30 @@
                 "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=460&end=467",
                 "keywords": [],
                 "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-114",
+                "teachingPoint_name": "corner cut to opposite 45 for step around 3",
+                "teachingPoint_short_description": "corner cut to opposite 45 for step around 3.\r\nUsed off balls screen to get space.\r\n\r\nIs that circle offense?",
+                "startTime": 1467,
+                "endTime": 1477,
+                "duration": "10 seconds",
+                "video": "KVq03nSbpM0",
+                "embed_url": "https://www.youtube.com/embed/KVq03nSbpM0?start=1467&end=1477",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-076",
+                "teachingPoint_name": "dunker ball screen and drive",
+                "teachingPoint_short_description": "dunker, fake ball screen, and rolls straight basket.  Defense left behind, easy bucket.\r\nAssume this is deliberate and not just poor technique?\r\n\r\nleave invisible",
+                "startTime": 734,
+                "endTime": 741,
+                "duration": "7 seconds",
+                "video": "cO5SIooszXg",
+                "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=734&end=741",
+                "keywords": [],
+                "educationalLevel": ""
             }
         ]
     },
@@ -382,7 +478,7 @@
             {
                 "teachingPoint_id": "TP-058",
                 "teachingPoint_name": "3v3 - drill hand off to basket (DHO)",
-                "teachingPoint_short_description": "create chaos and confusion for defence with this 3v3 game\r\n\r\nWhen he said go, if you can get out wide, we want to advance pass it (not just watch in confines of drill)",
+                "teachingPoint_short_description": "create chaos and confusion for defence with this 3v3 game\r\n\r\nWhen he said go, if you can get out wide, we want to advance pass it (not just watch in confines of drill)\r\n\r\n3 man weave DHO, when coach says go - attack basket (3v3)",
                 "startTime": 1317,
                 "endTime": 1342,
                 "duration": "25 seconds",
@@ -419,6 +515,30 @@
                 "duration": "8 seconds",
                 "video": "mi1rKro2AiA",
                 "embed_url": "https://www.youtube.com/embed/mi1rKro2AiA?start=24&end=32",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-082",
+                "teachingPoint_name": "baseline cut",
+                "teachingPoint_short_description": "inbound and full court ball movement through to baseline cut",
+                "startTime": 1021,
+                "endTime": 1032,
+                "duration": "11 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=1021&end=1032",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-088",
+                "teachingPoint_name": "pass fake, then assist into key",
+                "teachingPoint_short_description": "inbound, into pistols - at 3 point line, see a pass fake and hook into key.\r\n\r\nInbounder runs a nicely timed rim run and easy bucket",
+                "startTime": 6684,
+                "endTime": 6690,
+                "duration": "6 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=6684&end=6690",
                 "keywords": [],
                 "educationalLevel": ""
             }
@@ -471,6 +591,30 @@
                 "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=828&end=833",
                 "keywords": [],
                 "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-085",
+                "teachingPoint_name": "simple stride stop shot fake layup",
+                "teachingPoint_short_description": "simple side stop hesi shot fake layup",
+                "startTime": 3594,
+                "endTime": 3600,
+                "duration": "6 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=3594&end=3600",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-102",
+                "teachingPoint_name": "high floater",
+                "teachingPoint_short_description": "high floater - 2 foot",
+                "startTime": 2538,
+                "endTime": 2542,
+                "duration": "4 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=2538&end=2542",
+                "keywords": [],
+                "educationalLevel": ""
             }
         ]
     },
@@ -521,14 +665,39 @@
                 "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=3043&end=3056",
                 "keywords": [],
                 "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-082",
+                "teachingPoint_name": "baseline cut",
+                "teachingPoint_short_description": "inbound and full court ball movement through to baseline cut",
+                "startTime": 1021,
+                "endTime": 1032,
+                "duration": "11 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=1021&end=1032",
+                "keywords": [],
+                "educationalLevel": ""
             }
         ]
     },
     {
-        "name": "hello",
-        "definition": "a",
-        "ontology_uri": "a",
-        "teachingPoints": []
+        "name": "offball screen",
+        "definition": "",
+        "ontology_uri": "",
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-148",
+                "teachingPoint_name": "offball screen",
+                "teachingPoint_short_description": "#8 slovenia\r\n\r\ndidn't come off but legit way to obstruct bigs in the paint. - some kind of s move manouver between #8 and #15\r\nUNPACK",
+                "startTime": 3211,
+                "endTime": 3219,
+                "duration": "8 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=3211&end=3219",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ]
     },
     {
         "name": "Motion Offense",
@@ -618,6 +787,66 @@
                 "embed_url": "https://www.youtube.com/embed/cO5SIooszXg?start=974&end=983",
                 "keywords": [],
                 "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-081",
+                "teachingPoint_name": "shorts/pistols pnr",
+                "teachingPoint_short_description": "shorts/pistols pnr",
+                "startTime": 725,
+                "endTime": 733,
+                "duration": "8 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=725&end=733",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-082",
+                "teachingPoint_name": "baseline cut",
+                "teachingPoint_short_description": "inbound and full court ball movement through to baseline cut",
+                "startTime": 1021,
+                "endTime": 1032,
+                "duration": "11 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=1021&end=1032",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-083",
+                "teachingPoint_name": "Draw help side defender and pocket pass",
+                "teachingPoint_short_description": "motion into low post, draw help defender and pocket pass for easy bucket",
+                "startTime": 1699,
+                "endTime": 1709,
+                "duration": "10 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=1699&end=1709",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-087",
+                "teachingPoint_name": "DHO",
+                "teachingPoint_short_description": "reject first dho, honour 2nd for 3",
+                "startTime": 5285,
+                "endTime": 5296,
+                "duration": "11 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=5285&end=5296",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-088",
+                "teachingPoint_name": "pass fake, then assist into key",
+                "teachingPoint_short_description": "inbound, into pistols - at 3 point line, see a pass fake and hook into key.\r\n\r\nInbounder runs a nicely timed rim run and easy bucket",
+                "startTime": 6684,
+                "endTime": 6690,
+                "duration": "6 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=6684&end=6690",
+                "keywords": [],
+                "educationalLevel": ""
             }
         ]
     },
@@ -635,6 +864,30 @@
                 "duration": "29 seconds",
                 "video": "nCWd5-vdM7E",
                 "embed_url": "https://www.youtube.com/embed/nCWd5-vdM7E?start=0&end=29",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-082",
+                "teachingPoint_name": "baseline cut",
+                "teachingPoint_short_description": "inbound and full court ball movement through to baseline cut",
+                "startTime": 1021,
+                "endTime": 1032,
+                "duration": "11 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=1021&end=1032",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-088",
+                "teachingPoint_name": "pass fake, then assist into key",
+                "teachingPoint_short_description": "inbound, into pistols - at 3 point line, see a pass fake and hook into key.\r\n\r\nInbounder runs a nicely timed rim run and easy bucket",
+                "startTime": 6684,
+                "endTime": 6690,
+                "duration": "6 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=6684&end=6690",
                 "keywords": [],
                 "educationalLevel": ""
             }
@@ -666,6 +919,25 @@
                 "duration": "13 seconds",
                 "video": "lICvxZiWi44",
                 "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=3043&end=3056",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ]
+    },
+    {
+        "name": "blob play",
+        "definition": "",
+        "ontology_uri": "",
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-109",
+                "teachingPoint_name": "blob inbound box",
+                "teachingPoint_short_description": "1 min left, down 6 and 7 on shot clock.",
+                "startTime": 6897,
+                "endTime": 6906,
+                "duration": "9 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=6897&end=6906",
                 "keywords": [],
                 "educationalLevel": ""
             }

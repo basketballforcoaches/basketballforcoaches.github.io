@@ -77,8 +77,8 @@
                         "children": []
                     },
                     {
-                        "id": 14,
-                        "name": "hello",
+                        "id": 19,
+                        "name": "offball screen",
                         "concept_type": "skill",
                         "parent": 1,
                         "children": []
@@ -126,6 +126,13 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "id": 18,
+                        "name": "blob play",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": []
                     }
                 ]
             },
@@ -245,8 +252,8 @@
                         "children": []
                     },
                     {
-                        "id": 14,
-                        "name": "hello",
+                        "id": 19,
+                        "name": "offball screen",
                         "concept_type": "skill",
                         "parent": 1,
                         "children": []
@@ -294,6 +301,13 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "id": 18,
+                        "name": "blob play",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": []
                     }
                 ]
             }
@@ -804,8 +818,8 @@
                         "children": []
                     },
                     {
-                        "id": 14,
-                        "name": "hello",
+                        "id": 19,
+                        "name": "offball screen",
                         "concept_type": "skill",
                         "parent": 1,
                         "children": []
@@ -853,6 +867,13 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "id": 18,
+                        "name": "blob play",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": []
                     }
                 ]
             },
@@ -939,8 +960,8 @@
                         "children": []
                     },
                     {
-                        "id": 14,
-                        "name": "hello",
+                        "id": 19,
+                        "name": "offball screen",
                         "concept_type": "skill",
                         "parent": 1,
                         "children": []
@@ -988,6 +1009,13 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "id": 18,
+                        "name": "blob play",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": []
                     }
                 ]
             }
@@ -1061,8 +1089,8 @@
                         "children": []
                     },
                     {
-                        "id": 14,
-                        "name": "hello",
+                        "id": 19,
+                        "name": "offball screen",
                         "concept_type": "skill",
                         "parent": 1,
                         "children": []
@@ -1110,6 +1138,13 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "id": 18,
+                        "name": "blob play",
+                        "concept_type": "system",
+                        "parent": 1,
+                        "children": []
                     }
                 ]
             }
@@ -1260,15 +1295,7 @@
         "title": "Play - Press Break 1 2 2",
         "url": "https://www.youtube.com/watch?v=nCWd5-vdM7E",
         "uploadDate": "2016-04-05",
-        "concepts": [
-            {
-                "id": 14,
-                "name": "hello",
-                "concept_type": "skill",
-                "parent": 1,
-                "children": []
-            }
-        ],
+        "concepts": [],
         "teachingPoints": [
             {
                 "teachingPoint_id": "TP-035",
@@ -1372,6 +1399,240 @@
         "teachingPoint": []
     },
     {
+        "videoId": "r1TxAW5SA_g",
+        "title": "Casey Basketball Peter Lonergan Coaches Clinic",
+        "url": "https://www.youtube.com/watch?v=r1TxAW5SA_g",
+        "uploadDate": "2025-01-28",
+        "concepts": [
+            {
+                "id": 7,
+                "name": "Cutting",
+                "concept_type": "skill",
+                "parent": 3,
+                "children": []
+            }
+        ],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-038",
+                "teachingPoint_name": "dribble Take off ( chest over knee)",
+                "teachingPoint_short_description": "want to go for length, get as far as you can.\r\nChest over knee, toe to ring.",
+                "startTime": 525,
+                "endTime": 554,
+                "duration": "29 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=525&end=554",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-039",
+                "teachingPoint_name": "protect ball on dribble",
+                "teachingPoint_short_description": "protect hand on dribble",
+                "startTime": 583,
+                "endTime": 596,
+                "duration": "13 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=583&end=596",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-040",
+                "teachingPoint_name": "2 bounces - first at defense, then flare out",
+                "teachingPoint_short_description": "2 bounces - first at defense, then flare out",
+                "startTime": 597,
+                "endTime": 608,
+                "duration": "11 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=597&end=608",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-041",
+                "teachingPoint_name": "use the wedge in the funnel",
+                "teachingPoint_short_description": "https://youtu.be/r1TxAW5SA_g?t=607\r\nhttps://youtu.be/r1TxAW5SA_g?t=623",
+                "startTime": 609,
+                "endTime": 623,
+                "duration": "14 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=609&end=623",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-042",
+                "teachingPoint_name": "North south wedge drill - sequence -4 and 0",
+                "teachingPoint_short_description": "https://youtu.be/r1TxAW5SA_g?t=902\r\nhttps://youtu.be/r1TxAW5SA_g?t=925\r\n\r\nNorth south on offense (go direct)\r\neast west of defence (chip around)",
+                "startTime": 902,
+                "endTime": 925,
+                "duration": "23 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=902&end=925",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-043",
+                "teachingPoint_name": "North south wedge drill - sequence -4 and 4",
+                "teachingPoint_short_description": "on catch, must square up and shotfake\r\nhttps://youtu.be/r1TxAW5SA_g?t=1024",
+                "startTime": 1026,
+                "endTime": 1685,
+                "duration": "659 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=1026&end=1685",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-044",
+                "teachingPoint_name": "First movement with stance, balance and force",
+                "teachingPoint_short_description": "First movement with stance, balance and force (get it out of the stoppage) - get a clearance\r\nTolerate contact, play in stance, stay balanced and create some force",
+                "startTime": 1686,
+                "endTime": 2400,
+                "duration": "714 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=1686&end=2400",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-045",
+                "teachingPoint_name": "bully bumps layup (variation 1)",
+                "teachingPoint_short_description": "bully bumps, pick scorer.\r\nScorer runs out to 3 and squares hips.\r\nDefense closes out.\r\nThen play north south to basket\r\n\r\nAdd time and urgency",
+                "startTime": 2926,
+                "endTime": 3038,
+                "duration": "112 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=2926&end=3038",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-046",
+                "teachingPoint_name": "2 hard dribbles to get base",
+                "teachingPoint_short_description": "2 hard dribbles to get base",
+                "startTime": 3840,
+                "endTime": 3867,
+                "duration": "27 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=3840&end=3867",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-047",
+                "teachingPoint_name": "2v2 with wing catch",
+                "teachingPoint_short_description": "everything is off 2 bounces.\r\nmust have wing catch\r\none side at a time.",
+                "startTime": 3965,
+                "endTime": 4004,
+                "duration": "39 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=3965&end=4004",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-048",
+                "teachingPoint_name": "cross over vs 2 hard dribbles",
+                "teachingPoint_short_description": "30% of cross overs at every level of the game are superflous.\r\n\r\ncatch it, rip to hard dribble and move it on.  North south",
+                "startTime": 4137,
+                "endTime": 4160,
+                "duration": "23 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=4137&end=4160",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-049",
+                "teachingPoint_name": "birds in a box into play to basket",
+                "teachingPoint_short_description": "just cause you can dribble hand off, doesn't mean you should dribble hand off.\r\nbrids in a box,\r\nThen 4 out..\r\n2 dribbles into the paint.\r\nchange, chaos, \r\nCoach the behaviour and the decision, not the execution.\r\n\r\nDon't single them out.. flight path coaching (say it on the way past).",
+                "startTime": 4293,
+                "endTime": 4909,
+                "duration": "616 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=4293&end=4909",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-050",
+                "teachingPoint_name": "birds in a box into play to basket v2",
+                "teachingPoint_short_description": "https://youtu.be/r1TxAW5SA_g?t=5143\r\nhttps://youtu.be/r1TxAW5SA_g?t=5255",
+                "startTime": 5143,
+                "endTime": 5255,
+                "duration": "112 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5143&end=5255",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-051",
+                "teachingPoint_name": "beat the trap",
+                "teachingPoint_short_description": "2v1 and play out of the advantage",
+                "startTime": 5186,
+                "endTime": 5255,
+                "duration": "69 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5186&end=5255",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-052",
+                "teachingPoint_name": "avoid 1 shallow dribble",
+                "teachingPoint_short_description": "avoid 1 shallow dribble\r\nGet to 2 hard dribbles in the wedge (top) and play out of that.",
+                "startTime": 5261,
+                "endTime": 5321,
+                "duration": "60 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5261&end=5321",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-053",
+                "teachingPoint_name": "coaching wisdom - pick what is important",
+                "teachingPoint_short_description": "just pick the most important thing",
+                "startTime": 5408,
+                "endTime": 5463,
+                "duration": "55 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5408&end=5463",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-054",
+                "teachingPoint_name": "4v4 shell variation (from centre)",
+                "teachingPoint_short_description": "Google Mike Dunlap cutthroat drill \r\nhttps://youtu.be/r1TxAW5SA_g?t=5500\r\nhttps://youtu.be/r1TxAW5SA_g?t=5659\r\n\r\nGoogle Mike Dunlap cutthroat drill",
+                "startTime": 5500,
+                "endTime": 5659,
+                "duration": "159 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5500&end=5659",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-055",
+                "teachingPoint_name": "4v4 shell variation (from centre) - with Trap",
+                "teachingPoint_short_description": "4v4 shell variation (from centre) - with Trap",
+                "startTime": 5746,
+                "endTime": 5857,
+                "duration": "111 seconds",
+                "video": "r1TxAW5SA_g",
+                "embed_url": "https://www.youtube.com/embed/r1TxAW5SA_g?start=5746&end=5857",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
+        "teachingPoint": []
+    },
+    {
         "videoId": "gzR7vZp2dzc",
         "title": "Mike Dunlap: Transition Offense - The First 6 Seconds",
         "url": "https://www.youtube.com/watch?v=gzR7vZp2dzc",
@@ -1467,7 +1728,7 @@
             {
                 "teachingPoint_id": "TP-058",
                 "teachingPoint_name": "3v3 - drill hand off to basket (DHO)",
-                "teachingPoint_short_description": "create chaos and confusion for defence with this 3v3 game\r\n\r\nWhen he said go, if you can get out wide, we want to advance pass it (not just watch in confines of drill)",
+                "teachingPoint_short_description": "create chaos and confusion for defence with this 3v3 game\r\n\r\nWhen he said go, if you can get out wide, we want to advance pass it (not just watch in confines of drill)\r\n\r\n3 man weave DHO, when coach says go - attack basket (3v3)",
                 "startTime": 1317,
                 "endTime": 1342,
                 "duration": "25 seconds",
@@ -1644,7 +1905,7 @@
             {
                 "teachingPoint_id": "TP-076",
                 "teachingPoint_name": "dunker ball screen and drive",
-                "teachingPoint_short_description": "dunker ball screen and drive",
+                "teachingPoint_short_description": "dunker, fake ball screen, and rolls straight basket.  Defense left behind, easy bucket.\r\nAssume this is deliberate and not just poor technique?\r\n\r\nleave invisible",
                 "startTime": 734,
                 "endTime": 741,
                 "duration": "7 seconds",
@@ -1702,6 +1963,1035 @@
                 "educationalLevel": ""
             }
         ],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "LjePZIXJ82U",
+        "title": "Group Phase | USA v Australia | FIBA U19 Basketball World Cup 2025",
+        "url": "https://www.youtube.com/watch?v=LjePZIXJ82U",
+        "uploadDate": "2025-06-28",
+        "concepts": [],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-081",
+                "teachingPoint_name": "shorts/pistols pnr",
+                "teachingPoint_short_description": "shorts/pistols pnr",
+                "startTime": 725,
+                "endTime": 733,
+                "duration": "8 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=725&end=733",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-082",
+                "teachingPoint_name": "baseline cut",
+                "teachingPoint_short_description": "inbound and full court ball movement through to baseline cut",
+                "startTime": 1021,
+                "endTime": 1032,
+                "duration": "11 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=1021&end=1032",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-083",
+                "teachingPoint_name": "Draw help side defender and pocket pass",
+                "teachingPoint_short_description": "motion into low post, draw help defender and pocket pass for easy bucket",
+                "startTime": 1699,
+                "endTime": 1709,
+                "duration": "10 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=1699&end=1709",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-085",
+                "teachingPoint_name": "simple stride stop shot fake layup",
+                "teachingPoint_short_description": "simple side stop hesi shot fake layup",
+                "startTime": 3594,
+                "endTime": 3600,
+                "duration": "6 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=3594&end=3600",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-086",
+                "teachingPoint_name": "full court assist",
+                "teachingPoint_short_description": "full court assist",
+                "startTime": 5173,
+                "endTime": 5183,
+                "duration": "10 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=5173&end=5183",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-087",
+                "teachingPoint_name": "DHO",
+                "teachingPoint_short_description": "reject first dho, honour 2nd for 3",
+                "startTime": 5285,
+                "endTime": 5296,
+                "duration": "11 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=5285&end=5296",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-088",
+                "teachingPoint_name": "pass fake, then assist into key",
+                "teachingPoint_short_description": "inbound, into pistols - at 3 point line, see a pass fake and hook into key.\r\n\r\nInbounder runs a nicely timed rim run and easy bucket",
+                "startTime": 6684,
+                "endTime": 6690,
+                "duration": "6 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=6684&end=6690",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-089",
+                "teachingPoint_name": "drive and dish",
+                "teachingPoint_short_description": "drive and dish",
+                "startTime": 6854,
+                "endTime": 6860,
+                "duration": "6 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=6854&end=6860",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-090",
+                "teachingPoint_name": "defensive switch",
+                "teachingPoint_short_description": "defensive switch",
+                "startTime": 7023,
+                "endTime": 7031,
+                "duration": "8 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=7023&end=7031",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-091",
+                "teachingPoint_name": "DHO screen for 3",
+                "teachingPoint_short_description": "DHO screen for 3",
+                "startTime": 7484,
+                "endTime": 7494,
+                "duration": "10 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=7484&end=7494",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-092",
+                "teachingPoint_name": "give and go (with deception)",
+                "teachingPoint_short_description": "#4 give and go - deceptive pop, then backcut to basket\r\n\r\nhttps://youtu.be/LjePZIXJ82U?t=7621",
+                "startTime": 7612,
+                "endTime": 7621,
+                "duration": "9 seconds",
+                "video": "LjePZIXJ82U",
+                "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=7612&end=7621",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "cdqApfjaieE",
+        "title": "Group Phase | France v USA | Full Basketball Game | FIBA U19 Basketball World Cup 2025",
+        "url": "https://www.youtube.com/watch?v=cdqApfjaieE",
+        "uploadDate": "2025-06-29",
+        "concepts": [],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-093",
+                "teachingPoint_name": "fast tween and drive",
+                "teachingPoint_short_description": "Cross sell and tween drive",
+                "startTime": 905,
+                "endTime": 910,
+                "duration": "5 seconds",
+                "video": "cdqApfjaieE",
+                "embed_url": "https://www.youtube.com/embed/cdqApfjaieE?start=905&end=910",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-094",
+                "teachingPoint_name": "inbound box 1",
+                "teachingPoint_short_description": "inbound box\r\nlow post switch, then\r\nhigh post switch",
+                "startTime": 956,
+                "endTime": 966,
+                "duration": "10 seconds",
+                "video": "cdqApfjaieE",
+                "embed_url": "https://www.youtube.com/embed/cdqApfjaieE?start=956&end=966",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-095",
+                "teachingPoint_name": "inbound box 2",
+                "teachingPoint_short_description": "inbound box\r\nlow post switch, then\r\nhigh post switch\r\n\r\nhttps://youtu.be/cdqApfjaieE?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=1169",
+                "startTime": 1162,
+                "endTime": 1169,
+                "duration": "7 seconds",
+                "video": "cdqApfjaieE",
+                "embed_url": "https://www.youtube.com/embed/cdqApfjaieE?start=1162&end=1169",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-096",
+                "teachingPoint_name": "penetrating pocket pass",
+                "teachingPoint_short_description": "watch # 3 - does a big circle and gets it back on a rim run",
+                "startTime": 1253,
+                "endTime": 1264,
+                "duration": "11 seconds",
+                "video": "cdqApfjaieE",
+                "embed_url": "https://www.youtube.com/embed/cdqApfjaieE?start=1253&end=1264",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-097",
+                "teachingPoint_name": "Baseline cut",
+                "teachingPoint_short_description": "#22 Baseline back cut",
+                "startTime": 2356,
+                "endTime": 2363,
+                "duration": "7 seconds",
+                "video": "cdqApfjaieE",
+                "embed_url": "https://www.youtube.com/embed/cdqApfjaieE?start=2356&end=2363",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-098",
+                "teachingPoint_name": "inbound box 3",
+                "teachingPoint_short_description": "inbound box 3\r\nnot really sure what they are doing here?",
+                "startTime": 2507,
+                "endTime": 2518,
+                "duration": "11 seconds",
+                "video": "cdqApfjaieE",
+                "embed_url": "https://www.youtube.com/embed/cdqApfjaieE?start=2507&end=2518",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-099",
+                "teachingPoint_name": "sweep and draw foul",
+                "teachingPoint_short_description": "sweep and draw foul",
+                "startTime": 3394,
+                "endTime": 3400,
+                "duration": "6 seconds",
+                "video": "cdqApfjaieE",
+                "embed_url": "https://www.youtube.com/embed/cdqApfjaieE?start=3394&end=3400",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-100",
+                "teachingPoint_name": "read line and backcut",
+                "teachingPoint_short_description": "#4 draws high, then basket cuts",
+                "startTime": 3063,
+                "endTime": 3610,
+                "duration": "547 seconds",
+                "video": "cdqApfjaieE",
+                "embed_url": "https://www.youtube.com/embed/cdqApfjaieE?start=3063&end=3610",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "YnxR6vzUZT0",
+        "title": "Group Phase | Australia v Cameroon | Full Basketball Game | FIBA U19 Basketball World Cup 2025",
+        "url": "https://youtu.be/YnxR6vzUZT0",
+        "uploadDate": "2025-06-29",
+        "concepts": [],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-101",
+                "teachingPoint_name": "defense switch after offense pnr",
+                "teachingPoint_short_description": "defense switch after offense pnr",
+                "startTime": 2099,
+                "endTime": 2106,
+                "duration": "7 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=2099&end=2106",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-102",
+                "teachingPoint_name": "high floater",
+                "teachingPoint_short_description": "high floater - 2 foot",
+                "startTime": 2538,
+                "endTime": 2542,
+                "duration": "4 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=2538&end=2542",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-103",
+                "teachingPoint_name": "blob play",
+                "teachingPoint_short_description": "low post exchange",
+                "startTime": 2823,
+                "endTime": 2832,
+                "duration": "9 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=2823&end=2832",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-104",
+                "teachingPoint_name": "pocket pass",
+                "teachingPoint_short_description": "dd pp",
+                "startTime": 3152,
+                "endTime": 3158,
+                "duration": "6 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=3152&end=3158",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-105",
+                "teachingPoint_name": "baseline cut",
+                "teachingPoint_short_description": "baseline cut",
+                "startTime": 3421,
+                "endTime": 3432,
+                "duration": "11 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=3421&end=3432",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-106",
+                "teachingPoint_name": "dd shake and bake",
+                "teachingPoint_short_description": "dd shake and bake",
+                "startTime": 4806,
+                "endTime": 4813,
+                "duration": "7 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=4806&end=4813",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-107",
+                "teachingPoint_name": "double hand off curl and bank",
+                "teachingPoint_short_description": "double hand off curl and bank\r\npistols to top, to dunker lift screen, reject hand off 1, give 2.\r\nhttps://youtu.be/YnxR6vzUZT0?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=4931",
+                "startTime": 4913,
+                "endTime": 4928,
+                "duration": "15 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=4913&end=4928",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-108",
+                "teachingPoint_name": "hook and look",
+                "teachingPoint_short_description": "furphy inbounds then runs to high post recieves and shoots.\r\ndefense seem to complete ignore him.",
+                "startTime": 6421,
+                "endTime": 6432,
+                "duration": "11 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=6421&end=6432",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-109",
+                "teachingPoint_name": "blob inbound box",
+                "teachingPoint_short_description": "1 min left, down 6 and 7 on shot clock.",
+                "startTime": 6897,
+                "endTime": 6906,
+                "duration": "9 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=6897&end=6906",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-110",
+                "teachingPoint_name": "sweep step",
+                "teachingPoint_short_description": "ddss",
+                "startTime": 8021,
+                "endTime": 8025,
+                "duration": "4 seconds",
+                "video": "YnxR6vzUZT0",
+                "embed_url": "https://www.youtube.com/embed/YnxR6vzUZT0?start=8021&end=8025",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "KVq03nSbpM0",
+        "title": "Group Phase | Germany v China | Full Basketball Game | FIBA U19 Basketball World Cup 2025",
+        "url": "https://www.youtube.com/watch?v=KVq03nSbpM0",
+        "uploadDate": "2025-06-29",
+        "concepts": [],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-111",
+                "teachingPoint_name": "Low post spin",
+                "teachingPoint_short_description": "https://youtu.be/KVq03nSbpM0?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=651",
+                "startTime": 651,
+                "endTime": 660,
+                "duration": "9 seconds",
+                "video": "KVq03nSbpM0",
+                "embed_url": "https://www.youtube.com/embed/KVq03nSbpM0?start=651&end=660",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-112",
+                "teachingPoint_name": "lift to corner for 3",
+                "teachingPoint_short_description": "# 8 lift to corner to bail out and take 3\r\n\r\nhttps://youtu.be/KVq03nSbpM0?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=1240",
+                "startTime": 1232,
+                "endTime": 1240,
+                "duration": "8 seconds",
+                "video": "KVq03nSbpM0",
+                "embed_url": "https://www.youtube.com/embed/KVq03nSbpM0?start=1232&end=1240",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-113",
+                "teachingPoint_name": "Pistols - swing sides",
+                "teachingPoint_short_description": "Pistols - swing sides\r\n\r\nhttps://youtu.be/KVq03nSbpM0?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=1379",
+                "startTime": 1368,
+                "endTime": 1376,
+                "duration": "8 seconds",
+                "video": "KVq03nSbpM0",
+                "embed_url": "https://www.youtube.com/embed/KVq03nSbpM0?start=1368&end=1376",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-114",
+                "teachingPoint_name": "corner cut to opposite 45 for step around 3",
+                "teachingPoint_short_description": "corner cut to opposite 45 for step around 3.\r\nUsed off balls screen to get space.\r\n\r\nIs that circle offense?",
+                "startTime": 1467,
+                "endTime": 1477,
+                "duration": "10 seconds",
+                "video": "KVq03nSbpM0",
+                "embed_url": "https://www.youtube.com/embed/KVq03nSbpM0?start=1467&end=1477",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-115",
+                "teachingPoint_name": "shotfake and drive middle",
+                "teachingPoint_short_description": "shotfake and drive middle",
+                "startTime": 1698,
+                "endTime": 1706,
+                "duration": "8 seconds",
+                "video": "KVq03nSbpM0",
+                "embed_url": "https://www.youtube.com/embed/KVq03nSbpM0?start=1698&end=1706",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "i0FQd7v8efI",
+        "title": "Brian Goorjian - Building Your Offence",
+        "url": "https://www.youtube.com/watch?v=i0FQd7v8efI",
+        "uploadDate": "2025-06-25",
+        "concepts": [],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-116",
+                "teachingPoint_name": "junior shooting technique",
+                "teachingPoint_short_description": "Brian Goorgian \r\nyou must feel the ball - fingertips should be black (must be able put finger under the ball).\r\nSeated shooting.\r\nelbow knee toe > \r\nthumbs must make a T and make a goose neck (flick)\r\ninside out.\r\nshoot on 1 foot (balance on 1 foot) - same foot, same hand.\r\n\r\nhttps://youtu.be/i0FQd7v8efI?t=1299",
+                "startTime": 387,
+                "endTime": 1299,
+                "duration": "912 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=387&end=1299",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-117",
+                "teachingPoint_name": "form shooting",
+                "teachingPoint_short_description": "chest to rim\r\ngame footwork\r\nSwing hips.\r\nmake 6.\r\nhttps://youtu.be/i0FQd7v8efI?t=1301",
+                "startTime": 1301,
+                "endTime": 1320,
+                "duration": "19 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=1301&end=1320",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-118",
+                "teachingPoint_name": "from shooting (stretch)",
+                "teachingPoint_short_description": "Stretch step and shot from short corner\r\nhttps://youtu.be/i0FQd7v8efI?t=1467\r\noff hard bounce: \r\nhttps://youtu.be/i0FQd7v8efI?t=1533\r\nhttps://youtu.be/i0FQd7v8efI?t=1548",
+                "startTime": 1467,
+                "endTime": 1548,
+                "duration": "81 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=1467&end=1548",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-119",
+                "teachingPoint_name": "same same form shooting",
+                "teachingPoint_short_description": "12/14 (working both sides)\r\nsame same (left, right)\r\nfinishing in paint - floaters and jumpers.",
+                "startTime": 1618,
+                "endTime": 1894,
+                "duration": "276 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=1618&end=1894",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-120",
+                "teachingPoint_name": "Don't throw, shoot",
+                "teachingPoint_short_description": "guidance - don't throw.. shoot with form.",
+                "startTime": 2162,
+                "endTime": 2177,
+                "duration": "15 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=2162&end=2177",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-121",
+                "teachingPoint_name": "catch and shoots",
+                "teachingPoint_short_description": "https://youtu.be/i0FQd7v8efI?t=2555\r\nhttps://youtu.be/i0FQd7v8efI?t=2649",
+                "startTime": 2555,
+                "endTime": 2649,
+                "duration": "94 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=2555&end=2649",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-122",
+                "teachingPoint_name": "hesi/spin same same finish",
+                "teachingPoint_short_description": "hesi same same finish\r\nreverse Spin finish",
+                "startTime": 2949,
+                "endTime": 3068,
+                "duration": "119 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=2949&end=3068",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-123",
+                "teachingPoint_name": "finishing",
+                "teachingPoint_short_description": "refers to galloway (kings?) 01/07?",
+                "startTime": 2950,
+                "endTime": 3249,
+                "duration": "299 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=2950&end=3249",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-124",
+                "teachingPoint_name": "DHO into mid range",
+                "teachingPoint_short_description": "DHO into mid range",
+                "startTime": 4310,
+                "endTime": 4357,
+                "duration": "47 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=4310&end=4357",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-125",
+                "teachingPoint_name": "DHO into drive middle",
+                "teachingPoint_short_description": "DHO into drive middle",
+                "startTime": 4400,
+                "endTime": 4493,
+                "duration": "93 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=4400&end=4493",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-126",
+                "teachingPoint_name": "catch on wing, sweep and drive",
+                "teachingPoint_short_description": "catch on wing, sweep and drive",
+                "startTime": 4498,
+                "endTime": 4587,
+                "duration": "89 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=4498&end=4587",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-127",
+                "teachingPoint_name": "catch on wing, sweep and drive  (wtih onball)",
+                "teachingPoint_short_description": "catch on wing, set onball, drive\r\nhttps://youtu.be/i0FQd7v8efI?t=4659",
+                "startTime": 4606,
+                "endTime": 4659,
+                "duration": "53 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=4606&end=4659",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-128",
+                "teachingPoint_name": "side pnr",
+                "teachingPoint_short_description": "asdf",
+                "startTime": 5142,
+                "endTime": 5161,
+                "duration": "19 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=5142&end=5161",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-129",
+                "teachingPoint_name": "3 man",
+                "teachingPoint_short_description": "https://youtu.be/i0FQd7v8efI?t=4871",
+                "startTime": 4871,
+                "endTime": 5122,
+                "duration": "251 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=4871&end=5122",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-130",
+                "teachingPoint_name": "4 out shapes",
+                "teachingPoint_short_description": "4 out shapes",
+                "startTime": 5122,
+                "endTime": 5142,
+                "duration": "20 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=5122&end=5142",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-131",
+                "teachingPoint_name": "side pnr (UCLA)",
+                "teachingPoint_short_description": "UCLA\r\n3 in the tree.\r\nhttps://youtu.be/i0FQd7v8efI?t=5266",
+                "startTime": 5163,
+                "endTime": 5266,
+                "duration": "103 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=5163&end=5266",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-132",
+                "teachingPoint_name": "4v4",
+                "teachingPoint_short_description": "1 bounce and must rim cut or change possession",
+                "startTime": 5291,
+                "endTime": 5450,
+                "duration": "159 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=5291&end=5450",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-133",
+                "teachingPoint_name": "rim cut reads",
+                "teachingPoint_short_description": "https://youtu.be/i0FQd7v8efI?t=5456\r\nhttps://youtu.be/i0FQd7v8efI?t=5509",
+                "startTime": 5456,
+                "endTime": 5509,
+                "duration": "53 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=5456&end=5509",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-134",
+                "teachingPoint_name": "small sided games",
+                "teachingPoint_short_description": "1 Dribble -\r\npressure on ball, rim cuts, stop, pivot,",
+                "startTime": 5577,
+                "endTime": 5691,
+                "duration": "114 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=5577&end=5691",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-135",
+                "teachingPoint_name": "Down hill decision making",
+                "teachingPoint_short_description": "Down hill decision making \r\nhttps://youtu.be/i0FQd7v8efI?t=5920",
+                "startTime": 5772,
+                "endTime": 5920,
+                "duration": "148 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=5772&end=5920",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-136",
+                "teachingPoint_name": "small sides gaems",
+                "teachingPoint_short_description": "https://youtu.be/i0FQd7v8efI?t=5945\r\nhttps://youtu.be/i0FQd7v8efI?t=5989",
+                "startTime": 5945,
+                "endTime": 5989,
+                "duration": "44 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=5945&end=5989",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-137",
+                "teachingPoint_name": "misc moves",
+                "teachingPoint_short_description": "misc moves - and wrap up\r\n\r\nhttps://youtu.be/i0FQd7v8efI?t=6361",
+                "startTime": 5995,
+                "endTime": 6361,
+                "duration": "366 seconds",
+                "video": "i0FQd7v8efI",
+                "embed_url": "https://www.youtube.com/embed/i0FQd7v8efI?start=5995&end=6361",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "7D-49zDs91A",
+        "title": "Group Phase | Australia v France | Full Basketball Game | FIBA U19 Basketball World Cup 2025",
+        "url": "https://www.youtube.com/watch?v=7D-49zDs91A",
+        "uploadDate": "2025-07-01",
+        "concepts": [],
+        "teachingPoints": [],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "feIx-FyQIaw",
+        "title": "USA vs France - Basketball | Rio 2016 - Condensed Game | Throwback Thursday",
+        "url": "https://www.youtube.com/watch?v=feIx-FyQIaw",
+        "uploadDate": "2018-12-06",
+        "concepts": [],
+        "teachingPoints": [],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "BPMEpNz8W_o",
+        "title": "Master The Circle Motion Offense in 4.5 Minutes!",
+        "url": "https://www.youtube.com/watch?v=BPMEpNz8W_o",
+        "uploadDate": "2023-11-30",
+        "concepts": [],
+        "teachingPoints": [],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "ir7W3D3wVX4",
+        "title": "Tennessee Basketball Drill (Best Basketball Drills)",
+        "url": "https://www.youtube.com/watch?v=ir7W3D3wVX4",
+        "uploadDate": "2019-09-14",
+        "concepts": [],
+        "teachingPoints": [],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "A3OzMrXOs7A",
+        "title": "3RD PLACE GAME:  New Zealand v Slovenia | Full Basketball Game | FIBA U19 Basketball World Cup 2025",
+        "url": "https://youtu.be/A3OzMrXOs7A?l",
+        "uploadDate": "2025-07-06",
+        "concepts": [],
+        "teachingPoints": [
+            {
+                "teachingPoint_id": "TP-138",
+                "teachingPoint_name": "offball screen",
+                "teachingPoint_short_description": "#13 slovenia\r\n\r\ndidn't come off but legit way to obstruct bigs in the paint.",
+                "startTime": 835,
+                "endTime": 841,
+                "duration": "6 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=835&end=841",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-139",
+                "teachingPoint_name": "4 and 1 out - ball screen, drive to corner 3",
+                "teachingPoint_short_description": "4 and 1 out - ball screen, drive to corner 3",
+                "startTime": 951,
+                "endTime": 965,
+                "duration": "14 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=951&end=965",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-140",
+                "teachingPoint_name": "Ghost screen back cut",
+                "teachingPoint_short_description": "ball to corner, Ghost screen back cut",
+                "startTime": 970,
+                "endTime": 978,
+                "duration": "8 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=970&end=978",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-141",
+                "teachingPoint_name": "short to open baseline cut assist",
+                "teachingPoint_short_description": "short to open baseline cut assist",
+                "startTime": 1085,
+                "endTime": 1103,
+                "duration": "18 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=1085&end=1103",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-142",
+                "teachingPoint_name": "slovenia offense system",
+                "teachingPoint_short_description": "slovenia system\r\ninbound middle to wing, getz back and into low post",
+                "startTime": 1211,
+                "endTime": 1222,
+                "duration": "11 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=1211&end=1222",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-143",
+                "teachingPoint_name": "offball screen for 3",
+                "teachingPoint_short_description": "offball screen for 3",
+                "startTime": 1843,
+                "endTime": 1850,
+                "duration": "7 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=1843&end=1850",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-144",
+                "teachingPoint_name": "drive in and dish x2 pnp",
+                "teachingPoint_short_description": "drive in and dish x2 to create space at the top for a 3\r\nafter the dish pop",
+                "startTime": 1946,
+                "endTime": 1961,
+                "duration": "15 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=1946&end=1961",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-145",
+                "teachingPoint_name": "offball screen actions sequence (5 screens)",
+                "teachingPoint_short_description": "offball screen actions sequences - unpack this",
+                "startTime": 2161,
+                "endTime": 2173,
+                "duration": "12 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=2161&end=2173",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-146",
+                "teachingPoint_name": "blob baseline drive, stop, finish",
+                "teachingPoint_short_description": "inbound to short corner, getz action back to corner.. baseline drive stopped by defense, but then stepped back and finished well, good footwork and composure.",
+                "startTime": 2541,
+                "endTime": 2548,
+                "duration": "7 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=2541&end=2548",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-147",
+                "teachingPoint_name": "followed cutter for open drive",
+                "teachingPoint_short_description": "followed cutter for open drive",
+                "startTime": 2749,
+                "endTime": 2756,
+                "duration": "7 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=2749&end=2756",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-148",
+                "teachingPoint_name": "offball screen",
+                "teachingPoint_short_description": "#8 slovenia\r\n\r\ndidn't come off but legit way to obstruct bigs in the paint. - some kind of s move manouver between #8 and #15\r\nUNPACK",
+                "startTime": 3211,
+                "endTime": 3219,
+                "duration": "8 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=3211&end=3219",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-149",
+                "teachingPoint_name": "Good Boxing out",
+                "teachingPoint_short_description": "#13 aggressive positioning to box out",
+                "startTime": 3368,
+                "endTime": 3372,
+                "duration": "4 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=3368&end=3372",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-150",
+                "teachingPoint_name": "slovenia offensive",
+                "teachingPoint_short_description": "pistols, pnr, drive, pocket, back to top, dish to corner 3.\r\nnice passing!",
+                "startTime": 3821,
+                "endTime": 3839,
+                "duration": "18 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=3821&end=3839",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-151",
+                "teachingPoint_name": "box out",
+                "teachingPoint_short_description": "#13 watch as he screens a few times then first to box out",
+                "startTime": 5423,
+                "endTime": 5439,
+                "duration": "16 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=5423&end=5439",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-152",
+                "teachingPoint_name": "switch on help defense for open 3",
+                "teachingPoint_short_description": "switch on help defense for open 3",
+                "startTime": 5521,
+                "endTime": 5530,
+                "duration": "9 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=5521&end=5530",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-153",
+                "teachingPoint_name": "drive fake and step back jumper",
+                "teachingPoint_short_description": "nice drive fake and step back jumper",
+                "startTime": 5704,
+                "endTime": 5708,
+                "duration": "4 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=5704&end=5708",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-154",
+                "teachingPoint_name": "short corner low post spin",
+                "teachingPoint_short_description": "https://youtu.be/A3OzMrXOs7A?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=5904\r\nhttps://youtu.be/A3OzMrXOs7A?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=5909",
+                "startTime": 5904,
+                "endTime": 5909,
+                "duration": "5 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=5904&end=5909",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-155",
+                "teachingPoint_name": "screen into Pnr",
+                "teachingPoint_short_description": "#15\r\nscreen into Pnr",
+                "startTime": 6162,
+                "endTime": 6171,
+                "duration": "9 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=6162&end=6171",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-156",
+                "teachingPoint_name": "low post up (and 1)",
+                "teachingPoint_short_description": "low post up\r\nhttps://youtu.be/A3OzMrXOs7A?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=6184\r\nhttps://youtu.be/A3OzMrXOs7A?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=6201",
+                "startTime": 6184,
+                "endTime": 6201,
+                "duration": "17 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=6184&end=6201",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-157",
+                "teachingPoint_name": "low post to pocket assist",
+                "teachingPoint_short_description": "https://youtu.be/A3OzMrXOs7A?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=6625\r\nhttps://youtu.be/A3OzMrXOs7A?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=6639",
+                "startTime": 6625,
+                "endTime": 6639,
+                "duration": "14 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=6625&end=6639",
+                "keywords": [],
+                "educationalLevel": ""
+            },
+            {
+                "teachingPoint_id": "TP-158",
+                "teachingPoint_name": "drive to baseline bucket",
+                "teachingPoint_short_description": "https://youtu.be/A3OzMrXOs7A?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=7185\r\nhttps://youtu.be/A3OzMrXOs7A?list=PLCXERy73Oiz9rgreZ_tpfNhtFzFElvqFW&t=7194",
+                "startTime": 7185,
+                "endTime": 7194,
+                "duration": "9 seconds",
+                "video": "A3OzMrXOs7A",
+                "embed_url": "https://www.youtube.com/embed/A3OzMrXOs7A?start=7185&end=7194",
+                "keywords": [],
+                "educationalLevel": ""
+            }
+        ],
+        "teachingPoint": []
+    },
+    {
+        "videoId": "npepnW3ClSw",
+        "title": "Establishing your Values as a Coach | Jarrod Moore",
+        "url": "https://youtu.be/npepnW3ClSw",
+        "uploadDate": "2023-10-26",
+        "concepts": [],
+        "teachingPoints": [],
         "teachingPoint": []
     }
 ]

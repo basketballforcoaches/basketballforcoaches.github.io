@@ -542,7 +542,7 @@
     "TP-058": {
         "teachingPoint_id": "TP-058",
         "teachingPoint_name": "3v3 - drill hand off to basket (DHO)",
-        "teachingPoint_short_description": "create chaos and confusion for defence with this 3v3 game\r\n\r\nWhen he said go, if you can get out wide, we want to advance pass it (not just watch in confines of drill)",
+        "teachingPoint_short_description": "create chaos and confusion for defence with this 3v3 game\r\n\r\nWhen he said go, if you can get out wide, we want to advance pass it (not just watch in confines of drill)\r\n\r\n3 man weave DHO, when coach says go - attack basket (3v3)",
         "startTime": 1317,
         "endTime": 1342,
         "duration": "25 seconds",
@@ -707,6 +707,86 @@
         "endTime": 983,
         "duration": "9 seconds",
         "video": "cO5SIooszXg",
+        "visible": true
+    },
+    "TP-081": {
+        "teachingPoint_id": "TP-081",
+        "teachingPoint_name": "shorts/pistols pnr",
+        "teachingPoint_short_description": "shorts/pistols pnr",
+        "startTime": 725,
+        "endTime": 733,
+        "duration": "8 seconds",
+        "video": "LjePZIXJ82U",
+        "visible": true
+    },
+    "TP-082": {
+        "teachingPoint_id": "TP-082",
+        "teachingPoint_name": "baseline cut",
+        "teachingPoint_short_description": "inbound and full court ball movement through to baseline cut",
+        "startTime": 1021,
+        "endTime": 1032,
+        "duration": "11 seconds",
+        "video": "LjePZIXJ82U",
+        "visible": true
+    },
+    "TP-083": {
+        "teachingPoint_id": "TP-083",
+        "teachingPoint_name": "Draw help side defender and pocket pass",
+        "teachingPoint_short_description": "motion into low post, draw help defender and pocket pass for easy bucket",
+        "startTime": 1699,
+        "endTime": 1709,
+        "duration": "10 seconds",
+        "video": "LjePZIXJ82U",
+        "visible": true
+    },
+    "TP-085": {
+        "teachingPoint_id": "TP-085",
+        "teachingPoint_name": "simple stride stop shot fake layup",
+        "teachingPoint_short_description": "simple side stop hesi shot fake layup",
+        "startTime": 3594,
+        "endTime": 3600,
+        "duration": "6 seconds",
+        "video": "LjePZIXJ82U",
+        "visible": true
+    },
+    "TP-088": {
+        "teachingPoint_id": "TP-088",
+        "teachingPoint_name": "pass fake, then assist into key",
+        "teachingPoint_short_description": "inbound, into pistols - at 3 point line, see a pass fake and hook into key.\r\n\r\nInbounder runs a nicely timed rim run and easy bucket",
+        "startTime": 6684,
+        "endTime": 6690,
+        "duration": "6 seconds",
+        "video": "LjePZIXJ82U",
+        "visible": true
+    },
+    "TP-092": {
+        "teachingPoint_id": "TP-092",
+        "teachingPoint_name": "give and go (with deception)",
+        "teachingPoint_short_description": "#4 give and go - deceptive pop, then backcut to basket\r\n\r\nhttps://youtu.be/LjePZIXJ82U?t=7621",
+        "startTime": 7612,
+        "endTime": 7621,
+        "duration": "9 seconds",
+        "video": "LjePZIXJ82U",
+        "visible": true
+    },
+    "TP-102": {
+        "teachingPoint_id": "TP-102",
+        "teachingPoint_name": "high floater",
+        "teachingPoint_short_description": "high floater - 2 foot",
+        "startTime": 2538,
+        "endTime": 2542,
+        "duration": "4 seconds",
+        "video": "YnxR6vzUZT0",
+        "visible": true
+    },
+    "TP-114": {
+        "teachingPoint_id": "TP-114",
+        "teachingPoint_name": "corner cut to opposite 45 for step around 3",
+        "teachingPoint_short_description": "corner cut to opposite 45 for step around 3.\r\nUsed off balls screen to get space.\r\n\r\nIs that circle offense?",
+        "startTime": 1467,
+        "endTime": 1477,
+        "duration": "10 seconds",
+        "video": "KVq03nSbpM0",
         "visible": true
     }
 }
