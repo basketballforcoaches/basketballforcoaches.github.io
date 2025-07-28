@@ -435,6 +435,15 @@
                 "title": "scrimmage",
                 "notes": "can only catch inside key or outside 3.",
                 "plan": 5
+            },
+            {
+                "id": 26,
+                "teaching_points": [],
+                "order": 7,
+                "time_range": "10 min",
+                "title": "SLOB plays for u12",
+                "notes": "4v4 start from SLOB.\r\n\r\n2 near ball doing off ball screen\r\n1 in far corner baseline\r\nopposite corner half court line.\r\n\r\nwhen ref hands ball to us,\r\nstart a screen action and runners start to move, we're looking for getz pass intercept to basket.",
+                "plan": 5
             }
         ]
     }
