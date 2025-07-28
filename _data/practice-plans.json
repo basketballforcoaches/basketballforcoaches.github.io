@@ -361,5 +361,81 @@
                 "plan": 4
             }
         ]
+    },
+    {
+        "id": 5,
+        "title": "U12 Boys - Plan (Aug)",
+        "date": "2025-07-28",
+        "duration_minutes": 60,
+        "notes": "",
+        "segments": [
+            {
+                "id": 22,
+                "teaching_points": [],
+                "order": 1,
+                "time_range": "10 min",
+                "title": "Basketball Tag",
+                "notes": "In blue d - tag and run",
+                "plan": 5
+            },
+            {
+                "id": 20,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-056",
+                        "teachingPoint_name": "3v3 - drill - ball screen PnR drill.",
+                        "teachingPoint_short_description": "3 on 3 - each in a slot.\r\nmiddle pass and set on ball to side\r\n\r\nHelp side defense - must be low",
+                        "startTime": 1107,
+                        "endTime": 1243,
+                        "duration": "136 seconds",
+                        "video": "9uXjyH54toM",
+                        "embed_url": "https://www.youtube.com/embed/9uXjyH54toM?start=1107&end=1243",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "order": 2,
+                "time_range": "10 min",
+                "title": "Onball screen",
+                "notes": "3 O players, one in each corridor.  BH in middle.\r\n3 x def in front\r\n\r\nBH passes to next corridor, then runs over and sets on ball screen.\r\n\r\nBH steps middle using screen 2 dribble back to middle, then pass out and onball screen. passes back to middle,",
+                "plan": 5
+            },
+            {
+                "id": 21,
+                "teaching_points": [],
+                "order": 3,
+                "time_range": "10 min",
+                "title": "teach kids space..",
+                "notes": "space and corridor discussion.",
+                "plan": 5
+            },
+            {
+                "id": 23,
+                "teaching_points": [],
+                "order": 4,
+                "time_range": "10 min",
+                "title": "Birds in a box",
+                "notes": "4 offense players around keyway box.\r\n3 defenders inside - must get 3 stationary passes then play to basket.",
+                "plan": 5
+            },
+            {
+                "id": 24,
+                "teaching_points": [],
+                "order": 5,
+                "time_range": "10 min",
+                "title": "star passing",
+                "notes": "",
+                "plan": 5
+            },
+            {
+                "id": 25,
+                "teaching_points": [],
+                "order": 6,
+                "time_range": "10 min",
+                "title": "scrimmage",
+                "notes": "can only catch inside key or outside 3.",
+                "plan": 5
+            }
+        ]
     }
 ]
