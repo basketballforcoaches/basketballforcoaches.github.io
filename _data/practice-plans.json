@@ -510,25 +510,135 @@
             },
             {
                 "id": 31,
-                "teaching_points": [
+                "teaching_points": [],
+                "drills": [
                     {
-                        "teachingPoint_id": "TP-182",
-                        "teachingPoint_name": "Wall-Up 1v1",
-                        "teachingPoint_short_description": "Wall-Up 1v1",
-                        "startTime": 3396,
-                        "endTime": 3528,
-                        "duration": "132 seconds",
-                        "video": "4rBysu2EM3E",
-                        "embed_url": "https://www.youtube.com/embed/4rBysu2EM3E?start=3396&end=3528",
-                        "keywords": [],
-                        "educationalLevel": ""
+                        "drill_id": "ce8e1a2d-28bc-4151-af56-0c2d785be7ee",
+                        "title": "1v1 Shoulder Runs  (20250803)",
+                        "drillDescription": "tbc - not sure what this is - not bullyball?",
+                        "purpose": "defense - contain and push to corner.   Offense - explode and create advantage",
+                        "coachingPoints": "defense - keep offense along sideline, nose on shoulder.\r\noffense - explode/hesi and finishing",
+                        "rotations": "tbc",
+                        "source": "wyndham rep 20250803",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/ZaKQU0ELEx",
+                        "steps": [
+                            {
+                                "step_number": 1,
+                                "instruction": "line up on baseline, in corner.\r\nrun hard to centre and then 1v1 to basket.",
+                                "duration_seconds": null
+                            }
+                        ]
                     }
                 ],
-                "drills": [],
                 "order": 2,
-                "time_range": "test",
-                "title": "test",
-                "notes": "test",
+                "time_range": "10 min",
+                "title": "shoulder runs",
+                "notes": "shoulder runs (adapt to half court - work on footwork and containment.",
+                "plan": 7
+            },
+            {
+                "id": 32,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "f84fd562-a09d-4e5b-a797-75392cfaefdb",
+                        "title": "3v2 Rapid Traps and layups",
+                        "drillDescription": "coach trap",
+                        "purpose": "tbc",
+                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                        "rotations": "tbc",
+                        "source": "wyndham rep 20250803",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
+                        "steps": []
+                    }
+                ],
+                "order": 3,
+                "time_range": "10 min",
+                "title": "Pressure",
+                "notes": "pressure",
+                "plan": 7
+            },
+            {
+                "id": 33,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "f84fd562-a09d-4e5b-a797-75392cfaefdb",
+                        "title": "3v2 Rapid Traps and layups",
+                        "drillDescription": "coach trap",
+                        "purpose": "tbc",
+                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                        "rotations": "tbc",
+                        "source": "wyndham rep 20250803",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
+                        "steps": []
+                    }
+                ],
+                "order": 4,
+                "time_range": "10 min",
+                "title": "3v2 Rapid layups and traps",
+                "notes": "3v2 Rapid layups and traps",
+                "plan": 7
+            },
+            {
+                "id": 34,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "b0a616c5-3672-4bd4-bda2-630e5681aa52",
+                        "title": "Bullets (1v1)",
+                        "drillDescription": "Putting dribble moves and finishes into game scenarios",
+                        "purpose": "",
+                        "coachingPoints": "move on the move (eg watch for move to start). Explode, \"be trickey\", attack angle.\r\nDefense - force wide, not middle",
+                        "rotations": "O to D, D to O, otherwise line up.\r\nCan have 2 lines.",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn -  handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/8fJrxLIj8U",
+                        "steps": [
+                            {
+                                "step_number": 1,
+                                "instruction": "O starts with live dribble.  A crossover dribble game is live.  D must get both heels outside the 3..  8 second shotclock.",
+                                "duration_seconds": null
+                            }
+                        ]
+                    }
+                ],
+                "order": 5,
+                "time_range": "1v1 Bullets",
+                "title": "1v1 Bullets",
+                "notes": "1v1 Bullets",
+                "plan": 7
+            },
+            {
+                "id": 35,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "b0dd282d-0c46-4692-b338-3524b2a8e5fb",
+                        "title": "Drive - Kick - Swing",
+                        "drillDescription": "Drive - Kick - Swing",
+                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (pop)",
+                        "rotations": "",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                        "steps": [
+                            {
+                                "step_number": 1,
+                                "instruction": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again",
+                                "duration_seconds": null
+                            },
+                            {
+                                "step_number": 1,
+                                "instruction": "4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                                "duration_seconds": null
+                            }
+                        ]
+                    }
+                ],
+                "order": 6,
+                "time_range": "DKS",
+                "title": "DKS",
+                "notes": "drill DKS formation, instead of shoot, drive for a back cut.  *4v3?",
                 "plan": 7
             }
         ]
