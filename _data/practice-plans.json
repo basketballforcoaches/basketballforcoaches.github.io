@@ -8,7 +8,7 @@
         "segments": [
             {
                 "id": 1,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 1,
                 "time_range": "0 to 10 min",
@@ -18,8 +18,8 @@
             },
             {
                 "id": 2,
-                "teaching_points": {
-                    "TP-004": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-004",
                         "teachingPoint_name": "Pass and Cut Drill",
                         "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
@@ -31,7 +31,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 2,
                 "time_range": "10 to 20 min",
@@ -41,8 +41,8 @@
             },
             {
                 "id": 3,
-                "teaching_points": {
-                    "TP-004": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-004",
                         "teachingPoint_name": "Pass and Cut Drill",
                         "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
@@ -54,7 +54,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 3,
                 "time_range": "10 to 20 min",
@@ -64,8 +64,8 @@
             },
             {
                 "id": 4,
-                "teaching_points": {
-                    "TP-005": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-005",
                         "teachingPoint_name": "lay up, in bound and trap",
                         "teachingPoint_short_description": "lay ups and in bounding. (10 makes - can adjust layup style) limit balls.\r\nGreat teaching points for Junior boys.\r\n+ adapted to add defensive trap on top of inbound ball (teaching how to hunt) - \r\n\r\n# 3 traps to change trappers.\r\n# 10 makes before changing up lay-up.",
@@ -77,7 +77,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 4,
                 "time_range": "30 to 40 min",
@@ -87,8 +87,8 @@
             },
             {
                 "id": 5,
-                "teaching_points": {
-                    "TP-058": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-058",
                         "teachingPoint_name": "3v3 - drill hand off to basket (DHO)",
                         "teachingPoint_short_description": "create chaos and confusion for defence with this 3v3 game\r\n\r\nWhen he said go, if you can get out wide, we want to advance pass it (not just watch in confines of drill)\r\n\r\n3 man weave DHO, when coach says go - attack basket (3v3)",
@@ -100,7 +100,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 5,
                 "time_range": "40 to 50 min",
@@ -110,7 +110,7 @@
             },
             {
                 "id": 6,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 6,
                 "time_range": "10min",
@@ -129,7 +129,7 @@
         "segments": [
             {
                 "id": 7,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 1,
                 "time_range": "10 min",
@@ -139,7 +139,7 @@
             },
             {
                 "id": 8,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 2,
                 "time_range": "10 min",
@@ -149,8 +149,8 @@
             },
             {
                 "id": 9,
-                "teaching_points": {
-                    "TP-015": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-015",
                         "teachingPoint_name": "5 out (motion offense)",
                         "teachingPoint_short_description": "focus is on cutting - 3 dribbles max - full court scrimmage",
@@ -162,7 +162,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 3,
                 "time_range": "10 min",
@@ -172,7 +172,7 @@
             },
             {
                 "id": 10,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 4,
                 "time_range": "pressure",
@@ -182,8 +182,8 @@
             },
             {
                 "id": 11,
-                "teaching_points": {
-                    "TP-005": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-005",
                         "teachingPoint_name": "lay up, in bound and trap",
                         "teachingPoint_short_description": "lay ups and in bounding. (10 makes - can adjust layup style) limit balls.\r\nGreat teaching points for Junior boys.\r\n+ adapted to add defensive trap on top of inbound ball (teaching how to hunt) - \r\n\r\n# 3 traps to change trappers.\r\n# 10 makes before changing up lay-up.",
@@ -195,7 +195,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 5,
                 "time_range": "layup drill with tra",
@@ -205,7 +205,7 @@
             },
             {
                 "id": 12,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 6,
                 "time_range": "3 point shooting",
@@ -224,7 +224,7 @@
         "segments": [
             {
                 "id": 16,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 1,
                 "time_range": "finishing in paint",
@@ -234,8 +234,8 @@
             },
             {
                 "id": 13,
-                "teaching_points": {
-                    "TP-018": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-018",
                         "teachingPoint_name": "5 out - pass/cut/replace (random)",
                         "teachingPoint_short_description": "Rules:\r\n1) If you pass, you must cut – either to the basket or through to the weak side.\r\n 2) If a teammate cuts and you're next to the open space, you must replace to keep the spacing.\r\n\r\nThis is an important foundation for building on top of this system.",
@@ -247,7 +247,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 2,
                 "time_range": "10 min",
@@ -257,8 +257,8 @@
             },
             {
                 "id": 14,
-                "teaching_points": {
-                    "TP-031": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-031",
                         "teachingPoint_name": "Read & React Layer 3: hook and look - demo",
                         "teachingPoint_short_description": "Must set up post markers\r\n\r\ncut to key - hook and look for the ball.\r\nStay until next pass is caught.\r\nMove",
@@ -270,7 +270,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 3,
                 "time_range": "10 min",
@@ -280,8 +280,8 @@
             },
             {
                 "id": 15,
-                "teaching_points": {
-                    "TP-036": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-036",
                         "teachingPoint_name": "Post move (drop step moses)",
                         "teachingPoint_short_description": "4 kids.\r\n\r\nwing and low post - both sides.\r\n\r\nstart wing, shotfake then > pass into low post\r\nlow post receive (drop step/turn and shoot)\r\nrebound and kick out to opposite side to reset.",
@@ -293,7 +293,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 4,
                 "time_range": "5 min",
@@ -303,8 +303,8 @@
             },
             {
                 "id": 18,
-                "teaching_points": {
-                    "TP-037": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-037",
                         "teachingPoint_name": "Post move (up and under - dominique)",
                         "teachingPoint_short_description": "4 kids.\r\n\r\nwing and low post - both sides.\r\n\r\nstart wing, shotfake, side step > pass into low post\r\nlow post receive (pivot - either baseline or to foul line) > shot fake and score.\r\nIf you need to dribble (only 1 once between legs) - but try to avoid it)\r\n\r\nrebound and kick out to opposite side to reset.",
@@ -316,7 +316,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 5,
                 "time_range": "5 min",
@@ -326,8 +326,8 @@
             },
             {
                 "id": 19,
-                "teaching_points": {
-                    "TP-035": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-035",
                         "teachingPoint_name": "break press when inbounding after score.",
                         "teachingPoint_short_description": "1-2-2 press breaker.\r\n\r\nsimpler version of sideline",
@@ -339,7 +339,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 6,
                 "time_range": "15 min",
@@ -358,8 +358,8 @@
         "segments": [
             {
                 "id": 17,
-                "teaching_points": {
-                    "TP-035": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-035",
                         "teachingPoint_name": "break press when inbounding after score.",
                         "teachingPoint_short_description": "1-2-2 press breaker.\r\n\r\nsimpler version of sideline",
@@ -371,7 +371,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 3,
                 "time_range": "15 min",
@@ -390,7 +390,7 @@
         "segments": [
             {
                 "id": 22,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 1,
                 "time_range": "10 min",
@@ -400,8 +400,8 @@
             },
             {
                 "id": 20,
-                "teaching_points": {
-                    "TP-056": {
+                "teaching_points": [
+                    {
                         "teachingPoint_id": "TP-056",
                         "teachingPoint_name": "3v3 - drill - ball screen PnR drill.",
                         "teachingPoint_short_description": "3 on 3 - each in a slot.\r\nmiddle pass and set on ball to side\r\n\r\nHelp side defense - must be low",
@@ -413,7 +413,7 @@
                         "keywords": [],
                         "educationalLevel": ""
                     }
-                },
+                ],
                 "drills": [],
                 "order": 2,
                 "time_range": "10 min",
@@ -423,7 +423,7 @@
             },
             {
                 "id": 21,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 3,
                 "time_range": "10 min",
@@ -433,7 +433,7 @@
             },
             {
                 "id": 23,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 4,
                 "time_range": "10 min",
@@ -443,7 +443,7 @@
             },
             {
                 "id": 24,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 5,
                 "time_range": "10 min",
@@ -453,7 +453,7 @@
             },
             {
                 "id": 25,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 6,
                 "time_range": "10 min",
@@ -463,13 +463,73 @@
             },
             {
                 "id": 26,
-                "teaching_points": {},
+                "teaching_points": [],
                 "drills": [],
                 "order": 7,
                 "time_range": "10 min",
                 "title": "SLOB plays for u12",
                 "notes": "4v4 start from SLOB.\r\n\r\n2 near ball doing off ball screen\r\n1 in far corner baseline\r\nopposite corner half court line.\r\n\r\nwhen ref hands ball to us,\r\nstart a screen action and runners start to move, we're looking for getz pass intercept to basket.",
                 "plan": 5
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "U12 Boys - Plan (Aug - week 1)",
+        "date": "2025-08-04",
+        "duration_minutes": 60,
+        "notes": "20250804",
+        "segments": [
+            {
+                "id": 30,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "1a8d3c4e-d40f-4964-9072-f8654df8035e",
+                        "title": "Rock Paper Scissors Tag",
+                        "drillDescription": "Fun warm up game to get players ready to practice and compete",
+                        "purpose": "warm up and add mental load",
+                        "coachingPoints": "Basketball posture, hips down, chest up, weak side dribble",
+                        "rotations": "",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn -  handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/s0MgY2XOtx",
+                        "steps": [
+                            {
+                                "step_number": 1,
+                                "instruction": "Get into pairs.  Everyone has a ball.\r\nFace eachother > pound dribble - wrong side \r\nPlay 1 round of rock paper scissors\r\nwinner turns and bolts to side line - if they arrive with out being tagged, they get 1 point\r\nloser follows, if they manage to tag, they reverse and loser bots to other side line - if they get there with out tag, get 1 point.  if tagged reset.\r\n\r\nFirst to 5 points wins the game",
+                                "duration_seconds": null
+                            }
+                        ]
+                    }
+                ],
+                "order": 1,
+                "time_range": "10 min",
+                "title": "Paper Rock Scissors",
+                "notes": "PRS",
+                "plan": 7
+            },
+            {
+                "id": 31,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-182",
+                        "teachingPoint_name": "Wall-Up 1v1",
+                        "teachingPoint_short_description": "Wall-Up 1v1",
+                        "startTime": 3396,
+                        "endTime": 3528,
+                        "duration": "132 seconds",
+                        "video": "4rBysu2EM3E",
+                        "embed_url": "https://www.youtube.com/embed/4rBysu2EM3E?start=3396&end=3528",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 2,
+                "time_range": "test",
+                "title": "test",
+                "notes": "test",
+                "plan": 7
             }
         ]
     }
