@@ -5,7 +5,7 @@ theme: minima
 header_pages:
   - concepts.html
   - teaching-points.md
-  - practice/index.md
+  - practice/index_v2.md
   - blog.html
 
 include:

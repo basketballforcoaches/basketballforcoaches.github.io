@@ -44,6 +44,22 @@ permalink: /practice/
         </div>
       `).join("");
 
+      const drillsHTML = (segment.drills || []).map(drill => `
+        <div class="card mb-4 border-success">
+          <div class="card-body">
+            <h5 class="card-title">🛠️ ${drill.title}</h5>
+            <p class="card-text"><strong>Description:</strong> ${drill.drillDescription}</p>
+            <p class="card-text"><strong>Purpose:</strong> ${drill.purpose || "—"}</p>
+            <p class="card-text"><strong>Coaching Points:</strong> ${drill.coachingPoints || "—"}</p>
+            ${drill.diagramEmbedUrl_1 ? `
+              <div class="ratio ratio-16x9 mb-3">
+                <iframe src="${drill.diagramEmbedUrl_1}" title="${drill.title} diagram" allowfullscreen></iframe>
+              </div>
+            ` : ''}
+          </div>
+        </div>
+      `).join("");
+
       container.innerHTML += `
         <div class="accordion-item">
           <h2 class="accordion-header" id="heading${index}">
@@ -54,8 +70,9 @@ permalink: /practice/
           <div id="collapse${index}" class="accordion-collapse collapse ${index === 0 ? 'show' : ''}" aria-labelledby="heading${index}" data-bs-parent="#practicePlan">
             <div class="accordion-body">
               <strong>Focus:</strong> ${segment.title}<br>
-              <strong>Notes:</strong> ${segment.notes || "—"}<br>
+              <strong>Notes:</strong> ${segment.notes || "—"}<br><br>
               ${teachingPointsHTML}
+              ${drillsHTML}
             </div>
           </div>
         </div>
