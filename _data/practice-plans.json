@@ -636,5 +636,287 @@
                 "plan": 7
             }
         ]
+    },
+    {
+        "id": 8,
+        "title": "U12 Boys - Plan (Aug - week 2)",
+        "date": "2025-08-09",
+        "duration_minutes": 60,
+        "notes": "U12 Boys - Plan (Aug - week 2)",
+        "segments": [
+            {
+                "id": 38,
+                "teaching_points": [],
+                "drills": [],
+                "order": 1,
+                "time_range": "10 min",
+                "title": "Bball Tag",
+                "notes": "",
+                "plan": 8
+            },
+            {
+                "id": 39,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "b0dd282d-0c46-4692-b338-3524b2a8e5fb",
+                        "title": "Drive - Kick - Swing (continous)",
+                        "drillDescription": "Drive - Kick - Swing  (continous)",
+                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                        "rotations": "team lines up behind wing/seam. | new player drops in after each rotation. | last pass corner drops out (joins back of line).\r\nget everyone through once (time how long it takes (voices/running) passing, realistic drives.",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                        "steps": [
+                            {
+                                "step_number": 1,
+                                "instruction": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again",
+                                "duration_seconds": null
+                            },
+                            {
+                                "step_number": 1,
+                                "instruction": "4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                                "duration_seconds": null
+                            }
+                        ]
+                    }
+                ],
+                "order": 2,
+                "time_range": "10 to 20",
+                "title": "DKS",
+                "notes": "drill DKS formation, instead of shoot, drive for a back cut.  *4v3?",
+                "plan": 8
+            },
+            {
+                "id": 40,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "f84fd562-a09d-4e5b-a797-75392cfaefdb",
+                        "title": "3v2 Rapid Traps and layups",
+                        "drillDescription": "coach trap",
+                        "purpose": "tbc",
+                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                        "rotations": "tbc",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
+                        "steps": []
+                    }
+                ],
+                "order": 3,
+                "time_range": "20 to 30",
+                "title": "continous layups and traps",
+                "notes": "",
+                "plan": 8
+            },
+            {
+                "id": 41,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-183",
+                        "teachingPoint_name": "Shooting Game - AIS Shooting",
+                        "teachingPoint_short_description": "a) 2 teams opposing short corner shots (First to 9, last 2 must be in a row)\r\nb) low block\r\nc) Elbows\r\nd) middle free throw, both sides.",
+                        "startTime": 4818,
+                        "endTime": 5140,
+                        "duration": "322 seconds",
+                        "video": "4rBysu2EM3E",
+                        "embed_url": "https://www.youtube.com/embed/4rBysu2EM3E?start=4818&end=5140",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 4,
+                "time_range": "30 to 40 min",
+                "title": "form shooting 6 spots - team get 8 (last 2 in a row)",
+                "notes": "",
+                "plan": 8
+            },
+            {
+                "id": 42,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "ca81f181-6b36-408a-a06d-4229b66fc850",
+                        "title": "Box out and Rebound",
+                        "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
+                        "purpose": "Increase Box out rotations",
+                        "coachingPoints": "Box out (seal, pushback_",
+                        "rotations": "4 in key, 3 out",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
+                        "steps": []
+                    }
+                ],
+                "order": 5,
+                "time_range": "40 to 50 min",
+                "title": "boxing out drill",
+                "notes": "",
+                "plan": 8
+            },
+            {
+                "id": 43,
+                "teaching_points": [],
+                "drills": [],
+                "order": 6,
+                "time_range": "50 to 60 min",
+                "title": "scrimmage",
+                "notes": "",
+                "plan": 8
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "U14 Boys - Plan (Aug - week 2)",
+        "date": "2025-08-09",
+        "duration_minutes": 60,
+        "notes": "",
+        "segments": [
+            {
+                "id": 36,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "ca81f181-6b36-408a-a06d-4229b66fc850",
+                        "title": "Box out and Rebound",
+                        "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
+                        "purpose": "Increase Box out rotations",
+                        "coachingPoints": "Box out (seal, pushback_",
+                        "rotations": "4 in key, 3 out",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
+                        "steps": []
+                    }
+                ],
+                "order": 1,
+                "time_range": "10 min",
+                "title": "Ball tap",
+                "notes": "tbc",
+                "plan": 9
+            },
+            {
+                "id": 37,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-178",
+                        "teachingPoint_name": "Boxing out (with 3 progressions)",
+                        "teachingPoint_short_description": "Boxing out drill for U14\r\nStart with stationary ball on ground\r\nprogress to shot over top\r\nprogress to rin (1 pair at at time) - games ends - can set up 3 groups.",
+                        "startTime": 1500,
+                        "endTime": 2010,
+                        "duration": "510 seconds",
+                        "video": "4rBysu2EM3E",
+                        "embed_url": "https://www.youtube.com/embed/4rBysu2EM3E?start=1500&end=2010",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [
+                    {
+                        "drill_id": "b0dd282d-0c46-4692-b338-3524b2a8e5fb",
+                        "title": "Drive - Kick - Swing (continous)",
+                        "drillDescription": "Drive - Kick - Swing  (continous)",
+                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                        "rotations": "team lines up behind wing/seam. | new player drops in after each rotation. | last pass corner drops out (joins back of line).\r\nget everyone through once (time how long it takes (voices/running) passing, realistic drives.",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                        "steps": [
+                            {
+                                "step_number": 1,
+                                "instruction": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again",
+                                "duration_seconds": null
+                            },
+                            {
+                                "step_number": 1,
+                                "instruction": "4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                                "duration_seconds": null
+                            }
+                        ]
+                    }
+                ],
+                "order": 2,
+                "time_range": "10 to 20 min",
+                "title": "DKS",
+                "notes": "drive kick swing - drill ball movement strong passing and hard running",
+                "plan": 9
+            },
+            {
+                "id": 44,
+                "teaching_points": [],
+                "drills": [],
+                "order": 3,
+                "time_range": "20 to 30",
+                "title": "AIS shooting",
+                "notes": "form shooting",
+                "plan": 9
+            },
+            {
+                "id": 45,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "b0a616c5-3672-4bd4-bda2-630e5681aa52",
+                        "title": "Bullets (1v1)",
+                        "drillDescription": "Putting dribble moves and finishes into game scenarios",
+                        "purpose": "",
+                        "coachingPoints": "move on the move (eg watch for move to start). Explode, \"be trickey\", attack angle.\r\nDefense - force wide, not middle",
+                        "rotations": "O to D, D to O, otherwise line up.\r\nCan have 2 lines.",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/8fJrxLIj8U",
+                        "steps": [
+                            {
+                                "step_number": 1,
+                                "instruction": "O starts with live dribble.  A crossover dribble game is live.  D must get both heels outside the 3..  8 second shotclock.",
+                                "duration_seconds": null
+                            }
+                        ]
+                    }
+                ],
+                "order": 4,
+                "time_range": "30 to 40 min",
+                "title": "Box out and Rebound",
+                "notes": "Play as per drill - 2v2 first to 3 stops",
+                "plan": 9
+            },
+            {
+                "id": 46,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-004",
+                        "teachingPoint_name": "Pass and Cut Drill",
+                        "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
+                        "startTime": 3,
+                        "endTime": 25,
+                        "duration": "22 seconds",
+                        "video": "DGK4f0GzAC4",
+                        "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 5,
+                "time_range": "40 to 50 min",
+                "title": "Pass and cut",
+                "notes": "",
+                "plan": 9
+            },
+            {
+                "id": 47,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "f84fd562-a09d-4e5b-a797-75392cfaefdb",
+                        "title": "3v2 Rapid Traps and layups",
+                        "drillDescription": "coach trap",
+                        "purpose": "tbc",
+                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                        "rotations": "tbc",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
+                        "steps": []
+                    }
+                ],
+                "order": 6,
+                "time_range": "50 to 60 min",
+                "title": "rapid layup and trap",
+                "notes": "add 2 on 1 to inbound the ball and get back to middle",
+                "plan": 9
+            }
+        ]
     }
 ]
