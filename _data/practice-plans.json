@@ -1127,6 +1127,29 @@
                 "title": "Boxing out",
                 "notes": "4 middle (2 yellow/2 blue)\r\n4 shooters (2 yellow/2 blue)\r\n\r\nBox out and kick out to shooter > hot potatoe pass to open wing/corner.\r\n\r\nFirst team to 10 wins (box out gets 2 points) - 3 gets 1 point\r\nshooters must alternate 3 and mid range shots (step in) .\r\n\r\nvoices",
                 "plan": 12
+            },
+            {
+                "id": 60,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-183",
+                        "teachingPoint_name": "Shooting Game - AIS Shooting",
+                        "teachingPoint_short_description": "a) 2 teams opposing short corner shots (First to 9, last 2 must be in a row)\r\nb) low block\r\nc) Elbows\r\nd) middle free throw, both sides.",
+                        "startTime": 4818,
+                        "endTime": 5140,
+                        "duration": "322 seconds",
+                        "video": "4rBysu2EM3E",
+                        "embed_url": "https://www.youtube.com/embed/4rBysu2EM3E?start=4818&end=5140",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 5,
+                "time_range": "10 min",
+                "title": "AIS Shooting",
+                "notes": "Compete 4v4 across 3 spots.\r\nFirst team to get 9 (last 2 shots must be in a row, for winning team to progress).\r\n\r\nLow Block\r\nShort Corner\r\nElbow\r\nFree throw (adjacent)\r\n\r\nUsually the team who wins this is creating good energy - good voice.",
+                "plan": 12
             }
         ]
     }
