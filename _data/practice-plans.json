@@ -1043,5 +1043,91 @@
                 "plan": 11
             }
         ]
+    },
+    {
+        "id": 12,
+        "title": "U18 Boys - Plan (Aug - week 4)",
+        "date": "2025-08-27",
+        "duration_minutes": 60,
+        "notes": "",
+        "segments": [
+            {
+                "id": 56,
+                "teaching_points": [],
+                "drills": [],
+                "order": 0,
+                "time_range": "0-10 min",
+                "title": "Team Discussion",
+                "notes": "Down 10 points in the first, Down 20 in second. Team energy is down - Everyone is frustrated.\r\nHow do we get back into the game?\r\nWhat actions can you take to lift the team?\r\nWhat is the single biggest thing you could do?",
+                "plan": 12
+            },
+            {
+                "id": 57,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-033",
+                        "teachingPoint_name": "warm up - Star passing",
+                        "teachingPoint_short_description": "Start passing warm up\r\n\r\nno dribble - good movement.\r\n    \r\nhttps://youtu.be/qaQKiZsLNYU?t=8\r\nhttps://youtu.be/qaQKiZsLNYU?t=74",
+                        "startTime": 2,
+                        "endTime": 74,
+                        "duration": "72 seconds",
+                        "video": "qaQKiZsLNYU",
+                        "embed_url": "https://www.youtube.com/embed/qaQKiZsLNYU?start=2&end=74",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 1,
+                "time_range": "10 min",
+                "title": "Star Passing",
+                "notes": "4 players start on 2 elbows and low  blocks.  \r\ninbound from baseline.\r\nfacing basket - \r\nLeft  inbound to right elbow, to left low block to right low block to right elbow - drive to basket.\r\nRun to where you pass.\r\nloud voice - clean passing - fast movement\r\n\r\n\r\nGet #20 without missing.\r\n\r\nnew line with different colour ball - add 2nd ball (different colour) \r\nRun to where you pass.",
+                "plan": 12
+            },
+            {
+                "id": 59,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-004",
+                        "teachingPoint_name": "Pass and Cut Drill",
+                        "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
+                        "startTime": 3,
+                        "endTime": 25,
+                        "duration": "22 seconds",
+                        "video": "DGK4f0GzAC4",
+                        "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 3,
+                "time_range": "10 min",
+                "title": "Pass and Cut Triangles",
+                "notes": "Pass and cut.\r\nGet it going both sides - face cut, and finish in paint.\r\nVoice, hands.\r\n\r\nOffense read defensive footwork\r\nDefence - no foul, read lead foot.",
+                "plan": 12
+            },
+            {
+                "id": 58,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "ca81f181-6b36-408a-a06d-4229b66fc850",
+                        "title": "Box out and Rebound",
+                        "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
+                        "purpose": "Increase Box out rotations",
+                        "coachingPoints": "Box out (seal, pushback_",
+                        "rotations": "4 in key, 3 out",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
+                        "steps": []
+                    }
+                ],
+                "order": 4,
+                "time_range": "10 min",
+                "title": "Boxing out",
+                "notes": "4 middle (2 yellow/2 blue)\r\n4 shooters (2 yellow/2 blue)\r\n\r\nBox out and kick out to shooter > hot potatoe pass to open wing/corner.\r\n\r\nFirst team to 10 wins (box out gets 2 points) - 3 gets 1 point\r\nshooters must alternate 3 and mid range shots (step in) .\r\n\r\nvoices",
+                "plan": 12
+            }
+        ]
     }
 ]
