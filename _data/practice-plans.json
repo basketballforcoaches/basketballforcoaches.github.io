@@ -1274,6 +1274,29 @@
                 "title": "tbc 214",
                 "notes": "",
                 "plan": 13
+            },
+            {
+                "id": 66,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-215",
+                        "teachingPoint_name": "add defense",
+                        "teachingPoint_short_description": "add defense and cut rotations - looks good\r\n\r\nstop middle penetration",
+                        "startTime": 387,
+                        "endTime": 443,
+                        "duration": "56 seconds",
+                        "video": "Mj-vaDEH7_M",
+                        "embed_url": "https://www.youtube.com/embed/Mj-vaDEH7_M?start=387&end=443",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 5,
+                "time_range": "dyanmic finishing",
+                "title": "215- add defence",
+                "notes": "Driver must get feet into paint, then kick to wing.\r\nDefence and offense must race to 3 point line, then both cut back to get pass to bucket\r\n\r\nRotations.  defence to wing, offense to defense, wing to line",
+                "plan": 13
             }
         ]
     }
