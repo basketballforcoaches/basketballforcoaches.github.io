@@ -1152,5 +1152,129 @@
                 "plan": 12
             }
         ]
+    },
+    {
+        "id": 13,
+        "title": "U12 Boys - Plan (Sep- week 1)",
+        "date": "2025-09-01",
+        "duration_minutes": 60,
+        "notes": "",
+        "segments": [
+            {
+                "id": 61,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-210",
+                        "teachingPoint_name": "baseline drive",
+                        "teachingPoint_short_description": "https://youtu.be/Mj-vaDEH7_M?t=135https://youtu.be/Mj-vaDEH7_M?t=135\r\nhttps://youtu.be/Mj-vaDEH7_M?t=167",
+                        "startTime": 135,
+                        "endTime": 167,
+                        "duration": "32 seconds",
+                        "video": "Mj-vaDEH7_M",
+                        "embed_url": "https://www.youtube.com/embed/Mj-vaDEH7_M?start=135&end=167",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 0,
+                "time_range": "pass tag",
+                "title": "pass tag",
+                "notes": "pass tag",
+                "plan": 13
+            },
+            {
+                "id": 62,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-208",
+                        "teachingPoint_name": "drive and dish p1",
+                        "teachingPoint_short_description": "all players (except 2) at half court right side.\r\n1 cone left wing (or between wing and elbow)\r\n1 cone outside middle key (between L and H Block)\r\n\r\nBH drives to basket, after rounding cone dish to cutting wing, how catches to layup.\r\nRebounder graps ball and goes to halfcout line.\r\ncutter becomes rebounder\r\ndriver becomes cutter.\r\n\r\ncoaching points: go for high tempo and timing.",
+                        "startTime": 20,
+                        "endTime": 119,
+                        "duration": "99 seconds",
+                        "video": "Mj-vaDEH7_M",
+                        "embed_url": "https://www.youtube.com/embed/Mj-vaDEH7_M?start=20&end=119",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 1,
+                "time_range": "drive and dish",
+                "title": "drive and dish",
+                "notes": "",
+                "plan": 13
+            },
+            {
+                "id": 63,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-209",
+                        "teachingPoint_name": "backdoor cuts",
+                        "teachingPoint_short_description": "drive middle and pass to corner cutter",
+                        "startTime": 120,
+                        "endTime": 135,
+                        "duration": "15 seconds",
+                        "video": "Mj-vaDEH7_M",
+                        "embed_url": "https://www.youtube.com/embed/Mj-vaDEH7_M?start=120&end=135",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 2,
+                "time_range": "backldor cuts",
+                "title": "backldor cuts",
+                "notes": "",
+                "plan": 13
+            },
+            {
+                "id": 64,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-213",
+                        "teachingPoint_name": "additional passing (try)",
+                        "teachingPoint_short_description": "https://youtu.be/Mj-vaDEH7_M?t=335https://youtu.be/Mj-vaDEH7_M?t=370",
+                        "startTime": 334,
+                        "endTime": 370,
+                        "duration": "36 seconds",
+                        "video": "Mj-vaDEH7_M",
+                        "embed_url": "https://www.youtube.com/embed/Mj-vaDEH7_M?start=334&end=370",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 3,
+                "time_range": "tbc",
+                "title": "tbc 213",
+                "notes": "",
+                "plan": 13
+            },
+            {
+                "id": 65,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-214",
+                        "teachingPoint_name": "additional passing (try)",
+                        "teachingPoint_short_description": "https://youtu.be/Mj-vaDEH7_M?t=386",
+                        "startTime": 370,
+                        "endTime": 386,
+                        "duration": "16 seconds",
+                        "video": "Mj-vaDEH7_M",
+                        "embed_url": "https://www.youtube.com/embed/Mj-vaDEH7_M?start=370&end=386",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 4,
+                "time_range": "tbc",
+                "title": "tbc 214",
+                "notes": "",
+                "plan": 13
+            }
+        ]
     }
 ]
