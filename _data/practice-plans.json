@@ -1410,5 +1410,126 @@
                 "plan": 14
             }
         ]
+    },
+    {
+        "id": 15,
+        "title": "Summer25 - Fundamentals",
+        "date": "2025-10-13",
+        "duration_minutes": 60,
+        "notes": "",
+        "segments": [
+            {
+                "id": 75,
+                "teaching_points": [],
+                "drills": [],
+                "order": 0,
+                "time_range": "Basketball Tag",
+                "title": "Basketball Tag",
+                "notes": "",
+                "plan": 15
+            },
+            {
+                "id": 76,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-255",
+                        "teachingPoint_name": "footwork warm up - 1",
+                        "teachingPoint_short_description": "3 cones at wings.\r\n\r\nPlayer starts at corners with ball.\r\nsteps in and out upto cone, then big step attack rim.\r\nGet past cone, throw it down and lay it up.",
+                        "startTime": 0,
+                        "endTime": 62,
+                        "duration": "62 seconds",
+                        "video": "TUa10GnqzB4",
+                        "embed_url": "https://www.youtube.com/embed/TUa10GnqzB4?start=0&end=62",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 1,
+                "time_range": "Footwork warm up 1",
+                "title": "Footwork warm up 1",
+                "notes": "Footwork warm up 1",
+                "plan": 15
+            },
+            {
+                "id": 77,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-256",
+                        "teachingPoint_name": "footwork warm up - 2",
+                        "teachingPoint_short_description": "3 cones at wings.\r\n\r\nPlayer starts at corners with ball.\r\n\r\nsame potions, but now front cross, through cross, from corner to wing.\r\nJump stop.\r\nReverse spin\r\nAttack step,\r\nget to paint and pull up for a 2 foot stop jump shot.\r\n\r\nFocus on attack step (on both sides)",
+                        "startTime": 70,
+                        "endTime": 119,
+                        "duration": "49 seconds",
+                        "video": "TUa10GnqzB4",
+                        "embed_url": "https://www.youtube.com/embed/TUa10GnqzB4?start=70&end=119",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 2,
+                "time_range": "Footwork warm up 2",
+                "title": "Footwork warm up 2",
+                "notes": "Footwork warm up 2",
+                "plan": 15
+            },
+            {
+                "id": 78,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-259",
+                        "teachingPoint_name": "footwork warm up - 4",
+                        "teachingPoint_short_description": "Drop, throw, sweep (eyes at rim)",
+                        "startTime": 363,
+                        "endTime": 401,
+                        "duration": "38 seconds",
+                        "video": "TUa10GnqzB4",
+                        "embed_url": "https://www.youtube.com/embed/TUa10GnqzB4?start=363&end=401",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 3,
+                "time_range": "Footwork warm up 3",
+                "title": "Footwork warm up 3",
+                "notes": "Footwork warm up 3",
+                "plan": 15
+            },
+            {
+                "id": 79,
+                "teaching_points": [],
+                "drills": [],
+                "order": 4,
+                "time_range": "Footwork warm up 4",
+                "title": "Footwork warm up 4",
+                "notes": "Footwork warm up 4",
+                "plan": 15
+            },
+            {
+                "id": 80,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-260",
+                        "teachingPoint_name": "footwork warm up - 5",
+                        "teachingPoint_short_description": "spin - catch - jab - cross - spin - attack (1 step, pull up and shot)\r\n\r\nhttps://youtu.be/TUa10GnqzB4?t=511",
+                        "startTime": 445,
+                        "endTime": 511,
+                        "duration": "66 seconds",
+                        "video": "TUa10GnqzB4",
+                        "embed_url": "https://www.youtube.com/embed/TUa10GnqzB4?start=445&end=511",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 5,
+                "time_range": "Footwork warm up 5",
+                "title": "Footwork warm up 5",
+                "notes": "Footwork warm up 4",
+                "plan": 15
+            }
+        ]
     }
 ]
