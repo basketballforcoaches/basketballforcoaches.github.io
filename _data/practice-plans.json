@@ -1531,5 +1531,270 @@
                 "plan": 15
             }
         ]
+    },
+    {
+        "id": 16,
+        "title": "U12 Boys - Plan (Oct-rnd-2)",
+        "date": "2025-10-20",
+        "duration_minutes": 60,
+        "notes": "1. Bball tag\r\n2. Pound Dribble, Pivot/pass\r\n3. slaylom handles\r\n4. AIS shooting\r\n5. Box our and rebound\r\n6. 3v2 rapid (ODDDO)\r\n7. Star Shooting",
+        "segments": [
+            {
+                "id": 81,
+                "teaching_points": [],
+                "drills": [],
+                "order": 1,
+                "time_range": "10",
+                "title": "1. Bball tag",
+                "notes": "Small half circle to start",
+                "plan": 16
+            },
+            {
+                "id": 82,
+                "teaching_points": [],
+                "drills": [],
+                "order": 2,
+                "time_range": "20",
+                "title": "2. Pound Dribble, Pivot/pass",
+                "notes": "",
+                "plan": 16
+            },
+            {
+                "id": 83,
+                "teaching_points": [],
+                "drills": [],
+                "order": 3,
+                "time_range": "30",
+                "title": "3. slaylom handles",
+                "notes": "dribble cross through slaylom and into step lay up.",
+                "plan": 16
+            },
+            {
+                "id": 84,
+                "teaching_points": [],
+                "drills": [],
+                "order": 4,
+                "time_range": "38",
+                "title": "4. sideline adapted",
+                "notes": "4. AIS shooting",
+                "plan": 16
+            },
+            {
+                "id": 85,
+                "teaching_points": [],
+                "drills": [],
+                "order": 5,
+                "time_range": "45",
+                "title": "5. Box out and rebound",
+                "notes": "5. Box our and rebound",
+                "plan": 16
+            },
+            {
+                "id": 86,
+                "teaching_points": [],
+                "drills": [],
+                "order": 6,
+                "time_range": "50",
+                "title": "3v2 Rapid",
+                "notes": "3v2 Rapid (corner trap)",
+                "plan": 16
+            },
+            {
+                "id": 87,
+                "teaching_points": [],
+                "drills": [],
+                "order": 7,
+                "time_range": "scrimmage",
+                "title": "scrimmage",
+                "notes": "scrimmage",
+                "plan": 16
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "U14 Boys - Plan (Oct-rnd-2)",
+        "date": "2025-10-20",
+        "duration_minutes": 60,
+        "notes": "1. Bball tag\r\n2. Pound Dribble, Pivot/pass\r\n3. slaylom handles\r\n4. AIS shooting\r\n5. Box our and rebound\r\n6. 3v2 rapid (ODDDO)\r\n7. Star Shooting",
+        "segments": [
+            {
+                "id": 88,
+                "teaching_points": [],
+                "drills": [],
+                "order": 0,
+                "time_range": "10",
+                "title": "Pound Dribble warm up",
+                "notes": "",
+                "plan": 17
+            },
+            {
+                "id": 89,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-253",
+                        "teachingPoint_name": "Eurostep through traffic 2",
+                        "teachingPoint_short_description": "https://youtu.be/TCNf1upOR3I?t=2221\r\nhttps://youtu.be/TCNf1upOR3I?t=2216",
+                        "startTime": 2216,
+                        "endTime": 2221,
+                        "duration": "5 seconds",
+                        "video": "TCNf1upOR3I",
+                        "embed_url": "https://www.youtube.com/embed/TCNf1upOR3I?start=2216&end=2221",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    },
+                    {
+                        "teachingPoint_id": "TP-255",
+                        "teachingPoint_name": "footwork warm up - 1",
+                        "teachingPoint_short_description": "3 cones at wings.\r\n\r\nPlayer starts at corners with ball.\r\nsteps in and out upto cone, then big step attack rim.\r\nGet past cone, throw it down and lay it up.",
+                        "startTime": 0,
+                        "endTime": 62,
+                        "duration": "62 seconds",
+                        "video": "TUa10GnqzB4",
+                        "embed_url": "https://www.youtube.com/embed/TUa10GnqzB4?start=0&end=62",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    },
+                    {
+                        "teachingPoint_id": "TP-256",
+                        "teachingPoint_name": "footwork warm up - 2",
+                        "teachingPoint_short_description": "3 cones at wings.\r\n\r\nPlayer starts at corners with ball.\r\n\r\nsame potions, but now front cross, through cross, from corner to wing.\r\nJump stop.\r\nReverse spin\r\nAttack step,\r\nget to paint and pull up for a 2 foot stop jump shot.\r\n\r\nFocus on attack step (on both sides)",
+                        "startTime": 70,
+                        "endTime": 119,
+                        "duration": "49 seconds",
+                        "video": "TUa10GnqzB4",
+                        "embed_url": "https://www.youtube.com/embed/TUa10GnqzB4?start=70&end=119",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    },
+                    {
+                        "teachingPoint_id": "TP-258",
+                        "teachingPoint_name": "footwork warm up - 3",
+                        "teachingPoint_short_description": "Behind back up 3.\r\nreverse spin\r\njap, sweep attack step\r\n\r\nhttps://youtu.be/TUa10GnqzB4?t=356",
+                        "startTime": 245,
+                        "endTime": 356,
+                        "duration": "111 seconds",
+                        "video": "TUa10GnqzB4",
+                        "embed_url": "https://www.youtube.com/embed/TUa10GnqzB4?start=245&end=356",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    },
+                    {
+                        "teachingPoint_id": "TP-259",
+                        "teachingPoint_name": "footwork warm up - 4",
+                        "teachingPoint_short_description": "Drop, throw, sweep (eyes at rim)",
+                        "startTime": 363,
+                        "endTime": 401,
+                        "duration": "38 seconds",
+                        "video": "TUa10GnqzB4",
+                        "embed_url": "https://www.youtube.com/embed/TUa10GnqzB4?start=363&end=401",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    },
+                    {
+                        "teachingPoint_id": "TP-260",
+                        "teachingPoint_name": "footwork warm up - 5",
+                        "teachingPoint_short_description": "spin - catch - jab - cross - spin - attack (1 step, pull up and shot)\r\n\r\nhttps://youtu.be/TUa10GnqzB4?t=511",
+                        "startTime": 445,
+                        "endTime": 511,
+                        "duration": "66 seconds",
+                        "video": "TUa10GnqzB4",
+                        "embed_url": "https://www.youtube.com/embed/TUa10GnqzB4?start=445&end=511",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 1,
+                "time_range": "20",
+                "title": "2 side layups",
+                "notes": "various tp",
+                "plan": 17
+            },
+            {
+                "id": 90,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "b0dd282d-0c46-4692-b338-3524b2a8e5fb",
+                        "title": "Drive - Kick - Swing (continous)",
+                        "drillDescription": "Drive - Kick - Swing  (continous)",
+                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                        "rotations": "team lines up behind wing/seam. | new player drops in after each rotation. | last pass corner drops out (joins back of line).\r\nget everyone through once (time how long it takes (voices/running) passing, realistic drives.",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                        "steps": [
+                            {
+                                "step_number": 1,
+                                "instruction": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again",
+                                "duration_seconds": null
+                            },
+                            {
+                                "step_number": 1,
+                                "instruction": "4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                                "duration_seconds": null
+                            }
+                        ]
+                    }
+                ],
+                "order": 2,
+                "time_range": "30",
+                "title": "Drive-kick-swing",
+                "notes": "DKS, return to position (outisde/shell)_",
+                "plan": 17
+            },
+            {
+                "id": 91,
+                "teaching_points": [],
+                "drills": [],
+                "order": 3,
+                "time_range": "40",
+                "title": "PNR from Top",
+                "notes": "add TP",
+                "plan": 17
+            },
+            {
+                "id": 92,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "26469ca5-64ba-4fb3-a43e-3d453db39703",
+                        "title": "3v2 (Rapid)",
+                        "drillDescription": "3v2 (Rapid), need 7 and full court",
+                        "purpose": "Full court continuous 3v2",
+                        "coachingPoints": "O - draw man, decieve.  D - Talk (ball/basket) decision making.",
+                        "rotations": "",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/7mmmZij0HG",
+                        "steps": [
+                            {
+                                "step_number": 1,
+                                "instruction": "Wyndham Rep Drill.\r\n3 Offensive players roll down hill to 2v3",
+                                "duration_seconds": null
+                            },
+                            {
+                                "step_number": 2,
+                                "instruction": "the offensive player (which is whoever turns the ball over or scores), joins defense and transition to other end (where 2 players are waiting) - keep rolling for a set period or number of baskets.\r\n\r\nthe other 2 offensive players become defense, wait in position for next group to attack",
+                                "duration_seconds": null
+                            }
+                        ]
+                    }
+                ],
+                "order": 4,
+                "time_range": "50",
+                "title": "3v2 rapid",
+                "notes": "3v2 rapid",
+                "plan": 17
+            },
+            {
+                "id": 93,
+                "teaching_points": [],
+                "drills": [],
+                "order": 5,
+                "time_range": "scrimmage",
+                "title": "shell drill scrimmage (3 PCR to start)",
+                "notes": "trigger is 3 PCR actions",
+                "plan": 17
+            }
+        ]
     }
 ]
