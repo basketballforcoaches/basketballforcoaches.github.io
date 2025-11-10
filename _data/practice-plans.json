@@ -155,10 +155,10 @@
                         "teachingPoint_name": "5 out (motion offense)",
                         "teachingPoint_short_description": "focus is on cutting - 3 dribbles max - full court scrimmage",
                         "startTime": 4484,
-                        "endTime": 4737,
-                        "duration": "253 seconds",
+                        "endTime": 4584,
+                        "duration": "100 seconds",
                         "video": "lICvxZiWi44",
-                        "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=4484&end=4737",
+                        "embed_url": "https://www.youtube.com/embed/lICvxZiWi44?start=4484&end=4584",
                         "keywords": [],
                         "educationalLevel": ""
                     }
@@ -1796,5 +1796,108 @@
                 "plan": 17
             }
         ]
+    },
+    {
+        "id": 18,
+        "title": "U12 Boys - Plan (Oct-rnd-5)",
+        "date": "2025-11-10",
+        "duration_minutes": 60,
+        "notes": "1) Pass Tag\r\n2) cross over and ball rips across courst\r\n3) star shooting\r\n4) Dribble drive layups (BO)\r\n5) Keepings off Dribble Gate\r\n6) AIS shooting / Pressure\r\n7) shell PCR\r\n8) Scrimmage",
+        "segments": [
+            {
+                "id": 94,
+                "teaching_points": [],
+                "drills": [],
+                "order": 1,
+                "time_range": "10min",
+                "title": "1) Pass Tag",
+                "notes": "Pass tag",
+                "plan": 18
+            },
+            {
+                "id": 95,
+                "teaching_points": [],
+                "drills": [],
+                "order": 2,
+                "time_range": "10min",
+                "title": "2) cross over and ball rips across courst",
+                "notes": "",
+                "plan": 18
+            },
+            {
+                "id": 96,
+                "teaching_points": [],
+                "drills": [],
+                "order": 3,
+                "time_range": "10min",
+                "title": "3) star shooting",
+                "notes": "star shooting",
+                "plan": 18
+            },
+            {
+                "id": 97,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-263",
+                        "teachingPoint_name": "2. pass off the dribble",
+                        "teachingPoint_short_description": "https://youtu.be/1RoghhK0Ahc?t=108\r\nhttps://youtu.be/1RoghhK0Ahc?t=163",
+                        "startTime": 108,
+                        "endTime": 163,
+                        "duration": "55 seconds",
+                        "video": "1RoghhK0Ahc",
+                        "embed_url": "https://www.youtube.com/embed/1RoghhK0Ahc?start=108&end=163",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 4,
+                "time_range": "10min",
+                "title": "4) Dribble drive layups (BO)",
+                "notes": "4) Dribble drive layups (BO)",
+                "plan": 18
+            },
+            {
+                "id": 98,
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-264",
+                        "teachingPoint_name": "21 pass game",
+                        "teachingPoint_short_description": "half court or full court - make upto 21 passes then score - if score bank the 21, if not no score.",
+                        "startTime": 368,
+                        "endTime": 467,
+                        "duration": "99 seconds",
+                        "video": "1RoghhK0Ahc",
+                        "embed_url": "https://www.youtube.com/embed/1RoghhK0Ahc?start=368&end=467",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [],
+                "order": 5,
+                "time_range": "10min",
+                "title": "5) Keepings off Dribble Gate",
+                "notes": "5) Keepings off Dribble Gate",
+                "plan": 18
+            },
+            {
+                "id": 99,
+                "teaching_points": [],
+                "drills": [],
+                "order": 6,
+                "time_range": "10min",
+                "title": "scrimmage",
+                "notes": "scrimmage",
+                "plan": 18
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "U14 Boys - Plan (Oct-rnd-5)",
+        "date": "2025-11-10",
+        "duration_minutes": 60,
+        "notes": "1) Pass Tag\r\n2) cross over and ball rips across court\r\n3) Dexterity passing\r\n4) Dribble drive layups (BO)\r\n5) Keepings off Dribble Gate\r\n6) AIS shooting / Pressure\r\n7) Pistols actions\r\n8) Scrimmage",
+        "segments": []
     }
 ]
