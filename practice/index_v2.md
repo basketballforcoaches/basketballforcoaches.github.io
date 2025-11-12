@@ -30,6 +30,21 @@ permalink: /practice/
   // Helper to create safe element IDs (no spaces/specials)
   const safeId = (s) => String(s ?? "").replace(/[^a-zA-Z0-9_-]/g, "_");
 
+  // Attempt to convert known play/diagram URLs into an embeddable form
+  function toEmbedUrl(url) {
+    try {
+      const u = new URL(url);
+      // Heuristic: thehoopsgeek supports an embed-friendly query on many pages
+      if (u.hostname.includes("thehoopsgeek.com") && u.pathname.startsWith("/play/")) {
+        if (!u.searchParams.has("embed")) u.searchParams.set("embed", "1");
+        return u.toString();
+      }
+      return url;
+    } catch {
+      return url;
+    }
+  }
+
   function resetVideo(id) {
     const iframe = document.getElementById(id);
     if (iframe) iframe.src = iframe.src;
@@ -91,17 +106,31 @@ permalink: /practice/
         const instructionsBlock = instructions && String(instructions).trim()
           ? `<p class="card-text"><strong>Instructions:</strong> ${esc(instructions)}</p>` : "";
 
-        const diagram = drill.diagramEmbedUrl_1
-          ? `
-            <div class="ratio ratio-16x9 mb-3">
-              <iframe src="${esc(drill.diagramEmbedUrl_1)}"
-                      title="${esc(drill.title)} diagram"
-                      allowfullscreen
-                      loading="lazy"
-                      referrerpolicy="strict-origin-when-cross-origin"></iframe>
+        // Diagram (with graceful fallback link)
+        let diagram = "";
+        if (drill.diagramEmbedUrl_1) {
+          const rawUrl   = String(drill.diagramEmbedUrl_1).trim();
+          const embedUrl = toEmbedUrl(rawUrl);
+          const iframeId = `diag-${safeId(embedUrl)}-${index}`;
+
+          diagram = `
+            <div class="mb-3">
+              <div class="ratio ratio-16x9 position-relative">
+                <iframe id="${iframeId}"
+                        src="${esc(embedUrl)}"
+                        title="${esc(drill.title)} diagram"
+                        loading="lazy"
+                        referrerpolicy="strict-origin-when-cross-origin"
+                        allowfullscreen></iframe>
+                <!-- Always provide a fallback link in case the site blocks iframes -->
+                <a class="btn btn-sm btn-outline-primary position-absolute"
+                   style="top: 8px; right: 8px; z-index: 2;"
+                   href="${esc(rawUrl)}" target="_blank" rel="noopener">Open diagram ↗</a>
+              </div>
+              <div class="form-text">If the diagram doesn’t appear, use the “Open diagram” button.</div>
             </div>
-          `
-          : "";
+          `;
+        }
 
         return `
           <div class="card mb-4 border-success">
