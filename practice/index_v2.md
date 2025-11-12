@@ -27,6 +27,8 @@ permalink: /practice/
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, m => (
     { "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;" }[m]
   ));
+  // Helper to create safe element IDs (no spaces/specials)
+  const safeId = (s) => String(s ?? "").replace(/[^a-zA-Z0-9_-]/g, "_");
 
   function resetVideo(id) {
     const iframe = document.getElementById(id);
@@ -44,7 +46,7 @@ permalink: /practice/
 
     segments.forEach((segment, index) => {
       const tpList = (segment.teaching_points || []).map(tp => {
-        const vidId = `video-${esc(tp.video)}-${esc(tp.startTime)}-${esc(tp.endTime)}`;
+        const vidId = `video-${safeId(tp.video)}-${safeId(tp.startTime)}-${safeId(tp.endTime)}`;
         return `
           <div class="row mb-4 align-items-start">
             <div class="col-md-6">
@@ -81,11 +83,13 @@ permalink: /practice/
           `
           : "";
 
-        // Setup & Rotations (now shown)
-        const setupBlock = drill.setup
+        // Setup & Instructions (back-compat with old `rotations`)
+        const setupBlock = drill.setup && String(drill.setup).trim()
           ? `<p class="card-text"><strong>Setup:</strong> ${esc(drill.setup)}</p>` : "";
-        const rotationsBlock = drill.rotations
-          ? `<p class="card-text"><strong>Rotations:</strong> ${esc(drill.rotations)}</p>` : "";
+
+        const instructions = (drill.instructions ?? drill.rotations);
+        const instructionsBlock = instructions && String(instructions).trim()
+          ? `<p class="card-text"><strong>Instructions:</strong> ${esc(instructions)}</p>` : "";
 
         const diagram = drill.diagramEmbedUrl_1
           ? `
@@ -107,7 +111,7 @@ permalink: /practice/
               <p class="card-text"><strong>Purpose:</strong> ${esc(drill.purpose ?? "—")}</p>
               <p class="card-text"><strong>Coaching Points:</strong> ${esc(drill.coachingPoints ?? "—")}</p>
               ${setupBlock}
-              ${rotationsBlock}
+              ${instructionsBlock}
               ${diagram}
               ${steps}
             </div>
