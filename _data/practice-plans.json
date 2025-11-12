@@ -1899,5 +1899,35 @@
         "duration_minutes": 60,
         "notes": "1) Pass Tag\r\n2) cross over and ball rips across court\r\n3) Dexterity passing\r\n4) Dribble drive layups (BO)\r\n5) Keepings off Dribble Gate\r\n6) AIS shooting / Pressure\r\n7) Pistols actions\r\n8) Scrimmage",
         "segments": []
+    },
+    {
+        "id": 20,
+        "title": "test",
+        "date": "2025-11-12",
+        "duration_minutes": 60,
+        "notes": "",
+        "segments": [
+            {
+                "id": 100,
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "1f22926e-bbcf-487d-a8a4-c0b24ece7fa2",
+                        "title": "3-on-3 Defensive Positioning - Progression #1",
+                        "drillDescription": "Three offensive players advance the ball down the court using only passes while three defenders focus on maintaining proper positioning and communication. Defenders must call out their role to reinforce defensive awareness. The drill emphasizes ball pressure, gap positioning, defensive spacing, awareness, and verbal communication.",
+                        "purpose": "This drill teaches defenders how to maintain proper defensive positioning as the ball moves. It reinforces on-\r\nball pressure, help-side rotations, and weak-side coverage while improving defensive communication and both half-court and transition defense habits.",
+                        "coachingPoints": "🏀 Defenders need to constantly communicate. They must be loud and clear when calling out “BALL, HELP, LOW.”\r\n🏀 On-ball defenders should keep their hands up to This drill teaches defenders how to maintain proper defensive positioning as the ball moves. It reinforces on- ball pressure, help-side rotations, and weak-side coverage while improving defensive communication and both half- court and transition defense habits.pressure the ball and contest passes.\r\n🏀 Ensure defenders are not overhelping or losing sight of their man.\r\n🏀 Defenders should stay low and ready, maintaining an athletic stance and moving on the flight of the ball",
+                        "rotations": "",
+                        "diagramEmbedUrl_1": "",
+                        "steps": []
+                    }
+                ],
+                "order": 1,
+                "time_range": "30",
+                "title": "defensive transtion",
+                "notes": "defensive transtion",
+                "plan": 20
+            }
+        ]
     }
 ]
