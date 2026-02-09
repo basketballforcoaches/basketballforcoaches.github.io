@@ -1,46 +1,27 @@
 [
     {
         "id": 1,
+        "ref_code": "PP-0001",
         "title": "U12 Boys - Plan C",
         "date": "2025-06-30",
         "duration_minutes": 60,
         "notes": "1.  warm up\r\n2.  cool down",
         "segments": [
             {
-                "id": 1,
-                "teaching_points": [],
-                "drills": [],
+                "id": 8,
                 "order": 1,
                 "time_range": "0 to 10 min",
                 "title": "warm up - Baseketball Tag.",
                 "notes": "Baseketball Tag.\r\n1 pair inside the 2.  ball tag others.",
-                "plan": 1
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 2,
-                "teaching_points": [
-                    {
-                        "teachingPoint_id": "TP-004",
-                        "teachingPoint_name": "Pass and Cut Drill",
-                        "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
-                        "startTime": 3,
-                        "endTime": 25,
-                        "duration": "22 seconds",
-                        "video": "DGK4f0GzAC4",
-                        "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
-                        "keywords": [],
-                        "educationalLevel": ""
-                    }
-                ],
-                "drills": [],
+                "id": 24,
                 "order": 2,
                 "time_range": "10 to 20 min",
                 "title": "cut to basket",
                 "notes": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
-                "plan": 1
-            },
-            {
-                "id": 3,
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-004",
@@ -55,15 +36,36 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
+                "drills": []
+            },
+            {
+                "id": 38,
                 "order": 3,
                 "time_range": "10 to 20 min",
                 "title": "2 v 1 - corner",
                 "notes": "3 side .. corer gets ball runs to short corner (jump stop pivit pass back to corner), wing and point drift to corner and wing.\r\n\r\nCorner recieves and 2 v 1 to basket.",
-                "plan": 1
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-004",
+                        "teachingPoint_name": "Pass and Cut Drill",
+                        "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
+                        "startTime": 3,
+                        "endTime": 25,
+                        "duration": "22 seconds",
+                        "video": "DGK4f0GzAC4",
+                        "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
             },
             {
-                "id": 4,
+                "id": 54,
+                "order": 4,
+                "time_range": "30 to 40 min",
+                "title": "star passing - 5 makes then pressure",
+                "notes": "",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-005",
@@ -78,15 +80,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 4,
-                "time_range": "30 to 40 min",
-                "title": "star passing - 5 makes then pressure",
-                "notes": "",
-                "plan": 1
+                "drills": []
             },
             {
-                "id": 5,
+                "id": 69,
+                "order": 5,
+                "time_range": "40 to 50 min",
+                "title": "3 v 3 DHO to bucket",
+                "notes": "insert",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-058",
@@ -101,54 +102,54 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 5,
-                "time_range": "40 to 50 min",
-                "title": "3 v 3 DHO to bucket",
-                "notes": "insert",
-                "plan": 1
+                "drills": []
             },
             {
-                "id": 6,
-                "teaching_points": [],
-                "drills": [],
+                "id": 84,
                 "order": 6,
                 "time_range": "10min",
                 "title": "scrimmage",
                 "notes": "pass outside the 3 or inside the key.\r\nreinforce intent to use what we practice not take poor shots.",
-                "plan": 1
+                "teaching_points": [],
+                "drills": []
             }
-        ]
+        ],
+        "drills": [],
+        "summary": "1.  warm up\r\n2.  cool down",
+        "keywords": []
     },
     {
         "id": 2,
+        "ref_code": "PP-0002",
         "title": "U14 Boys - Plan A",
         "date": "2025-06-10",
         "duration_minutes": 60,
         "notes": "Winter season - Training plan A",
         "segments": [
             {
-                "id": 7,
-                "teaching_points": [],
-                "drills": [],
+                "id": 9,
                 "order": 1,
                 "time_range": "10 min",
                 "title": "Team Discussion",
                 "notes": "Retro on last game.",
-                "plan": 2
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 8,
-                "teaching_points": [],
-                "drills": [],
+                "id": 25,
                 "order": 2,
                 "time_range": "10 min",
                 "title": "crazy layups",
                 "notes": "",
-                "plan": 2
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 9,
+                "id": 39,
+                "order": 3,
+                "time_range": "10 min",
+                "title": "5 out shell",
+                "notes": "",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-015",
@@ -163,25 +164,23 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 3,
-                "time_range": "10 min",
-                "title": "5 out shell",
-                "notes": "",
-                "plan": 2
+                "drills": []
             },
             {
-                "id": 10,
-                "teaching_points": [],
-                "drills": [],
+                "id": 55,
                 "order": 4,
                 "time_range": "pressure",
                 "title": "pressure",
                 "notes": "",
-                "plan": 2
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 11,
+                "id": 70,
+                "order": 5,
+                "time_range": "layup drill with tra",
+                "title": "d1",
+                "notes": "",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-005",
@@ -196,44 +195,45 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 5,
-                "time_range": "layup drill with tra",
-                "title": "d1",
-                "notes": "",
-                "plan": 2
+                "drills": []
             },
             {
-                "id": 12,
-                "teaching_points": [],
-                "drills": [],
+                "id": 85,
                 "order": 6,
                 "time_range": "3 point shooting",
                 "title": "d2",
                 "notes": "pick spot on 3 point arch.\r\n2 minutes on clock.\r\nsee how many team can knock down.",
-                "plan": 2
+                "teaching_points": [],
+                "drills": []
             }
-        ]
+        ],
+        "drills": [],
+        "summary": "Winter season - Training plan A",
+        "keywords": []
     },
     {
         "id": 3,
+        "ref_code": "PP-0003",
         "title": "U14 Boys - Plan B",
         "date": "2025-06-16",
         "duration_minutes": 60,
         "notes": "U14 Boys - Plan B\r\nShorter session",
         "segments": [
             {
-                "id": 16,
-                "teaching_points": [],
-                "drills": [],
+                "id": 10,
                 "order": 1,
                 "time_range": "finishing in paint",
                 "title": "ball tap and finish in paint",
                 "notes": "options from state finalist finishing video",
-                "plan": 3
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 13,
+                "id": 26,
+                "order": 2,
+                "time_range": "10 min",
+                "title": "shell drill",
+                "notes": "4 defense baseline\r\n4 offense around arch (corner/wing/corner/wing)\r\n\r\nNeed 5 passes start, then limit to 10 seconds",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-018",
@@ -248,15 +248,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 2,
-                "time_range": "10 min",
-                "title": "shell drill",
-                "notes": "4 defense baseline\r\n4 offense around arch (corner/wing/corner/wing)\r\n\r\nNeed 5 passes start, then limit to 10 seconds",
-                "plan": 3
+                "drills": []
             },
             {
-                "id": 14,
+                "id": 40,
+                "order": 3,
+                "time_range": "10 min",
+                "title": "shell drill (with hook and look)",
+                "notes": "Add another layer to shell drill with hook and look.\r\nWe're already doing this, but this formalises with clearer spots to stand and actions to move on.\r\n\r\n4 defense baseline\r\n4 offense around arch (corner/wing/corner/wing)\r\n\r\nNeed 5 passes start, then limit to 10 seconds\r\n1 pass must be a hook and look,\r\nhigh/low or short corner:\r\n- cut into key > stay until next completed pass is caught \r\n- then move back out to perim (or another spot)\r\n- do not stay inside key for more than 3 seconds",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-031",
@@ -271,15 +270,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 3,
-                "time_range": "10 min",
-                "title": "shell drill (with hook and look)",
-                "notes": "Add another layer to shell drill with hook and look.\r\nWe're already doing this, but this formalises with clearer spots to stand and actions to move on.\r\n\r\n4 defense baseline\r\n4 offense around arch (corner/wing/corner/wing)\r\n\r\nNeed 5 passes start, then limit to 10 seconds\r\n1 pass must be a hook and look,\r\nhigh/low or short corner:\r\n- cut into key > stay until next completed pass is caught \r\n- then move back out to perim (or another spot)\r\n- do not stay inside key for more than 3 seconds",
-                "plan": 3
+                "drills": []
             },
             {
-                "id": 15,
+                "id": 56,
+                "order": 4,
+                "time_range": "5 min",
+                "title": "Post Moves (drop step)",
+                "notes": "Could add the hook and look.\r\nDefense is not allowed to look back (to show game play).\r\nOffense can shoot or pass to post move?",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-036",
@@ -294,15 +292,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 4,
-                "time_range": "5 min",
-                "title": "Post Moves (drop step)",
-                "notes": "Could add the hook and look.\r\nDefense is not allowed to look back (to show game play).\r\nOffense can shoot or pass to post move?",
-                "plan": 3
+                "drills": []
             },
             {
-                "id": 18,
+                "id": 71,
+                "order": 5,
+                "time_range": "5 min",
+                "title": "Post Moves (up and under)",
+                "notes": "Could add the hook and look.\r\nDefense is not allowed to look back (to show game play).\r\nOffense can shoot or pass to post move?",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-037",
@@ -317,15 +314,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 5,
-                "time_range": "5 min",
-                "title": "Post Moves (up and under)",
-                "notes": "Could add the hook and look.\r\nDefense is not allowed to look back (to show game play).\r\nOffense can shoot or pass to post move?",
-                "plan": 3
+                "drills": []
             },
             {
-                "id": 19,
+                "id": 86,
+                "order": 6,
+                "time_range": "15 min",
+                "title": "press break inbounding",
+                "notes": "simplified press break inbound after score - (simplified version of sideline)",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-035",
@@ -340,24 +336,27 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 6,
-                "time_range": "15 min",
-                "title": "press break inbounding",
-                "notes": "simplified press break inbound after score - (simplified version of sideline)",
-                "plan": 3
+                "drills": []
             }
-        ]
+        ],
+        "drills": [],
+        "summary": "U14 Boys - Plan B\r\nShorter session",
+        "keywords": []
     },
     {
         "id": 4,
+        "ref_code": "PP-0004",
         "title": "U12 Boys - Plan B",
         "date": "2025-06-15",
         "duration_minutes": 60,
         "notes": "",
         "segments": [
             {
-                "id": 17,
+                "id": 41,
+                "order": 3,
+                "time_range": "15 min",
+                "title": "press break inbounding",
+                "notes": "simplified view of sideline.",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-035",
@@ -372,34 +371,36 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 3,
-                "time_range": "15 min",
-                "title": "press break inbounding",
-                "notes": "simplified view of sideline.",
-                "plan": 4
+                "drills": []
             }
-        ]
+        ],
+        "drills": [],
+        "summary": "U12 Boys - Plan B",
+        "keywords": []
     },
     {
         "id": 5,
+        "ref_code": "PP-0005",
         "title": "U12 Boys - Plan (Aug)",
         "date": "2025-07-28",
         "duration_minutes": 60,
         "notes": "",
         "segments": [
             {
-                "id": 22,
-                "teaching_points": [],
-                "drills": [],
+                "id": 11,
                 "order": 1,
                 "time_range": "10 min",
                 "title": "Basketball Tag",
                 "notes": "In blue d - tag and run",
-                "plan": 5
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 20,
+                "id": 27,
+                "order": 2,
+                "time_range": "10 min",
+                "title": "Onball screen",
+                "notes": "3 O players, one in each corridor.  BH in middle.\r\n3 x def in front\r\n\r\nBH passes to next corridor, then runs over and sets on ball screen.\r\n\r\nBH steps middle using screen 2 dribble back to middle, then pass out and onball screen. passes back to middle,",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-056",
@@ -414,269 +415,344 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 2,
-                "time_range": "10 min",
-                "title": "Onball screen",
-                "notes": "3 O players, one in each corridor.  BH in middle.\r\n3 x def in front\r\n\r\nBH passes to next corridor, then runs over and sets on ball screen.\r\n\r\nBH steps middle using screen 2 dribble back to middle, then pass out and onball screen. passes back to middle,",
-                "plan": 5
+                "drills": []
             },
             {
-                "id": 21,
-                "teaching_points": [],
-                "drills": [],
+                "id": 42,
                 "order": 3,
                 "time_range": "10 min",
                 "title": "teach kids space..",
                 "notes": "space and corridor discussion.",
-                "plan": 5
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 23,
-                "teaching_points": [],
-                "drills": [],
+                "id": 57,
                 "order": 4,
                 "time_range": "10 min",
                 "title": "Birds in a box",
                 "notes": "4 offense players around keyway box.\r\n3 defenders inside - must get 3 stationary passes then play to basket.",
-                "plan": 5
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 24,
-                "teaching_points": [],
-                "drills": [],
+                "id": 72,
                 "order": 5,
                 "time_range": "10 min",
                 "title": "star passing",
                 "notes": "",
-                "plan": 5
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 25,
-                "teaching_points": [],
-                "drills": [],
+                "id": 87,
                 "order": 6,
                 "time_range": "10 min",
                 "title": "scrimmage",
                 "notes": "can only catch inside key or outside 3.",
-                "plan": 5
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 26,
-                "teaching_points": [],
-                "drills": [],
+                "id": 94,
                 "order": 7,
                 "time_range": "10 min",
                 "title": "SLOB plays for u12",
                 "notes": "4v4 start from SLOB.\r\n\r\n2 near ball doing off ball screen\r\n1 in far corner baseline\r\nopposite corner half court line.\r\n\r\nwhen ref hands ball to us,\r\nstart a screen action and runners start to move, we're looking for getz pass intercept to basket.",
-                "plan": 5
+                "teaching_points": [],
+                "drills": []
             }
-        ]
+        ],
+        "drills": [],
+        "summary": "U12 Boys - Plan (Aug)",
+        "keywords": []
     },
     {
-        "id": 7,
+        "id": 6,
+        "ref_code": "PP-0006",
         "title": "U12 Boys - Plan (Aug - week 1)",
         "date": "2025-08-04",
         "duration_minutes": 60,
         "notes": "20250804",
         "segments": [
             {
-                "id": 30,
-                "teaching_points": [],
-                "drills": [
-                    {
-                        "drill_id": "1a8d3c4e-d40f-4964-9072-f8654df8035e",
-                        "title": "Rock Paper Scissors Tag",
-                        "drillDescription": "Fun warm up game to get players ready to practice and compete",
-                        "purpose": "warm up and add mental load",
-                        "coachingPoints": "Basketball posture, hips down, chest up, weak side dribble",
-                        "setup": "",
-                        "instructions": "Get into pairs.  Everyone has a ball.\r\nFace eachother > pound dribble - wrong side \r\nPlay 1 round of rock paper scissors\r\nwinner turns and bolts to side line - if they arrive with out being tagged, they get 1 point\r\nloser follows, if they manage to tag, they reverse and loser bots to other side line - if they get there with out tag, get 1 point.  if tagged reset.\r\n\r\nFirst to 5 points wins the game",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/s0MgY2XOtx",
-                        "steps": []
-                    }
-                ],
+                "id": 12,
                 "order": 1,
                 "time_range": "10 min",
                 "title": "Paper Rock Scissors",
                 "notes": "PRS",
-                "plan": 7
-            },
-            {
-                "id": 31,
                 "teaching_points": [],
                 "drills": [
                     {
-                        "drill_id": "ce8e1a2d-28bc-4151-af56-0c2d785be7ee",
-                        "title": "1v1 Shoulder Runs  (20250803)",
-                        "drillDescription": "tbc - not sure what this is - not bullyball?",
-                        "purpose": "defense - contain and push to corner.   Offense - explode and create advantage",
-                        "coachingPoints": "defense - keep offense along sideline, nose on shoulder.\r\noffense - explode/hesi and finishing",
+                        "drill_id": "429a3978-9c70-498e-a3e1-34089bcb4852",
+                        "title": "Rock Paper Scissors Tag",
+                        "drillDescription": "Fun warm up game to get players ready to practice and compete",
+                        "alsoKnownAs": "",
+                        "purpose": "warm up and add mental load",
                         "setup": "",
-                        "instructions": "line up on baseline, in corner.\r\nrun hard to centre and then 1v1 to basket.",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/ZaKQU0ELEx",
-                        "steps": []
+                        "coachingPoints": "Basketball posture, hips down, chest up, weak side dribble",
+                        "instructions": "Get into pairs.  Everyone has a ball.\r\nFace eachother > pound dribble - wrong side \r\nPlay 1 round of rock paper scissors\r\nwinner turns and bolts to side line - if they arrive with out being tagged, they get 1 point\r\nloser follows, if they manage to tag, they reverse and loser bots to other side line - if they get there with out tag, get 1 point.  if tagged reset.\r\n\r\nFirst to 5 points wins the game",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn -  handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/s0MgY2XOtx",
+                        "court_requirement": "either"
                     }
-                ],
+                ]
+            },
+            {
+                "id": 28,
                 "order": 2,
                 "time_range": "10 min",
                 "title": "shoulder runs",
                 "notes": "shoulder runs (adapt to half court - work on footwork and containment.",
-                "plan": 7
-            },
-            {
-                "id": 32,
                 "teaching_points": [],
                 "drills": [
                     {
-                        "drill_id": "f84fd562-a09d-4e5b-a797-75392cfaefdb",
-                        "title": "3v2 Rapid Traps and layups (half court)",
-                        "drillDescription": "coach trapping, escaping and defending down the line",
-                        "purpose": "coach trapping, escaping and defending down the line",
-                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                        "drill_id": "355b95f3-05b4-4177-b087-652beb5f1d74",
+                        "title": "1v1 Shoulder Runs  (20250803)",
+                        "drillDescription": "tbc - not sure what this is - not bullyball?",
+                        "alsoKnownAs": "",
+                        "purpose": "defense - contain and push to corner.   Offense - explode and create advantage",
                         "setup": "",
-                        "instructions": "",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
-                        "steps": []
+                        "coachingPoints": "defense - keep offense along sideline, nose on shoulder.\r\noffense - explode/hesi and finishing",
+                        "instructions": "line up on baseline, in corner.\r\nrun hard to centre and then 1v1 to basket.",
+                        "source": "wyndham rep 20250803",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/ZaKQU0ELEx",
+                        "court_requirement": "full"
                     }
-                ],
+                ]
+            },
+            {
+                "id": 43,
                 "order": 3,
                 "time_range": "10 min",
                 "title": "Pressure",
                 "notes": "pressure",
-                "plan": 7
-            },
-            {
-                "id": 33,
                 "teaching_points": [],
                 "drills": [
                     {
-                        "drill_id": "f84fd562-a09d-4e5b-a797-75392cfaefdb",
+                        "drill_id": "f079e41f-d945-4fda-a558-9792924e2885",
                         "title": "3v2 Rapid Traps and layups (half court)",
                         "drillDescription": "coach trapping, escaping and defending down the line",
+                        "alsoKnownAs": "",
                         "purpose": "coach trapping, escaping and defending down the line",
-                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
                         "setup": "",
+                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
                         "instructions": "",
+                        "source": "wyndham rep 20250803",
                         "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
-                        "steps": []
+                        "court_requirement": "half"
                     }
-                ],
+                ]
+            },
+            {
+                "id": 58,
                 "order": 4,
                 "time_range": "10 min",
                 "title": "3v2 Rapid layups and traps",
                 "notes": "3v2 Rapid layups and traps",
-                "plan": 7
-            },
-            {
-                "id": 34,
                 "teaching_points": [],
                 "drills": [
                     {
-                        "drill_id": "b0a616c5-3672-4bd4-bda2-630e5681aa52",
-                        "title": "Bullets (1v1)",
-                        "drillDescription": "Putting dribble moves and finishes into game scenarios",
-                        "purpose": "",
-                        "coachingPoints": "move on the move (eg watch for move to start). Explode, \"be trickey\", attack angle.\r\nDefense - force wide, not middle",
+                        "drill_id": "f079e41f-d945-4fda-a558-9792924e2885",
+                        "title": "3v2 Rapid Traps and layups (half court)",
+                        "drillDescription": "coach trapping, escaping and defending down the line",
+                        "alsoKnownAs": "",
+                        "purpose": "coach trapping, escaping and defending down the line",
                         "setup": "",
-                        "instructions": "O starts with live dribble.  A crossover dribble game is live.  D must get both heels outside the 3..  8 second shotclock.",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/8fJrxLIj8U",
-                        "steps": []
+                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                        "instructions": "",
+                        "source": "wyndham rep 20250803",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
+                        "court_requirement": "half"
                     }
-                ],
+                ]
+            },
+            {
+                "id": 73,
                 "order": 5,
                 "time_range": "1v1 Bullets",
                 "title": "1v1 Bullets",
                 "notes": "1v1 Bullets",
-                "plan": 7
-            },
-            {
-                "id": 35,
                 "teaching_points": [],
                 "drills": [
                     {
-                        "drill_id": "b0dd282d-0c46-4692-b338-3524b2a8e5fb",
-                        "title": "Drive - Kick - Swing (continous)",
-                        "drillDescription": "Drive - Kick - Swing  (continous)",
-                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
-                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                        "drill_id": "49ea3fa6-23c5-439b-8475-963283c7eba1",
+                        "title": "Bullets (1v1)",
+                        "drillDescription": "Putting dribble moves and finishes into game scenarios",
+                        "alsoKnownAs": "",
+                        "purpose": "",
                         "setup": "",
-                        "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
-                        "steps": []
+                        "coachingPoints": "move on the move (eg watch for move to start). Explode, \"be trickey\", attack angle.\r\nDefense - force wide, not middle",
+                        "instructions": "O starts with live dribble.  A crossover dribble game is live.  D must get both heels outside the 3..  8 second shotclock.",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn -  handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/8fJrxLIj8U",
+                        "court_requirement": "half"
                     }
-                ],
+                ]
+            },
+            {
+                "id": 88,
                 "order": 6,
                 "time_range": "DKS",
                 "title": "DKS",
                 "notes": "drill DKS formation, instead of shoot, drive for a back cut.  *4v3?",
-                "plan": 7
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
+                        "title": "Drive - Kick - Swing (continous)",
+                        "drillDescription": "Drive - Kick - Swing  (continous)",
+                        "alsoKnownAs": "",
+                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                        "setup": "",
+                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                        "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                        "court_requirement": "half"
+                    }
+                ]
             }
-        ]
+        ],
+        "drills": [
+            {
+                "drill_id": "429a3978-9c70-498e-a3e1-34089bcb4852",
+                "title": "Rock Paper Scissors Tag",
+                "drillDescription": "Fun warm up game to get players ready to practice and compete",
+                "alsoKnownAs": "",
+                "purpose": "warm up and add mental load",
+                "setup": "",
+                "coachingPoints": "Basketball posture, hips down, chest up, weak side dribble",
+                "instructions": "Get into pairs.  Everyone has a ball.\r\nFace eachother > pound dribble - wrong side \r\nPlay 1 round of rock paper scissors\r\nwinner turns and bolts to side line - if they arrive with out being tagged, they get 1 point\r\nloser follows, if they manage to tag, they reverse and loser bots to other side line - if they get there with out tag, get 1 point.  if tagged reset.\r\n\r\nFirst to 5 points wins the game",
+                "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn -  handout (From Rick)",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/s0MgY2XOtx",
+                "court_requirement": "either"
+            },
+            {
+                "drill_id": "355b95f3-05b4-4177-b087-652beb5f1d74",
+                "title": "1v1 Shoulder Runs  (20250803)",
+                "drillDescription": "tbc - not sure what this is - not bullyball?",
+                "alsoKnownAs": "",
+                "purpose": "defense - contain and push to corner.   Offense - explode and create advantage",
+                "setup": "",
+                "coachingPoints": "defense - keep offense along sideline, nose on shoulder.\r\noffense - explode/hesi and finishing",
+                "instructions": "line up on baseline, in corner.\r\nrun hard to centre and then 1v1 to basket.",
+                "source": "wyndham rep 20250803",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/ZaKQU0ELEx",
+                "court_requirement": "full"
+            },
+            {
+                "drill_id": "f079e41f-d945-4fda-a558-9792924e2885",
+                "title": "3v2 Rapid Traps and layups (half court)",
+                "drillDescription": "coach trapping, escaping and defending down the line",
+                "alsoKnownAs": "",
+                "purpose": "coach trapping, escaping and defending down the line",
+                "setup": "",
+                "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                "instructions": "",
+                "source": "wyndham rep 20250803",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "49ea3fa6-23c5-439b-8475-963283c7eba1",
+                "title": "Bullets (1v1)",
+                "drillDescription": "Putting dribble moves and finishes into game scenarios",
+                "alsoKnownAs": "",
+                "purpose": "",
+                "setup": "",
+                "coachingPoints": "move on the move (eg watch for move to start). Explode, \"be trickey\", attack angle.\r\nDefense - force wide, not middle",
+                "instructions": "O starts with live dribble.  A crossover dribble game is live.  D must get both heels outside the 3..  8 second shotclock.",
+                "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn -  handout (From Rick)",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/8fJrxLIj8U",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
+                "title": "Drive - Kick - Swing (continous)",
+                "drillDescription": "Drive - Kick - Swing  (continous)",
+                "alsoKnownAs": "",
+                "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                "setup": "",
+                "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                "court_requirement": "half"
+            }
+        ],
+        "summary": "20250804",
+        "keywords": []
     },
     {
-        "id": 8,
+        "id": 7,
+        "ref_code": "PP-0007",
         "title": "U12 Boys - Plan (Aug - week 2)",
         "date": "2025-08-09",
         "duration_minutes": 60,
         "notes": "U12 Boys - Plan (Aug - week 2)",
         "segments": [
             {
-                "id": 38,
-                "teaching_points": [],
-                "drills": [],
+                "id": 14,
                 "order": 1,
                 "time_range": "10 min",
                 "title": "Bball Tag",
                 "notes": "",
-                "plan": 8
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 39,
-                "teaching_points": [],
-                "drills": [
-                    {
-                        "drill_id": "b0dd282d-0c46-4692-b338-3524b2a8e5fb",
-                        "title": "Drive - Kick - Swing (continous)",
-                        "drillDescription": "Drive - Kick - Swing  (continous)",
-                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
-                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
-                        "setup": "",
-                        "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
-                        "steps": []
-                    }
-                ],
+                "id": 30,
                 "order": 2,
                 "time_range": "10 to 20",
                 "title": "DKS",
                 "notes": "drill DKS formation, instead of shoot, drive for a back cut.  *4v3?",
-                "plan": 8
-            },
-            {
-                "id": 40,
                 "teaching_points": [],
                 "drills": [
                     {
-                        "drill_id": "f84fd562-a09d-4e5b-a797-75392cfaefdb",
-                        "title": "3v2 Rapid Traps and layups (half court)",
-                        "drillDescription": "coach trapping, escaping and defending down the line",
-                        "purpose": "coach trapping, escaping and defending down the line",
-                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                        "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
+                        "title": "Drive - Kick - Swing (continous)",
+                        "drillDescription": "Drive - Kick - Swing  (continous)",
+                        "alsoKnownAs": "",
+                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
                         "setup": "",
-                        "instructions": "",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
-                        "steps": []
+                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                        "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                        "court_requirement": "half"
                     }
-                ],
+                ]
+            },
+            {
+                "id": 44,
                 "order": 3,
                 "time_range": "20 to 30",
                 "title": "continous layups and traps",
                 "notes": "",
-                "plan": 8
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "f079e41f-d945-4fda-a558-9792924e2885",
+                        "title": "3v2 Rapid Traps and layups (half court)",
+                        "drillDescription": "coach trapping, escaping and defending down the line",
+                        "alsoKnownAs": "",
+                        "purpose": "coach trapping, escaping and defending down the line",
+                        "setup": "",
+                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                        "instructions": "",
+                        "source": "wyndham rep 20250803",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
+                        "court_requirement": "half"
+                    }
+                ]
             },
             {
-                "id": 41,
+                "id": 59,
+                "order": 4,
+                "time_range": "30 to 40 min",
+                "title": "form shooting 6 spots - team get 8 (last 2 in a row)",
+                "notes": "",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-183",
@@ -691,88 +767,131 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 4,
-                "time_range": "30 to 40 min",
-                "title": "form shooting 6 spots - team get 8 (last 2 in a row)",
-                "notes": "",
-                "plan": 8
+                "drills": []
             },
             {
-                "id": 42,
-                "teaching_points": [],
-                "drills": [
-                    {
-                        "drill_id": "ca81f181-6b36-408a-a06d-4229b66fc850",
-                        "title": "Box out and Rebound",
-                        "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
-                        "purpose": "Increase Box out rotations",
-                        "coachingPoints": "Box out (seal, pushback_",
-                        "setup": "",
-                        "instructions": "",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
-                        "steps": []
-                    }
-                ],
+                "id": 74,
                 "order": 5,
                 "time_range": "40 to 50 min",
                 "title": "boxing out drill",
                 "notes": "",
-                "plan": 8
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "d276be44-f6ef-4420-9fc6-04992f87eeac",
+                        "title": "Box out and Rebound",
+                        "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
+                        "alsoKnownAs": "",
+                        "purpose": "Increase Box out rotations",
+                        "setup": "",
+                        "coachingPoints": "Box out (seal, pushback_",
+                        "instructions": "",
+                        "source": "",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
+                        "court_requirement": "half"
+                    }
+                ]
             },
             {
-                "id": 43,
-                "teaching_points": [],
-                "drills": [],
+                "id": 89,
                 "order": 6,
                 "time_range": "50 to 60 min",
                 "title": "scrimmage",
                 "notes": "",
-                "plan": 8
+                "teaching_points": [],
+                "drills": []
             }
-        ]
+        ],
+        "drills": [
+            {
+                "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
+                "title": "Drive - Kick - Swing (continous)",
+                "drillDescription": "Drive - Kick - Swing  (continous)",
+                "alsoKnownAs": "",
+                "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                "setup": "",
+                "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "f079e41f-d945-4fda-a558-9792924e2885",
+                "title": "3v2 Rapid Traps and layups (half court)",
+                "drillDescription": "coach trapping, escaping and defending down the line",
+                "alsoKnownAs": "",
+                "purpose": "coach trapping, escaping and defending down the line",
+                "setup": "",
+                "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                "instructions": "",
+                "source": "wyndham rep 20250803",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "d276be44-f6ef-4420-9fc6-04992f87eeac",
+                "title": "Box out and Rebound",
+                "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
+                "alsoKnownAs": "",
+                "purpose": "Increase Box out rotations",
+                "setup": "",
+                "coachingPoints": "Box out (seal, pushback_",
+                "instructions": "",
+                "source": "",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
+                "court_requirement": "half"
+            }
+        ],
+        "summary": "U12 Boys - Plan (Aug - week 2)",
+        "keywords": []
     },
     {
-        "id": 9,
+        "id": 8,
+        "ref_code": "PP-0008",
         "title": "U14 Boys - Plan (Aug - week 2)",
         "date": "2025-08-09",
         "duration_minutes": 60,
         "notes": "",
         "segments": [
             {
-                "id": 49,
-                "teaching_points": [],
-                "drills": [],
+                "id": 1,
                 "order": 0,
                 "time_range": "10",
                 "title": "Team discussion on AHP",
                 "notes": "How to beat arrow head press.\r\n30% game worked brilliantly\r\n\r\n70 didn't because:\r\na) AHP\r\nb) JA/AD should not be designated BH\r\nc) Read and respond\r\n\r\nCommunicate sideline / set up drill (3 AHP vs 4 sideline half court.\r\nPractice screens and put hats down.\r\n\r\nstart trigger is layup.. then inbound positions\r\ntrap and scope 1 points\r\nget of dodge and scope 2 points.",
-                "plan": 9
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 36,
-                "teaching_points": [],
-                "drills": [
-                    {
-                        "drill_id": "ca81f181-6b36-408a-a06d-4229b66fc850",
-                        "title": "Box out and Rebound",
-                        "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
-                        "purpose": "Increase Box out rotations",
-                        "coachingPoints": "Box out (seal, pushback_",
-                        "setup": "",
-                        "instructions": "",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
-                        "steps": []
-                    }
-                ],
+                "id": 13,
                 "order": 1,
                 "time_range": "10 min",
                 "title": "Ball tap",
                 "notes": "tbc",
-                "plan": 9
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "d276be44-f6ef-4420-9fc6-04992f87eeac",
+                        "title": "Box out and Rebound",
+                        "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
+                        "alsoKnownAs": "",
+                        "purpose": "Increase Box out rotations",
+                        "setup": "",
+                        "coachingPoints": "Box out (seal, pushback_",
+                        "instructions": "",
+                        "source": "",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
+                        "court_requirement": "half"
+                    }
+                ]
             },
             {
-                "id": 37,
+                "id": 29,
+                "order": 2,
+                "time_range": "10 to 20 min",
+                "title": "DKS",
+                "notes": "drive kick swing - drill ball movement strong passing and hard running",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-178",
@@ -789,57 +908,58 @@
                 ],
                 "drills": [
                     {
-                        "drill_id": "b0dd282d-0c46-4692-b338-3524b2a8e5fb",
+                        "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
                         "title": "Drive - Kick - Swing (continous)",
                         "drillDescription": "Drive - Kick - Swing  (continous)",
+                        "alsoKnownAs": "",
                         "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
-                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
                         "setup": "",
+                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
                         "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
                         "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
-                        "steps": []
+                        "court_requirement": "half"
                     }
-                ],
-                "order": 2,
-                "time_range": "10 to 20 min",
-                "title": "DKS",
-                "notes": "drive kick swing - drill ball movement strong passing and hard running",
-                "plan": 9
+                ]
             },
             {
-                "id": 44,
-                "teaching_points": [],
-                "drills": [],
+                "id": 45,
                 "order": 3,
                 "time_range": "20 to 30",
                 "title": "AIS shooting",
                 "notes": "form shooting",
-                "plan": 9
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 45,
-                "teaching_points": [],
-                "drills": [
-                    {
-                        "drill_id": "b0a616c5-3672-4bd4-bda2-630e5681aa52",
-                        "title": "Bullets (1v1)",
-                        "drillDescription": "Putting dribble moves and finishes into game scenarios",
-                        "purpose": "",
-                        "coachingPoints": "move on the move (eg watch for move to start). Explode, \"be trickey\", attack angle.\r\nDefense - force wide, not middle",
-                        "setup": "",
-                        "instructions": "O starts with live dribble.  A crossover dribble game is live.  D must get both heels outside the 3..  8 second shotclock.",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/8fJrxLIj8U",
-                        "steps": []
-                    }
-                ],
+                "id": 60,
                 "order": 4,
                 "time_range": "30 to 40 min",
                 "title": "Box out and Rebound",
                 "notes": "Play as per drill - 2v2 first to 3 stops",
-                "plan": 9
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "49ea3fa6-23c5-439b-8475-963283c7eba1",
+                        "title": "Bullets (1v1)",
+                        "drillDescription": "Putting dribble moves and finishes into game scenarios",
+                        "alsoKnownAs": "",
+                        "purpose": "",
+                        "setup": "",
+                        "coachingPoints": "move on the move (eg watch for move to start). Explode, \"be trickey\", attack angle.\r\nDefense - force wide, not middle",
+                        "instructions": "O starts with live dribble.  A crossover dribble game is live.  D must get both heels outside the 3..  8 second shotclock.",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn -  handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/8fJrxLIj8U",
+                        "court_requirement": "half"
+                    }
+                ]
             },
             {
-                "id": 46,
+                "id": 75,
+                "order": 5,
+                "time_range": "40 to 50 min",
+                "title": "Pass and cut",
+                "notes": "",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-004",
@@ -854,46 +974,103 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 5,
-                "time_range": "40 to 50 min",
-                "title": "Pass and cut",
-                "notes": "",
-                "plan": 9
+                "drills": []
             },
             {
-                "id": 47,
-                "teaching_points": [],
-                "drills": [
-                    {
-                        "drill_id": "f84fd562-a09d-4e5b-a797-75392cfaefdb",
-                        "title": "3v2 Rapid Traps and layups (half court)",
-                        "drillDescription": "coach trapping, escaping and defending down the line",
-                        "purpose": "coach trapping, escaping and defending down the line",
-                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
-                        "setup": "",
-                        "instructions": "",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
-                        "steps": []
-                    }
-                ],
+                "id": 90,
                 "order": 6,
                 "time_range": "50 to 60 min",
                 "title": "rapid layup and trap",
                 "notes": "add 2 on 1 to inbound the ball and get back to middle",
-                "plan": 9
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "f079e41f-d945-4fda-a558-9792924e2885",
+                        "title": "3v2 Rapid Traps and layups (half court)",
+                        "drillDescription": "coach trapping, escaping and defending down the line",
+                        "alsoKnownAs": "",
+                        "purpose": "coach trapping, escaping and defending down the line",
+                        "setup": "",
+                        "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                        "instructions": "",
+                        "source": "wyndham rep 20250803",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
+                        "court_requirement": "half"
+                    }
+                ]
             }
-        ]
+        ],
+        "drills": [
+            {
+                "drill_id": "d276be44-f6ef-4420-9fc6-04992f87eeac",
+                "title": "Box out and Rebound",
+                "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
+                "alsoKnownAs": "",
+                "purpose": "Increase Box out rotations",
+                "setup": "",
+                "coachingPoints": "Box out (seal, pushback_",
+                "instructions": "",
+                "source": "",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
+                "title": "Drive - Kick - Swing (continous)",
+                "drillDescription": "Drive - Kick - Swing  (continous)",
+                "alsoKnownAs": "",
+                "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                "setup": "",
+                "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "49ea3fa6-23c5-439b-8475-963283c7eba1",
+                "title": "Bullets (1v1)",
+                "drillDescription": "Putting dribble moves and finishes into game scenarios",
+                "alsoKnownAs": "",
+                "purpose": "",
+                "setup": "",
+                "coachingPoints": "move on the move (eg watch for move to start). Explode, \"be trickey\", attack angle.\r\nDefense - force wide, not middle",
+                "instructions": "O starts with live dribble.  A crossover dribble game is live.  D must get both heels outside the 3..  8 second shotclock.",
+                "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn -  handout (From Rick)",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/8fJrxLIj8U",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "f079e41f-d945-4fda-a558-9792924e2885",
+                "title": "3v2 Rapid Traps and layups (half court)",
+                "drillDescription": "coach trapping, escaping and defending down the line",
+                "alsoKnownAs": "",
+                "purpose": "coach trapping, escaping and defending down the line",
+                "setup": "",
+                "coachingPoints": "defense - trap approachs from blind spot, push points are corners.  try and get steal (no foul), use centreline, sideline to advantage.  only trap in designated situations.\r\n\r\nIf trapped, be decisive take 2 hard dribbles and go somewhere then move the ball quickly\r\n\r\nOffense - get out of trouble (protect ball, pivot, pass under duress).",
+                "instructions": "",
+                "source": "wyndham rep 20250803",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/QhiAEpKntT",
+                "court_requirement": "half"
+            }
+        ],
+        "summary": "U14 Boys - Plan (Aug - week 2)",
+        "keywords": []
     },
     {
-        "id": 11,
+        "id": 9,
+        "ref_code": "PP-0009",
         "title": "U12 Boys - Plan (Aug - week 4)",
         "date": "2025-08-25",
         "duration_minutes": 60,
         "notes": "",
         "segments": [
             {
-                "id": 50,
+                "id": 2,
+                "order": 0,
+                "time_range": "0-10 min",
+                "title": "passing on bum",
+                "notes": "practice better passing\r\nstar passing to?",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-006",
@@ -908,108 +1085,136 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 0,
-                "time_range": "0-10 min",
-                "title": "passing on bum",
-                "notes": "practice better passing\r\nstar passing to?",
-                "plan": 11
+                "drills": []
             },
             {
-                "id": 51,
-                "teaching_points": [],
-                "drills": [
-                    {
-                        "drill_id": "0b1e2f04-8668-417b-8cf2-79ec211a8db2",
-                        "title": "4v4 press break challenge",
-                        "drillDescription": "2 teams of 4.\r\nOffense need to break press\r\nDefense need to steal and score",
-                        "purpose": "practice player and ball movement under pressure",
-                        "coachingPoints": "diamond press break, screening",
-                        "setup": "",
-                        "instructions": "",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/g6FO8Lh5s9",
-                        "steps": []
-                    }
-                ],
+                "id": 15,
                 "order": 1,
                 "time_range": "10 to 40",
                 "title": "Press break practice",
                 "notes": "Press Break challenge - first to 10 points.\r\n2 points to get out of jail \r\n4 points for a steal and bucket",
-                "plan": 11
-            },
-            {
-                "id": 52,
                 "teaching_points": [],
                 "drills": [
                     {
-                        "drill_id": "b0dd282d-0c46-4692-b338-3524b2a8e5fb",
-                        "title": "Drive - Kick - Swing (continous)",
-                        "drillDescription": "Drive - Kick - Swing  (continous)",
-                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
-                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                        "drill_id": "c98e041b-9a57-4a56-a7c4-e6730974c03a",
+                        "title": "4v4 press break challenge",
+                        "drillDescription": "2 teams of 4.\r\nOffense need to break press\r\nDefense need to steal and score",
+                        "alsoKnownAs": "",
+                        "purpose": "practice player and ball movement under pressure",
                         "setup": "",
-                        "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
-                        "steps": []
+                        "coachingPoints": "diamond press break, screening",
+                        "instructions": "",
+                        "source": "inspired by a few things",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/g6FO8Lh5s9",
+                        "court_requirement": "either"
                     }
-                ],
+                ]
+            },
+            {
+                "id": 31,
                 "order": 2,
                 "time_range": "5",
                 "title": "DKS",
                 "notes": "",
-                "plan": 11
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
+                        "title": "Drive - Kick - Swing (continous)",
+                        "drillDescription": "Drive - Kick - Swing  (continous)",
+                        "alsoKnownAs": "",
+                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                        "setup": "",
+                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                        "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                        "court_requirement": "half"
+                    }
+                ]
             },
             {
-                "id": 53,
-                "teaching_points": [],
-                "drills": [],
+                "id": 46,
                 "order": 3,
                 "time_range": "6",
                 "title": "AIS shooting",
                 "notes": "",
-                "plan": 11
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 54,
-                "teaching_points": [],
-                "drills": [],
+                "id": 61,
                 "order": 4,
                 "time_range": "7",
                 "title": "pressure",
                 "notes": "",
-                "plan": 11
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 55,
-                "teaching_points": [],
-                "drills": [],
+                "id": 76,
                 "order": 5,
                 "time_range": "5",
                 "title": "scrimmage",
                 "notes": "",
-                "plan": 11
+                "teaching_points": [],
+                "drills": []
             }
-        ]
+        ],
+        "drills": [
+            {
+                "drill_id": "c98e041b-9a57-4a56-a7c4-e6730974c03a",
+                "title": "4v4 press break challenge",
+                "drillDescription": "2 teams of 4.\r\nOffense need to break press\r\nDefense need to steal and score",
+                "alsoKnownAs": "",
+                "purpose": "practice player and ball movement under pressure",
+                "setup": "",
+                "coachingPoints": "diamond press break, screening",
+                "instructions": "",
+                "source": "inspired by a few things",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/g6FO8Lh5s9",
+                "court_requirement": "either"
+            },
+            {
+                "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
+                "title": "Drive - Kick - Swing (continous)",
+                "drillDescription": "Drive - Kick - Swing  (continous)",
+                "alsoKnownAs": "",
+                "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                "setup": "",
+                "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                "court_requirement": "half"
+            }
+        ],
+        "summary": "U12 Boys - Plan (Aug - week 4)",
+        "keywords": []
     },
     {
-        "id": 12,
+        "id": 10,
+        "ref_code": "PP-0010",
         "title": "U18 Boys - Plan (Aug - week 4)",
         "date": "2025-08-27",
         "duration_minutes": 60,
         "notes": "",
         "segments": [
             {
-                "id": 56,
-                "teaching_points": [],
-                "drills": [],
+                "id": 3,
                 "order": 0,
                 "time_range": "0-10 min",
                 "title": "Team Discussion",
                 "notes": "Down 10 points in the first, Down 20 in second. Team energy is down - Everyone is frustrated.\r\nHow do we get back into the game?\r\nWhat actions can you take to lift the team?\r\nWhat is the single biggest thing you could do?",
-                "plan": 12
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 57,
+                "id": 16,
+                "order": 1,
+                "time_range": "10 min",
+                "title": "Star Passing",
+                "notes": "4 players start on 2 elbows and low  blocks.  \r\ninbound from baseline.\r\nfacing basket - \r\nLeft  inbound to right elbow, to left low block to right low block to right elbow - drive to basket.\r\nRun to where you pass.\r\nloud voice - clean passing - fast movement\r\n\r\n\r\nGet #20 without missing.\r\n\r\nnew line with different colour ball - add 2nd ball (different colour) \r\nRun to where you pass.",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-033",
@@ -1024,15 +1229,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 1,
-                "time_range": "10 min",
-                "title": "Star Passing",
-                "notes": "4 players start on 2 elbows and low  blocks.  \r\ninbound from baseline.\r\nfacing basket - \r\nLeft  inbound to right elbow, to left low block to right low block to right elbow - drive to basket.\r\nRun to where you pass.\r\nloud voice - clean passing - fast movement\r\n\r\n\r\nGet #20 without missing.\r\n\r\nnew line with different colour ball - add 2nd ball (different colour) \r\nRun to where you pass.",
-                "plan": 12
+                "drills": []
             },
             {
-                "id": 59,
+                "id": 47,
+                "order": 3,
+                "time_range": "10 min",
+                "title": "Pass and Cut Triangles",
+                "notes": "Pass and cut.\r\nGet it going both sides - face cut, and finish in paint.\r\nVoice, hands.\r\n\r\nOffense read defensive footwork\r\nDefence - no foul, read lead foot.",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-004",
@@ -1047,37 +1251,37 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 3,
-                "time_range": "10 min",
-                "title": "Pass and Cut Triangles",
-                "notes": "Pass and cut.\r\nGet it going both sides - face cut, and finish in paint.\r\nVoice, hands.\r\n\r\nOffense read defensive footwork\r\nDefence - no foul, read lead foot.",
-                "plan": 12
+                "drills": []
             },
             {
-                "id": 58,
-                "teaching_points": [],
-                "drills": [
-                    {
-                        "drill_id": "ca81f181-6b36-408a-a06d-4229b66fc850",
-                        "title": "Box out and Rebound",
-                        "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
-                        "purpose": "Increase Box out rotations",
-                        "coachingPoints": "Box out (seal, pushback_",
-                        "setup": "",
-                        "instructions": "",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
-                        "steps": []
-                    }
-                ],
+                "id": 62,
                 "order": 4,
                 "time_range": "10 min",
                 "title": "Boxing out",
                 "notes": "4 middle (2 yellow/2 blue)\r\n4 shooters (2 yellow/2 blue)\r\n\r\nBox out and kick out to shooter > hot potatoe pass to open wing/corner.\r\n\r\nFirst team to 10 wins (box out gets 2 points) - 3 gets 1 point\r\nshooters must alternate 3 and mid range shots (step in) .\r\n\r\nvoices",
-                "plan": 12
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "d276be44-f6ef-4420-9fc6-04992f87eeac",
+                        "title": "Box out and Rebound",
+                        "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
+                        "alsoKnownAs": "",
+                        "purpose": "Increase Box out rotations",
+                        "setup": "",
+                        "coachingPoints": "Box out (seal, pushback_",
+                        "instructions": "",
+                        "source": "",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
+                        "court_requirement": "half"
+                    }
+                ]
             },
             {
-                "id": 60,
+                "id": 77,
+                "order": 5,
+                "time_range": "10 min",
+                "title": "AIS Shooting",
+                "notes": "Compete 4v4 across 3 spots.\r\nFirst team to get 9 (last 2 shots must be in a row, for winning team to progress).\r\n\r\nLow Block\r\nShort Corner\r\nElbow\r\nFree throw (adjacent)\r\n\r\nUsually the team who wins this is creating good energy - good voice.",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-183",
@@ -1092,24 +1296,41 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 5,
-                "time_range": "10 min",
-                "title": "AIS Shooting",
-                "notes": "Compete 4v4 across 3 spots.\r\nFirst team to get 9 (last 2 shots must be in a row, for winning team to progress).\r\n\r\nLow Block\r\nShort Corner\r\nElbow\r\nFree throw (adjacent)\r\n\r\nUsually the team who wins this is creating good energy - good voice.",
-                "plan": 12
+                "drills": []
             }
-        ]
+        ],
+        "drills": [
+            {
+                "drill_id": "d276be44-f6ef-4420-9fc6-04992f87eeac",
+                "title": "Box out and Rebound",
+                "drillDescription": "Box out and Rebound.  Play to x stops and rotate",
+                "alsoKnownAs": "",
+                "purpose": "Increase Box out rotations",
+                "setup": "",
+                "coachingPoints": "Box out (seal, pushback_",
+                "instructions": "",
+                "source": "",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/Qq0J2AQzdg",
+                "court_requirement": "half"
+            }
+        ],
+        "summary": "U18 Boys - Plan (Aug - week 4)",
+        "keywords": []
     },
     {
-        "id": 13,
+        "id": 11,
+        "ref_code": "PP-0011",
         "title": "U12 Boys - Plan (Sep- week 1)",
         "date": "2025-09-01",
         "duration_minutes": 60,
         "notes": "",
         "segments": [
             {
-                "id": 61,
+                "id": 4,
+                "order": 0,
+                "time_range": "pass tag",
+                "title": "pass tag",
+                "notes": "pass tag",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-210",
@@ -1124,15 +1345,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 0,
-                "time_range": "pass tag",
-                "title": "pass tag",
-                "notes": "pass tag",
-                "plan": 13
+                "drills": []
             },
             {
-                "id": 62,
+                "id": 17,
+                "order": 1,
+                "time_range": "drive and dish",
+                "title": "drive and dish",
+                "notes": "",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-208",
@@ -1147,15 +1367,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 1,
-                "time_range": "drive and dish",
-                "title": "drive and dish",
-                "notes": "",
-                "plan": 13
+                "drills": []
             },
             {
-                "id": 63,
+                "id": 32,
+                "order": 2,
+                "time_range": "backldor cuts",
+                "title": "backldor cuts",
+                "notes": "",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-209",
@@ -1170,15 +1389,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 2,
-                "time_range": "backldor cuts",
-                "title": "backldor cuts",
-                "notes": "",
-                "plan": 13
+                "drills": []
             },
             {
-                "id": 64,
+                "id": 48,
+                "order": 3,
+                "time_range": "tbc",
+                "title": "tbc 213",
+                "notes": "",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-213",
@@ -1193,15 +1411,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 3,
-                "time_range": "tbc",
-                "title": "tbc 213",
-                "notes": "",
-                "plan": 13
+                "drills": []
             },
             {
-                "id": 65,
+                "id": 63,
+                "order": 4,
+                "time_range": "tbc",
+                "title": "tbc 214",
+                "notes": "",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-214",
@@ -1216,15 +1433,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 4,
-                "time_range": "tbc",
-                "title": "tbc 214",
-                "notes": "",
-                "plan": 13
+                "drills": []
             },
             {
-                "id": 66,
+                "id": 78,
+                "order": 5,
+                "time_range": "dyanmic finishing",
+                "title": "215- add defence",
+                "notes": "Driver must get feet into paint, then kick to wing.\r\nDefence and offense must race to 3 point line, then both cut back to get pass to bucket\r\n\r\nRotations.  defence to wing, offense to defense, wing to line",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-215",
@@ -1239,135 +1455,149 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 5,
-                "time_range": "dyanmic finishing",
-                "title": "215- add defence",
-                "notes": "Driver must get feet into paint, then kick to wing.\r\nDefence and offense must race to 3 point line, then both cut back to get pass to bucket\r\n\r\nRotations.  defence to wing, offense to defense, wing to line",
-                "plan": 13
+                "drills": []
             }
-        ]
+        ],
+        "drills": [],
+        "summary": "U12 Boys - Plan (Sep- week 1)",
+        "keywords": []
     },
     {
-        "id": 14,
+        "id": 12,
+        "ref_code": "PP-0012",
         "title": "U14 Boys - Plan (Sep- week 2) SF",
         "date": "2025-09-08",
         "duration_minutes": 60,
         "notes": "we need to work on offensive spacing (there was a lot of space in they key, but we didn’t find it.",
         "segments": [
             {
-                "id": 67,
-                "teaching_points": [],
-                "drills": [],
+                "id": 5,
                 "order": 0,
                 "time_range": "10",
                 "title": "Team Discussion",
                 "notes": "Game Factors\r\n- ball handlers\r\na) mismatch in key\r\nb) zone defense\r\nc) must pass/cut/replace\r\nd) get through set before attempting any 3 point shots\r\n\r\nKey Takeaway - we need to work on offensive spacing (there was a lot of space in they key, but we didn’t find it.\r\n\r\nLast time - offensive passing hurt us in the first half.",
-                "plan": 14
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 68,
-                "teaching_points": [],
-                "drills": [],
+                "id": 18,
                 "order": 1,
                 "time_range": "bully ball shoulders",
                 "title": "start on points.",
                 "notes": "Jlin vid",
-                "plan": 14
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 69,
-                "teaching_points": [],
-                "drills": [],
+                "id": 33,
                 "order": 2,
                 "time_range": "beat half court trap",
                 "title": "3 v 3",
                 "notes": "use diamond formation - BLOB to coach inbound, or full court.",
-                "plan": 14
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 70,
-                "teaching_points": [],
-                "drills": [],
+                "id": 49,
                 "order": 3,
                 "time_range": "Post ups",
                 "title": "post ups",
                 "notes": "enter",
-                "plan": 14
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 71,
-                "teaching_points": [],
-                "drills": [],
+                "id": 64,
                 "order": 4,
                 "time_range": "Box out",
                 "title": "4 in key, shooters",
                 "notes": "1 point per rebound",
-                "plan": 14
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 72,
-                "teaching_points": [],
-                "drills": [],
+                "id": 79,
                 "order": 5,
                 "time_range": "2v1 rapid lay ups",
                 "title": "draw player",
                 "notes": "",
-                "plan": 14
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 73,
-                "teaching_points": [],
-                "drills": [
-                    {
-                        "drill_id": "b0dd282d-0c46-4692-b338-3524b2a8e5fb",
-                        "title": "Drive - Kick - Swing (continous)",
-                        "drillDescription": "Drive - Kick - Swing  (continous)",
-                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
-                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
-                        "setup": "",
-                        "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
-                        "steps": []
-                    }
-                ],
+                "id": 91,
                 "order": 6,
                 "time_range": "DKS",
                 "title": "Drive kick swing",
                 "notes": "",
-                "plan": 14
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
+                        "title": "Drive - Kick - Swing (continous)",
+                        "drillDescription": "Drive - Kick - Swing  (continous)",
+                        "alsoKnownAs": "",
+                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                        "setup": "",
+                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                        "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                        "court_requirement": "half"
+                    }
+                ]
             },
             {
-                "id": 74,
-                "teaching_points": [],
-                "drills": [],
+                "id": 95,
                 "order": 7,
                 "time_range": "3 vs Zone",
                 "title": "3 vs Zone",
                 "notes": "set up 3 vs zone - targeting pass, cut replace and drive kick swing, back cuts and  hook and look.\r\na) pistols into hook and look.\r\nb) DKS around a zone\r\nc) passing around shell - of crap passes (L cut in, V cut to get open)\r\nd) swing ball top (looking for ball watchers) base cuts.\r\n\r\nCoach can joint as offense",
-                "plan": 14
+                "teaching_points": [],
+                "drills": []
             }
-        ]
+        ],
+        "drills": [
+            {
+                "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
+                "title": "Drive - Kick - Swing (continous)",
+                "drillDescription": "Drive - Kick - Swing  (continous)",
+                "alsoKnownAs": "",
+                "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                "setup": "",
+                "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                "court_requirement": "half"
+            }
+        ],
+        "summary": "we need to work on offensive spacing (there was a lot of space in they key, but we didn’t find it.",
+        "keywords": []
     },
     {
-        "id": 15,
+        "id": 13,
+        "ref_code": "PP-0013",
         "title": "Summer25 - Fundamentals",
         "date": "2025-10-13",
         "duration_minutes": 60,
         "notes": "",
         "segments": [
             {
-                "id": 75,
-                "teaching_points": [],
-                "drills": [],
+                "id": 6,
                 "order": 0,
                 "time_range": "Basketball Tag",
                 "title": "Basketball Tag",
                 "notes": "",
-                "plan": 15
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 76,
+                "id": 19,
+                "order": 1,
+                "time_range": "Footwork warm up 1",
+                "title": "Footwork warm up 1",
+                "notes": "Footwork warm up 1",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-255",
@@ -1382,15 +1612,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 1,
-                "time_range": "Footwork warm up 1",
-                "title": "Footwork warm up 1",
-                "notes": "Footwork warm up 1",
-                "plan": 15
+                "drills": []
             },
             {
-                "id": 77,
+                "id": 34,
+                "order": 2,
+                "time_range": "Footwork warm up 2",
+                "title": "Footwork warm up 2",
+                "notes": "Footwork warm up 2",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-256",
@@ -1405,15 +1634,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 2,
-                "time_range": "Footwork warm up 2",
-                "title": "Footwork warm up 2",
-                "notes": "Footwork warm up 2",
-                "plan": 15
+                "drills": []
             },
             {
-                "id": 78,
+                "id": 50,
+                "order": 3,
+                "time_range": "Footwork warm up 3",
+                "title": "Footwork warm up 3",
+                "notes": "Footwork warm up 3",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-259",
@@ -1428,25 +1656,23 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 3,
-                "time_range": "Footwork warm up 3",
-                "title": "Footwork warm up 3",
-                "notes": "Footwork warm up 3",
-                "plan": 15
+                "drills": []
             },
             {
-                "id": 79,
-                "teaching_points": [],
-                "drills": [],
+                "id": 65,
                 "order": 4,
                 "time_range": "Footwork warm up 4",
                 "title": "Footwork warm up 4",
                 "notes": "Footwork warm up 4",
-                "plan": 15
+                "teaching_points": [],
+                "drills": []
             },
             {
                 "id": 80,
+                "order": 5,
+                "time_range": "Footwork warm up 5",
+                "title": "Footwork warm up 5",
+                "notes": "Footwork warm up 4",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-260",
@@ -1461,113 +1687,112 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 5,
-                "time_range": "Footwork warm up 5",
-                "title": "Footwork warm up 5",
-                "notes": "Footwork warm up 4",
-                "plan": 15
+                "drills": []
             }
-        ]
+        ],
+        "drills": [],
+        "summary": "Summer25 - Fundamentals",
+        "keywords": []
     },
     {
-        "id": 16,
+        "id": 14,
+        "ref_code": "PP-0014",
         "title": "U12 Boys - Plan (Oct-rnd-2)",
         "date": "2025-10-20",
         "duration_minutes": 60,
         "notes": "1. Bball tag\r\n2. Pound Dribble, Pivot/pass\r\n3. slaylom handles\r\n4. AIS shooting\r\n5. Box our and rebound\r\n6. 3v2 rapid (ODDDO)\r\n7. Star Shooting",
         "segments": [
             {
-                "id": 81,
-                "teaching_points": [],
-                "drills": [],
+                "id": 20,
                 "order": 1,
                 "time_range": "10",
                 "title": "1. Bball tag",
                 "notes": "Small half circle to start",
-                "plan": 16
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 82,
-                "teaching_points": [],
-                "drills": [],
+                "id": 35,
                 "order": 2,
                 "time_range": "20",
                 "title": "2. Pound Dribble, Pivot/pass",
                 "notes": "",
-                "plan": 16
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 83,
-                "teaching_points": [],
-                "drills": [],
+                "id": 51,
                 "order": 3,
                 "time_range": "30",
                 "title": "3. slaylom handles",
                 "notes": "dribble cross through slaylom and into step lay up.",
-                "plan": 16
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 84,
-                "teaching_points": [],
-                "drills": [],
+                "id": 66,
                 "order": 4,
                 "time_range": "38",
                 "title": "4. sideline adapted",
                 "notes": "4. AIS shooting",
-                "plan": 16
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 85,
-                "teaching_points": [],
-                "drills": [],
+                "id": 81,
                 "order": 5,
                 "time_range": "45",
                 "title": "5. Box out and rebound",
                 "notes": "5. Box our and rebound",
-                "plan": 16
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 86,
-                "teaching_points": [],
-                "drills": [],
+                "id": 92,
                 "order": 6,
                 "time_range": "50",
                 "title": "3v2 Rapid",
                 "notes": "3v2 Rapid (corner trap)",
-                "plan": 16
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 87,
-                "teaching_points": [],
-                "drills": [],
+                "id": 96,
                 "order": 7,
                 "time_range": "scrimmage",
                 "title": "scrimmage",
                 "notes": "scrimmage",
-                "plan": 16
+                "teaching_points": [],
+                "drills": []
             }
-        ]
+        ],
+        "drills": [],
+        "summary": "1. Bball tag\r\n2. Pound Dribble, Pivot/pass\r\n3. slaylom handles\r\n4. AIS shooting\r\n5. Box our and rebound\r\n6. 3v2 rapid (ODDDO)\r\n7. Star Shooting",
+        "keywords": []
     },
     {
-        "id": 17,
+        "id": 15,
+        "ref_code": "PP-0015",
         "title": "U14 Boys - Plan (Oct-rnd-2)",
         "date": "2025-10-20",
         "duration_minutes": 60,
         "notes": "1. Bball tag\r\n2. Pound Dribble, Pivot/pass\r\n3. slaylom handles\r\n4. AIS shooting\r\n5. Box our and rebound\r\n6. 3v2 rapid (ODDDO)\r\n7. Star Shooting",
         "segments": [
             {
-                "id": 88,
-                "teaching_points": [],
-                "drills": [],
+                "id": 7,
                 "order": 0,
                 "time_range": "10",
                 "title": "Pound Dribble warm up",
                 "notes": "",
-                "plan": 17
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 89,
+                "id": 21,
+                "order": 1,
+                "time_range": "20",
+                "title": "2 side layups",
+                "notes": "various tp",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-253",
@@ -1642,118 +1867,145 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 1,
-                "time_range": "20",
-                "title": "2 side layups",
-                "notes": "various tp",
-                "plan": 17
+                "drills": []
             },
             {
-                "id": 90,
-                "teaching_points": [],
-                "drills": [
-                    {
-                        "drill_id": "b0dd282d-0c46-4692-b338-3524b2a8e5fb",
-                        "title": "Drive - Kick - Swing (continous)",
-                        "drillDescription": "Drive - Kick - Swing  (continous)",
-                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
-                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
-                        "setup": "",
-                        "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
-                        "steps": []
-                    }
-                ],
+                "id": 36,
                 "order": 2,
                 "time_range": "30",
                 "title": "Drive-kick-swing",
                 "notes": "DKS, return to position (outisde/shell)_",
-                "plan": 17
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
+                        "title": "Drive - Kick - Swing (continous)",
+                        "drillDescription": "Drive - Kick - Swing  (continous)",
+                        "alsoKnownAs": "",
+                        "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                        "setup": "",
+                        "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                        "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                        "court_requirement": "half"
+                    }
+                ]
             },
             {
-                "id": 91,
-                "teaching_points": [],
-                "drills": [],
+                "id": 52,
                 "order": 3,
                 "time_range": "40",
                 "title": "PNR from Top",
                 "notes": "add TP",
-                "plan": 17
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 92,
-                "teaching_points": [],
-                "drills": [
-                    {
-                        "drill_id": "26469ca5-64ba-4fb3-a43e-3d453db39703",
-                        "title": "3v2 (Rapid)",
-                        "drillDescription": "3v2 (Rapid), need 7 and full court",
-                        "purpose": "Full court continuous 3v2",
-                        "coachingPoints": "O - draw man, decieve.  D - Talk (ball/basket) decision making.",
-                        "setup": "1. 3 offsenive players one end with ball.  2 Defence players the other end.  Offsense plays down hill.\r\n2. the offensive player (which is whoever turns the ball over or scores), joins defense and transition to other end (where 2 players are waiting) - keep rolling for a set period or number of baskets.\r\n\r\nthe other 2 offensive players become defense, wait in position for next group to attack",
-                        "instructions": "3 Offensive players roll down hill to 2v3",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/7mmmZij0HG",
-                        "steps": []
-                    }
-                ],
+                "id": 67,
                 "order": 4,
                 "time_range": "50",
                 "title": "3v2 rapid",
                 "notes": "3v2 rapid",
-                "plan": 17
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "73336b24-22e2-42ea-9ddb-b31e560ac54c",
+                        "title": "3v2 (Rapid)",
+                        "drillDescription": "3v2 (Rapid), need 7 and full court",
+                        "alsoKnownAs": "",
+                        "purpose": "Full court continuous 3v2",
+                        "setup": "1. 3 offsenive players one end with ball.  2 Defence players the other end.  Offsense plays down hill.\r\n2. the offensive player (which is whoever turns the ball over or scores), joins defense and transition to other end (where 2 players are waiting) - keep rolling for a set period or number of baskets.\r\n\r\nthe other 2 offensive players become defense, wait in position for next group to attack",
+                        "coachingPoints": "O - draw man, decieve.  D - Talk (ball/basket) decision making.",
+                        "instructions": "3 Offensive players roll down hill to 2v3",
+                        "source": "(2025 Wyndham Rep)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/7mmmZij0HG",
+                        "court_requirement": "full"
+                    }
+                ]
             },
             {
-                "id": 93,
-                "teaching_points": [],
-                "drills": [],
+                "id": 82,
                 "order": 5,
                 "time_range": "scrimmage",
                 "title": "shell drill scrimmage (3 PCR to start)",
                 "notes": "trigger is 3 PCR actions",
-                "plan": 17
+                "teaching_points": [],
+                "drills": []
             }
-        ]
+        ],
+        "drills": [
+            {
+                "drill_id": "f8c08d9f-e35f-41ce-a3b9-91617ba2662b",
+                "title": "Drive - Kick - Swing (continous)",
+                "drillDescription": "Drive - Kick - Swing  (continous)",
+                "alsoKnownAs": "",
+                "purpose": "crowd paint by drive, kick to clear and 1 to find new lane (no drive on drive)",
+                "setup": "",
+                "coachingPoints": "do not drive on drive.  Fill corners, paint touch, get out opposite (swing) - add a little game to finish.",
+                "instructions": "4 players outside of the 3 point line.\r\nStart with pass from coach and first penetration, Drivers passes out and relocates out.\r\nReciever makes another pass to wing, who drives again\r\n\r\n2. \r\n4v3 +1 advantage - apply dks in live situation.\r\n\r\n4v4 O dribbles around the cone with D trailing.  Play 4v3 (+1)\r\n\r\nfrist to 3 points.  Alternate positions.\r\n\r\nread the dribble, sprint, beat the ball to spot.",
+                "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/hhNdlHpXgU",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "73336b24-22e2-42ea-9ddb-b31e560ac54c",
+                "title": "3v2 (Rapid)",
+                "drillDescription": "3v2 (Rapid), need 7 and full court",
+                "alsoKnownAs": "",
+                "purpose": "Full court continuous 3v2",
+                "setup": "1. 3 offsenive players one end with ball.  2 Defence players the other end.  Offsense plays down hill.\r\n2. the offensive player (which is whoever turns the ball over or scores), joins defense and transition to other end (where 2 players are waiting) - keep rolling for a set period or number of baskets.\r\n\r\nthe other 2 offensive players become defense, wait in position for next group to attack",
+                "coachingPoints": "O - draw man, decieve.  D - Talk (ball/basket) decision making.",
+                "instructions": "3 Offensive players roll down hill to 2v3",
+                "source": "(2025 Wyndham Rep)",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/7mmmZij0HG",
+                "court_requirement": "full"
+            }
+        ],
+        "summary": "1. Bball tag\r\n2. Pound Dribble, Pivot/pass\r\n3. slaylom handles\r\n4. AIS shooting\r\n5. Box our and rebound\r\n6. 3v2 rapid (ODDDO)\r\n7. Star Shooting",
+        "keywords": []
     },
     {
-        "id": 18,
+        "id": 16,
+        "ref_code": "PP-0016",
         "title": "U12 Boys - Plan (Oct-rnd-5)",
         "date": "2025-11-10",
         "duration_minutes": 60,
         "notes": "1) Pass Tag\r\n2) cross over and ball rips across courst\r\n3) star shooting\r\n4) Dribble drive layups (BO)\r\n5) Keepings off Dribble Gate\r\n6) AIS shooting / Pressure\r\n7) shell PCR\r\n8) Scrimmage",
         "segments": [
             {
-                "id": 94,
-                "teaching_points": [],
-                "drills": [],
+                "id": 22,
                 "order": 1,
                 "time_range": "10min",
                 "title": "1) Pass Tag",
                 "notes": "Pass tag",
-                "plan": 18
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 95,
-                "teaching_points": [],
-                "drills": [],
+                "id": 37,
                 "order": 2,
                 "time_range": "10min",
                 "title": "2) cross over and ball rips across courst",
                 "notes": "",
-                "plan": 18
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 96,
-                "teaching_points": [],
-                "drills": [],
+                "id": 53,
                 "order": 3,
                 "time_range": "10min",
                 "title": "3) star shooting",
                 "notes": "star shooting",
-                "plan": 18
+                "teaching_points": [],
+                "drills": []
             },
             {
-                "id": 97,
+                "id": 68,
+                "order": 4,
+                "time_range": "10min",
+                "title": "4) Dribble drive layups (BO)",
+                "notes": "4) Dribble drive layups (BO)",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-263",
@@ -1768,15 +2020,14 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 4,
-                "time_range": "10min",
-                "title": "4) Dribble drive layups (BO)",
-                "notes": "4) Dribble drive layups (BO)",
-                "plan": 18
+                "drills": []
             },
             {
-                "id": 98,
+                "id": 83,
+                "order": 5,
+                "time_range": "10min",
+                "title": "5) Keepings off Dribble Gate",
+                "notes": "5) Keepings off Dribble Gate",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-264",
@@ -1791,42 +2042,48 @@
                         "educationalLevel": ""
                     }
                 ],
-                "drills": [],
-                "order": 5,
-                "time_range": "10min",
-                "title": "5) Keepings off Dribble Gate",
-                "notes": "5) Keepings off Dribble Gate",
-                "plan": 18
+                "drills": []
             },
             {
-                "id": 99,
-                "teaching_points": [],
-                "drills": [],
+                "id": 93,
                 "order": 6,
                 "time_range": "10min",
                 "title": "scrimmage",
                 "notes": "scrimmage",
-                "plan": 18
+                "teaching_points": [],
+                "drills": []
             }
-        ]
+        ],
+        "drills": [],
+        "summary": "1) Pass Tag\r\n2) cross over and ball rips across courst\r\n3) star shooting\r\n4) Dribble drive layups (BO)\r\n5) Keepings off Dribble Gate\r\n6) AIS shooting / Pressure\r\n7) shell PCR\r\n8) Scrimmage",
+        "keywords": []
     },
     {
-        "id": 19,
+        "id": 17,
+        "ref_code": "PP-0017",
         "title": "U14 Boys - Plan (Oct-rnd-5)",
         "date": "2025-11-10",
         "duration_minutes": 60,
         "notes": "1) Pass Tag\r\n2) cross over and ball rips across court\r\n3) Dexterity passing\r\n4) Dribble drive layups (BO)\r\n5) Keepings off Dribble Gate\r\n6) AIS shooting / Pressure\r\n7) Pistols actions\r\n8) Scrimmage",
-        "segments": []
+        "segments": [],
+        "drills": [],
+        "summary": "1) Pass Tag\r\n2) cross over and ball rips across court\r\n3) Dexterity passing\r\n4) Dribble drive layups (BO)\r\n5) Keepings off Dribble Gate\r\n6) AIS shooting / Pressure\r\n7) Pistols actions\r\n8) Scrimmage",
+        "keywords": []
     },
     {
-        "id": 20,
+        "id": 18,
+        "ref_code": "PP-0018",
         "title": "test",
         "date": "2025-11-12",
         "duration_minutes": 60,
         "notes": "",
         "segments": [
             {
-                "id": 100,
+                "id": 23,
+                "order": 1,
+                "time_range": "30",
+                "title": "defensive transtion",
+                "notes": "defensive transtion",
                 "teaching_points": [
                     {
                         "teachingPoint_id": "TP-056",
@@ -1891,23 +2148,156 @@
                 ],
                 "drills": [
                     {
-                        "drill_id": "1f22926e-bbcf-487d-a8a4-c0b24ece7fa2",
+                        "drill_id": "0667d37f-e7c9-4f96-a1cb-0790f32c780b",
                         "title": "3-on-3 Defensive Positioning - Progression #1",
                         "drillDescription": "Three offensive players advance the ball down the court using only passes while three defenders focus on maintaining proper positioning and communication. Defenders must call out their role to reinforce defensive awareness. The drill emphasizes ball pressure, gap positioning, defensive spacing, awareness, and verbal communication.",
+                        "alsoKnownAs": "",
                         "purpose": "This drill teaches defenders how to maintain proper defensive positioning as the ball moves. It reinforces on-\r\nball pressure, help-side rotations, and weak-side coverage while improving defensive communication and both half-court and transition defense habits.",
-                        "coachingPoints": "🏀 Defenders need to constantly communicate. They must be loud and clear when calling out “BALL, HELP, LOW.”\r\n🏀 On-ball defenders should keep their hands up to This drill teaches defenders how to maintain proper defensive positioning as the ball moves. It reinforces on- ball pressure, help-side rotations, and weak-side coverage while improving defensive communication and both half- court and transition defense habits.pressure the ball and contest passes.\r\n🏀 Ensure defenders are not overhelping or losing sight of their man.\r\n🏀 Defenders should stay low and ready, maintaining an athletic stance and moving on the flight of the ball",
                         "setup": "🏀 Three offensive players start at one end of the court:\r\n🏀 One in the middle lane with the basketball.\r\n🏀 One near each of the sidelines, spread out wide.\r\n🏀 Three defenders match up with each offensive player.",
+                        "coachingPoints": "🏀 Defenders need to constantly communicate. They must be loud and clear when calling out “BALL, HELP, LOW.”\r\n🏀 On-ball defenders should keep their hands up to This drill teaches defenders how to maintain proper defensive positioning as the ball moves. It reinforces on- ball pressure, help-side rotations, and weak-side coverage while improving defensive communication and both half- court and transition defense habits.pressure the ball and contest passes.\r\n🏀 Ensure defenders are not overhelping or losing sight of their man.\r\n🏀 Defenders should stay low and ready, maintaining an athletic stance and moving on the flight of the ball",
                         "instructions": "1. The middle offensive player starts with the ball.\r\n2. The offensive players must pass the ball to each other\r\nas they move down the court.\r\n3. Defenders adjust their positioning based on the ball’s\r\nlocation:\r\n− “BALL” – The on-ball defender applies pressure.\r\n−“HELP” – The defender one pass away fills the\r\ngap.\r\n−“LOW” – The weak-side defender drops to protect\r\nthe basket.\r\n4. Defenders must call out their role loudly as the ball\r\nmoves.\r\n5. The drill continues until the group reaches the\r\nopposite end of the court.\r\n6. Rotate offense and defense and repeat.",
+                        "source": "Basketball for coaches, season 3, issue 9 + Damien cotter defence videos",
                         "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/lTgBATNSBc",
-                        "steps": []
+                        "court_requirement": "either"
+                    }
+                ]
+            }
+        ],
+        "drills": [
+            {
+                "drill_id": "0667d37f-e7c9-4f96-a1cb-0790f32c780b",
+                "title": "3-on-3 Defensive Positioning - Progression #1",
+                "drillDescription": "Three offensive players advance the ball down the court using only passes while three defenders focus on maintaining proper positioning and communication. Defenders must call out their role to reinforce defensive awareness. The drill emphasizes ball pressure, gap positioning, defensive spacing, awareness, and verbal communication.",
+                "alsoKnownAs": "",
+                "purpose": "This drill teaches defenders how to maintain proper defensive positioning as the ball moves. It reinforces on-\r\nball pressure, help-side rotations, and weak-side coverage while improving defensive communication and both half-court and transition defense habits.",
+                "setup": "🏀 Three offensive players start at one end of the court:\r\n🏀 One in the middle lane with the basketball.\r\n🏀 One near each of the sidelines, spread out wide.\r\n🏀 Three defenders match up with each offensive player.",
+                "coachingPoints": "🏀 Defenders need to constantly communicate. They must be loud and clear when calling out “BALL, HELP, LOW.”\r\n🏀 On-ball defenders should keep their hands up to This drill teaches defenders how to maintain proper defensive positioning as the ball moves. It reinforces on- ball pressure, help-side rotations, and weak-side coverage while improving defensive communication and both half- court and transition defense habits.pressure the ball and contest passes.\r\n🏀 Ensure defenders are not overhelping or losing sight of their man.\r\n🏀 Defenders should stay low and ready, maintaining an athletic stance and moving on the flight of the ball",
+                "instructions": "1. The middle offensive player starts with the ball.\r\n2. The offensive players must pass the ball to each other\r\nas they move down the court.\r\n3. Defenders adjust their positioning based on the ball’s\r\nlocation:\r\n− “BALL” – The on-ball defender applies pressure.\r\n−“HELP” – The defender one pass away fills the\r\ngap.\r\n−“LOW” – The weak-side defender drops to protect\r\nthe basket.\r\n4. Defenders must call out their role loudly as the ball\r\nmoves.\r\n5. The drill continues until the group reaches the\r\nopposite end of the court.\r\n6. Rotate offense and defense and repeat.",
+                "source": "Basketball for coaches, season 3, issue 9 + Damien cotter defence videos",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/lTgBATNSBc",
+                "court_requirement": "either"
+            }
+        ],
+        "summary": "test",
+        "keywords": []
+    },
+    {
+        "id": 19,
+        "ref_code": "PP-0019",
+        "title": "U12 Boys - Plan (Feb-09-2026)",
+        "date": "2026-02-09",
+        "duration_minutes": 60,
+        "notes": "",
+        "segments": [
+            {
+                "id": 97,
+                "order": 0,
+                "time_range": "0-10",
+                "title": "Passing Fundamentals",
+                "notes": "",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-006",
+                        "teachingPoint_name": "passing fundamentals",
+                        "teachingPoint_short_description": "drill for basic passing sequence for capable kids who think the know it all.",
+                        "startTime": 621,
+                        "endTime": 955,
+                        "duration": "334 seconds",
+                        "video": "5wv2YRZ-D0U",
+                        "embed_url": "https://www.youtube.com/embed/5wv2YRZ-D0U?start=621&end=955",
+                        "keywords": [],
+                        "educationalLevel": ""
                     }
                 ],
+                "drills": []
+            },
+            {
+                "id": 98,
                 "order": 1,
-                "time_range": "30",
-                "title": "defensive transtion",
-                "notes": "defensive transtion",
-                "plan": 20
+                "time_range": "10-20",
+                "title": "Pass and Tag Tag",
+                "notes": "",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 99,
+                "order": 2,
+                "time_range": "20-30",
+                "title": "Pass off the dribble",
+                "notes": "1 cone on each wing.\r\n3 lined up at half court.\r\n1, 2 are offense and round opposing cones\r\n3 is defense, trails 2 and must defect or stop ball.\r\n1 can not shoot",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-263",
+                        "teachingPoint_name": "2. pass off the dribble",
+                        "teachingPoint_short_description": "https://youtu.be/1RoghhK0Ahc?t=108\r\nhttps://youtu.be/1RoghhK0Ahc?t=163",
+                        "startTime": 108,
+                        "endTime": 163,
+                        "duration": "55 seconds",
+                        "video": "1RoghhK0Ahc",
+                        "embed_url": "https://www.youtube.com/embed/1RoghhK0Ahc?start=108&end=163",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 100,
+                "order": 3,
+                "time_range": "30-40",
+                "title": "keepings off Dribble gate",
+                "notes": "1. Press Break\r\n2. ball fake\r\n3. right passing option\r\n\r\npass early and on target to beat defence",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-264",
+                        "teachingPoint_name": "21 pass game",
+                        "teachingPoint_short_description": "half court or full court - make upto 21 passes then score - if score bank the 21, if not no score.",
+                        "startTime": 368,
+                        "endTime": 467,
+                        "duration": "99 seconds",
+                        "video": "1RoghhK0Ahc",
+                        "embed_url": "https://www.youtube.com/embed/1RoghhK0Ahc?start=368&end=467",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 101,
+                "order": 4,
+                "time_range": "40-50",
+                "title": "Pressure or AIS shooting",
+                "notes": "",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-263",
+                        "teachingPoint_name": "2. pass off the dribble",
+                        "teachingPoint_short_description": "https://youtu.be/1RoghhK0Ahc?t=108\r\nhttps://youtu.be/1RoghhK0Ahc?t=163",
+                        "startTime": 108,
+                        "endTime": 163,
+                        "duration": "55 seconds",
+                        "video": "1RoghhK0Ahc",
+                        "embed_url": "https://www.youtube.com/embed/1RoghhK0Ahc?start=108&end=163",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 102,
+                "order": 6,
+                "time_range": "50-60",
+                "title": "scrimmage",
+                "notes": "start no dribble\r\nmust pass inside key or outside 3",
+                "teaching_points": [],
+                "drills": []
             }
-        ]
+        ],
+        "drills": [],
+        "summary": "Back to basics - passing: \r\n1) Bum passing\r\n2) Pass Tag\r\n3) star shooting\r\n4) Dexterity passing\r\n5) Pass of the dribble\r\n6) Keepings off Dribble Gate\r\n7) AIS shooting / Pressure\r\n8) Scrimmage",
+        "keywords": []
     }
 ]
