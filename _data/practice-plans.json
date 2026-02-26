@@ -2330,10 +2330,24 @@
                 "id": 105,
                 "order": 2,
                 "time_range": "(10) 10-25",
-                "title": "long range finsh",
+                "title": "long range finsh warm up finishing",
                 "notes": "start on half court metal discs",
                 "teaching_points": [],
-                "drills": []
+                "drills": [
+                    {
+                        "drill_id": "92473b1b-d034-4075-a3f6-8e96ea5195f8",
+                        "title": "warm up finishing",
+                        "drillDescription": "warm up handles and finishing",
+                        "alsoKnownAs": "",
+                        "purpose": "warm up handles and finishing",
+                        "setup": "",
+                        "coachingPoints": "when you get to 3 point line, must cross and attach basket with intensity (start lay up - step backs - jumpers)\r\nmust get foot to no charge for step back\r\nadd time or misses or something.",
+                        "instructions": "",
+                        "source": "Rick Rep training 20250904",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/qRTnLewQYl",
+                        "court_requirement": "half"
+                    }
+                ]
             },
             {
                 "id": 106,
@@ -2443,7 +2457,21 @@
                 "drills": []
             }
         ],
-        "drills": [],
+        "drills": [
+            {
+                "drill_id": "92473b1b-d034-4075-a3f6-8e96ea5195f8",
+                "title": "warm up finishing",
+                "drillDescription": "warm up handles and finishing",
+                "alsoKnownAs": "",
+                "purpose": "warm up handles and finishing",
+                "setup": "",
+                "coachingPoints": "when you get to 3 point line, must cross and attach basket with intensity (start lay up - step backs - jumpers)\r\nmust get foot to no charge for step back\r\nadd time or misses or something.",
+                "instructions": "",
+                "source": "Rick Rep training 20250904",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/qRTnLewQYl",
+                "court_requirement": "half"
+            }
+        ],
         "summary": "Club warm  up\r\nHandles \r\n1v1\r\nDribble gate\r\nZone Buster",
         "keywords": []
     }
