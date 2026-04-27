@@ -2625,5 +2625,312 @@
         "drills": [],
         "summary": "Stretch\r\nHandles\r\nDHO warm ups\r\nShooting:\r\na) Top Triangle shoot (BG)\r\nb) DHO heel toe (BG)\r\nc) Drive-pass-pass-pass-shoot-shoot-shoot\r\n\r\nContested small sided games\r\n4v4 - DKS\r\nPress breaker (no dribble on the way up)\r\nZone Breaker \r\n2v2 screen (to be added)\r\n\r\nWarm down\r\nFree throws",
         "keywords": []
+    },
+    {
+        "id": 22,
+        "ref_code": "PP-0022",
+        "title": "u12-boys-plan-Apr-27-2026",
+        "date": "2026-04-27",
+        "duration_minutes": 60,
+        "notes": "",
+        "segments": [
+            {
+                "id": 143,
+                "order": 1,
+                "time_range": "0-10",
+                "title": "Handles",
+                "notes": "cross over chicken - 3 cross over types up and back - then cross over chicken. \r\ncapture 3 cone game?",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 126,
+                "order": 2,
+                "time_range": "0-10",
+                "title": "Passing Fundamentals",
+                "notes": "sit on the sideline facing me\r\nparter 3 mtr back.\r\n\r\na) 5 chest passes\r\nb) step back and repeat\r\nc) bounce right and pass 1 hand\r\nd) bounce left and pass 1 hand\r\ne) overhead passes \r\n\r\nswap and repeat\r\n\r\nstand up and repeat\r\non time on target",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-006",
+                        "teachingPoint_name": "passing fundamentals",
+                        "teachingPoint_short_description": "drill for basic passing sequence for capable kids who think the know it all.",
+                        "startTime": 621,
+                        "endTime": 955,
+                        "duration": "334 seconds",
+                        "video": "5wv2YRZ-D0U",
+                        "embed_url": "https://www.youtube.com/embed/5wv2YRZ-D0U?start=621&end=955",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 127,
+                "order": 3,
+                "time_range": "10-20",
+                "title": "Pass and Tag Tag",
+                "notes": "build off above and add movement",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 128,
+                "order": 4,
+                "time_range": "20-30",
+                "title": "Pass off the dribble",
+                "notes": "start with 1v1 contested layups.\r\n\r\n1 cone on each wing.\r\n3 lined up at half court.\r\n1, 2 are offense and round opposing cones\r\n3 is defense, trails 2 and must defect or stop ball.\r\n1 can not shoot",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-263",
+                        "teachingPoint_name": "2. pass off the dribble",
+                        "teachingPoint_short_description": "https://youtu.be/1RoghhK0Ahc?t=108\r\nhttps://youtu.be/1RoghhK0Ahc?t=163",
+                        "startTime": 108,
+                        "endTime": 163,
+                        "duration": "55 seconds",
+                        "video": "1RoghhK0Ahc",
+                        "embed_url": "https://www.youtube.com/embed/1RoghhK0Ahc?start=108&end=163",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 129,
+                "order": 5,
+                "time_range": "30-40",
+                "title": "keepings off Dribble gate",
+                "notes": "1. Press Break\r\n2. ball fake\r\n3. right passing option\r\n\r\npass early and on target to beat defence",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-264",
+                        "teachingPoint_name": "21 pass game",
+                        "teachingPoint_short_description": "half court or full court - make upto 21 passes then score - if score bank the 21, if not no score.",
+                        "startTime": 368,
+                        "endTime": 467,
+                        "duration": "99 seconds",
+                        "video": "1RoghhK0Ahc",
+                        "embed_url": "https://www.youtube.com/embed/1RoghhK0Ahc?start=368&end=467",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 130,
+                "order": 6,
+                "time_range": "40-50",
+                "title": "Pressure",
+                "notes": "",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-263",
+                        "teachingPoint_name": "2. pass off the dribble",
+                        "teachingPoint_short_description": "https://youtu.be/1RoghhK0Ahc?t=108\r\nhttps://youtu.be/1RoghhK0Ahc?t=163",
+                        "startTime": 108,
+                        "endTime": 163,
+                        "duration": "55 seconds",
+                        "video": "1RoghhK0Ahc",
+                        "embed_url": "https://www.youtube.com/embed/1RoghhK0Ahc?start=108&end=163",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 131,
+                "order": 7,
+                "time_range": "50-60",
+                "title": "scrimmage",
+                "notes": "start no dribble\r\nmust pass inside key or outside 3",
+                "teaching_points": [],
+                "drills": []
+            }
+        ],
+        "drills": [],
+        "summary": "Back to basics - \r\n0) Handles \r\n1) Bum passing\r\n2) Pass Tag\r\n3) star shooting\r\n4) Dexterity passing\r\n5) Pass of the dribble\r\n6) Keepings off Dribble Gate\r\n7) AIS shooting / Pressure\r\n8) Scrimmage",
+        "keywords": []
+    },
+    {
+        "id": 23,
+        "ref_code": "PP-0023",
+        "title": "u14-boys-Apr-27-2026",
+        "date": "2026-04-27",
+        "duration_minutes": 90,
+        "notes": "",
+        "segments": [
+            {
+                "id": 133,
+                "order": 0,
+                "time_range": "0-10",
+                "title": "Bum passing",
+                "notes": "tb tbc",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 132,
+                "order": 1,
+                "time_range": "10-20",
+                "title": "Mirror Pound Dribble to Ball Tab",
+                "notes": "",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 134,
+                "order": 3,
+                "time_range": "20-30",
+                "title": "close out shooting",
+                "notes": "",
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "4b1ca20a-aefa-4d0f-bab4-c92ffe72701b",
+                        "title": "Closeouts and gap defense",
+                        "drillDescription": "practice close outs and gap",
+                        "alsoKnownAs": "",
+                        "purpose": "",
+                        "setup": "",
+                        "coachingPoints": "Early high stick hand, feet oustide feet, sprint to gap, play long in the gap, the 2 of you are on a string",
+                        "instructions": "1. Diagram 1\r\n2v2 - O on wings, D on elbows.\r\nD at nail and low man.\r\nCoach passes to O to start and then play live 2v2.\r\n\r\n2. Diagram 2\r\n2v2 - O in corner and wing and D high and low spit (nail and low man.)\r\nCoach passes to O to start and then play live 2v2.",
+                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/qgG2a2Ro9Q",
+                        "court_requirement": "half"
+                    }
+                ]
+            },
+            {
+                "id": 135,
+                "order": 4,
+                "time_range": "20-30",
+                "title": "DHO",
+                "notes": "steve drill - start to practice finishes",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 136,
+                "order": 5,
+                "time_range": "30-40",
+                "title": "Shooting: a) Top Triangle shoot (BG)",
+                "notes": "BG (tp to be added)\r\nline up at half court\r\nPlayer 1 - run to wing, recieve pass from player 2, shoot (get rebound and return to line)\r\nPlayer 2 - pass and run to opposite wing, recieve from player 3, shoot\r\netc.\r\nGo for 20 makes.",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-319",
+                        "teachingPoint_name": "Warm up mid range shots",
+                        "teachingPoint_short_description": "Line on seam above 3.\r\n2nd player has ball.\r\n\r\nfirst player runs towards wing, into catch and shoot, recieves and then 2nd player goes other side.\r\nPlay to 15 makes.\r\n\r\nhttps://youtu.be/YZe1-wBCTAA?list=PLCXERy73Oiz-9QWdPGI-Z1AFXGLTU8ThI&t=321\r\n\r\nReciever: turn hips, 2 steps, then slide into catch and shoot position.\r\npasser: Dribble once and step to pass\r\n\r\nhttps://youtu.be/YZe1-wBCTAA?list=PLCXERy73Oiz-9QWdPGI-Z1AFXGLTU8ThI&t=455",
+                        "startTime": 321,
+                        "endTime": 445,
+                        "duration": "124 seconds",
+                        "video": "YZe1-wBCTAA",
+                        "embed_url": "https://www.youtube.com/embed/YZe1-wBCTAA?start=321&end=445",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 137,
+                "order": 6,
+                "time_range": "40-50",
+                "title": "Shooting:  b) DHO heel toe (BG)",
+                "notes": "2 lines - \r\nhigh ally (above wing)\r\ncorner.\r\n\r\nBalls in lines (except first)\r\n\r\nPlayer 1 - step towards corner and pass, then get into catch and shoot after corner player bum\r\nPlayer 2 - run to position, heel toe into shot, recieve pass from top and shoot\r\nkeep going\r\n20 makes.",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-321",
+                        "teachingPoint_name": "warm up - DHO pass/catch/shoot off the move",
+                        "teachingPoint_short_description": "2 lines in centre. (Balls one side)\r\nCoach in key with ball.\r\n\r\nBall hander give DHO, reciever pulls up for shot.\r\npasser recieves from coach and takes shot otherside",
+                        "startTime": 864,
+                        "endTime": 1004,
+                        "duration": "140 seconds",
+                        "video": "YZe1-wBCTAA",
+                        "embed_url": "https://www.youtube.com/embed/YZe1-wBCTAA?start=864&end=1004",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 138,
+                "order": 7,
+                "time_range": "50-60",
+                "title": "Shooting:  c) Drive-pass-pass-pass-shoot-shoot-shoot",
+                "notes": "3 lines: Top, wing, wing. & 2 players on base line with balls.\r\n\r\n1) Start top -> pass wing, wing drive low base and kick to corner, then run pop out to 3\r\n2) opposing corner drift to corner, and top drift to wing\r\n3) corner recieve, kick to wing, kick back to original penetrator for shot.\r\n4) Corner back screen win, catch and shoot (from bl1)\r\n5) Wing to corner and shoot, (b2)",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-317",
+                        "teachingPoint_name": "3 man action",
+                        "teachingPoint_short_description": "busy 3 man action, but has a lot of reps in it.. good, but need notes!",
+                        "startTime": 1270,
+                        "endTime": 1460,
+                        "duration": "190 seconds",
+                        "video": "6AjFlicrZEQ",
+                        "embed_url": "https://www.youtube.com/embed/6AjFlicrZEQ?start=1270&end=1460",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 139,
+                "order": 8,
+                "time_range": "60-70",
+                "title": "4v4 - DKS",
+                "notes": "",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 140,
+                "order": 9,
+                "time_range": "70-80",
+                "title": "Press breaker (no dribble on the way up)",
+                "notes": "",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 141,
+                "order": 10,
+                "time_range": "80-90",
+                "title": "Zone Breaker",
+                "notes": "",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 142,
+                "order": 11,
+                "time_range": "90-100",
+                "title": "Free throw runs",
+                "notes": "",
+                "teaching_points": [],
+                "drills": []
+            }
+        ],
+        "drills": [
+            {
+                "drill_id": "4b1ca20a-aefa-4d0f-bab4-c92ffe72701b",
+                "title": "Closeouts and gap defense",
+                "drillDescription": "practice close outs and gap",
+                "alsoKnownAs": "",
+                "purpose": "",
+                "setup": "",
+                "coachingPoints": "Early high stick hand, feet oustide feet, sprint to gap, play long in the gap, the 2 of you are on a string",
+                "instructions": "1. Diagram 1\r\n2v2 - O on wings, D on elbows.\r\nD at nail and low man.\r\nCoach passes to O to start and then play live 2v2.\r\n\r\n2. Diagram 2\r\n2v2 - O in corner and wing and D high and low spit (nail and low man.)\r\nCoach passes to O to start and then play live 2v2.",
+                "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/qgG2a2Ro9Q",
+                "court_requirement": "half"
+            }
+        ],
+        "summary": "Stretch\r\nHandles\r\nDHO warm ups\r\nShooting:\r\na) Top Triangle shoot (BG)\r\nb) DHO heel toe (BG)\r\nc) Drive-pass-pass-pass-shoot-shoot-shoot\r\n\r\nContested small sided games\r\n4v4 - DKS\r\nPress breaker (no dribble on the way up)\r\nZone Breaker \r\n2v2 screen (to be added)\r\n\r\nWarm down\r\nFree throws",
+        "keywords": []
     }
 ]
