@@ -2789,16 +2789,16 @@
                 "teaching_points": [],
                 "drills": [
                     {
-                        "drill_id": "4b1ca20a-aefa-4d0f-bab4-c92ffe72701b",
-                        "title": "Closeouts and gap defense",
-                        "drillDescription": "practice close outs and gap",
+                        "drill_id": "369ac920-971c-4a90-8d2b-3d2fe2e42863",
+                        "title": "close outs",
+                        "drillDescription": "dual purpose drill - practice close outs and getting around defense",
                         "alsoKnownAs": "",
-                        "purpose": "",
-                        "setup": "",
-                        "coachingPoints": "Early high stick hand, feet oustide feet, sprint to gap, play long in the gap, the 2 of you are on a string",
-                        "instructions": "1. Diagram 1\r\n2v2 - O on wings, D on elbows.\r\nD at nail and low man.\r\nCoach passes to O to start and then play live 2v2.\r\n\r\n2. Diagram 2\r\n2v2 - O in corner and wing and D high and low spit (nail and low man.)\r\nCoach passes to O to start and then play live 2v2.",
-                        "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
-                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/qgG2a2Ro9Q",
+                        "purpose": "close outs and reading defence",
+                        "setup": "4 offensives players (corners and wings)\r\n4 defensive players (box)",
+                        "coachingPoints": "read what the defense gives you\r\nclose out, but don't over commit",
+                        "instructions": "4 offensives players (corners and wings)\r\n4 defensive players (box)\r\n\r\ndefensive players start with a ball each.\r\n1. D touch to split and high 5 other D, then turn and pass to offense and close out\r\n2. O receives and reads - shoot, step and shoot, or drive",
+                        "source": "Steve from Wyndham rep coaching clinic",
+                        "diagramEmbedUrl_1": "",
                         "court_requirement": "half"
                     }
                 ]
@@ -2807,10 +2807,24 @@
                 "id": 135,
                 "order": 4,
                 "time_range": "20-30",
-                "title": "DHO",
-                "notes": "steve drill - start to practice finishes",
+                "title": "diamond close outs 2v2",
+                "notes": "diamond closeouts",
                 "teaching_points": [],
-                "drills": []
+                "drills": [
+                    {
+                        "drill_id": "6ef90873-a3a6-4947-9f61-9aa92e2ee326",
+                        "title": "Diamond close outs",
+                        "drillDescription": "practice close outs and read",
+                        "alsoKnownAs": "",
+                        "purpose": "practice close outs, defense reads and finishing",
+                        "setup": "x1 at top with 2 balls.\r\nO1/O2 on each wing\r\nX2 in middle of key",
+                        "coachingPoints": "",
+                        "instructions": "x1 does 5 pound dribbles with 2 balls.\r\nthen passes to O1, x2 closes out O1.  Then x1 passes other ball to O2, and runs to close out.\r\nO1/O2 read the defence and shoot/drive 1v1.",
+                        "source": "Matt rep workshop on 20260426",
+                        "diagramEmbedUrl_1": "",
+                        "court_requirement": "half"
+                    }
+                ]
             },
             {
                 "id": 136,
@@ -2892,7 +2906,7 @@
                 "order": 9,
                 "time_range": "70-80",
                 "title": "Press breaker (no dribble on the way up)",
-                "notes": "",
+                "notes": "dsf",
                 "teaching_points": [],
                 "drills": []
             },
@@ -2917,16 +2931,29 @@
         ],
         "drills": [
             {
-                "drill_id": "4b1ca20a-aefa-4d0f-bab4-c92ffe72701b",
-                "title": "Closeouts and gap defense",
-                "drillDescription": "practice close outs and gap",
+                "drill_id": "369ac920-971c-4a90-8d2b-3d2fe2e42863",
+                "title": "close outs",
+                "drillDescription": "dual purpose drill - practice close outs and getting around defense",
                 "alsoKnownAs": "",
-                "purpose": "",
-                "setup": "",
-                "coachingPoints": "Early high stick hand, feet oustide feet, sprint to gap, play long in the gap, the 2 of you are on a string",
-                "instructions": "1. Diagram 1\r\n2v2 - O on wings, D on elbows.\r\nD at nail and low man.\r\nCoach passes to O to start and then play live 2v2.\r\n\r\n2. Diagram 2\r\n2v2 - O in corner and wing and D high and low spit (nail and low man.)\r\nCoach passes to O to start and then play live 2v2.",
-                "source": "July 2025 - Wyndham coaching clinic - Coach Liam Flynn - handout (From Rick)",
-                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/qgG2a2Ro9Q",
+                "purpose": "close outs and reading defence",
+                "setup": "4 offensives players (corners and wings)\r\n4 defensive players (box)",
+                "coachingPoints": "read what the defense gives you\r\nclose out, but don't over commit",
+                "instructions": "4 offensives players (corners and wings)\r\n4 defensive players (box)\r\n\r\ndefensive players start with a ball each.\r\n1. D touch to split and high 5 other D, then turn and pass to offense and close out\r\n2. O receives and reads - shoot, step and shoot, or drive",
+                "source": "Steve from Wyndham rep coaching clinic",
+                "diagramEmbedUrl_1": "",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "6ef90873-a3a6-4947-9f61-9aa92e2ee326",
+                "title": "Diamond close outs",
+                "drillDescription": "practice close outs and read",
+                "alsoKnownAs": "",
+                "purpose": "practice close outs, defense reads and finishing",
+                "setup": "x1 at top with 2 balls.\r\nO1/O2 on each wing\r\nX2 in middle of key",
+                "coachingPoints": "",
+                "instructions": "x1 does 5 pound dribbles with 2 balls.\r\nthen passes to O1, x2 closes out O1.  Then x1 passes other ball to O2, and runs to close out.\r\nO1/O2 read the defence and shoot/drive 1v1.",
+                "source": "Matt rep workshop on 20260426",
+                "diagramEmbedUrl_1": "",
                 "court_requirement": "half"
             }
         ],
