@@ -3309,5 +3309,263 @@
         ],
         "summary": "Stretch\r\nHandles\r\nDHO warm ups\r\n\r\n\r\n4v4 - DKS\r\npistols pnr\r\nPress breaker (no dribble on the way up)\r\nZone Breaker \r\n2v2 screen (to be added)\r\n\r\nWarm down\r\nFree throws",
         "keywords": []
+    },
+    {
+        "id": 26,
+        "ref_code": "PP-0026",
+        "title": "U18-boys-May-2026",
+        "date": "2026-05-26",
+        "duration_minutes": 90,
+        "notes": "",
+        "segments": [
+            {
+                "id": 161,
+                "order": 1,
+                "time_range": "5",
+                "title": "stretches up and down court",
+                "notes": "Club warm up\r\nhop box, jump back/forward.",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 163,
+                "order": 3,
+                "time_range": "5-10",
+                "title": "Mirror Pound Dribble to Ball Tab",
+                "notes": "rick drill",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 164,
+                "order": 4,
+                "time_range": "10-20",
+                "title": "DHO",
+                "notes": "steve drill - start to practice finishes",
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "5fdb5b52-5ab1-4114-b9e8-07de417c3268",
+                        "title": "DHO 1v1 finishing",
+                        "drillDescription": "DHO at free through and 1v1 to basket.  This is a good warm up drill.",
+                        "alsoKnownAs": "",
+                        "purpose": "close range finishing with DHO",
+                        "setup": "2 lines on baseline - 1 side with balls\r\nball hander runs to nail and DHO - then turns into defence and 1v1 to basket\r\nSwap sides, change finishes, footwork",
+                        "coachingPoints": "work on finishing",
+                        "instructions": "2 lines on baseline - 1 side with balls\r\nball hander runs to nail and DHO - then turns into defence and 1v1 to basket",
+                        "source": "Steve did this one.",
+                        "diagramEmbedUrl_1": "",
+                        "court_requirement": "half"
+                    }
+                ]
+            },
+            {
+                "id": 165,
+                "order": 5,
+                "time_range": "20-30",
+                "title": "Shooting: a) Top Triangle shoot (BG)",
+                "notes": "BG (tp to be added)\r\nline up at half court\r\nPlayer 1 - run to wing, recieve pass from player 2, shoot (get rebound and return to line)\r\nPlayer 2 - pass and run to opposite wing, recieve from player 3, shoot\r\netc.\r\nGo for 20 makes.",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-319",
+                        "teachingPoint_name": "Warm up mid range shots",
+                        "teachingPoint_short_description": "Line on seam above 3.\r\n2nd player has ball.\r\n\r\nfirst player runs towards wing, into catch and shoot, recieves and then 2nd player goes other side.\r\nPlay to 15 makes.\r\n\r\nhttps://youtu.be/YZe1-wBCTAA?list=PLCXERy73Oiz-9QWdPGI-Z1AFXGLTU8ThI&t=321\r\n\r\nReciever: turn hips, 2 steps, then slide into catch and shoot position.\r\npasser: Dribble once and step to pass\r\n\r\nhttps://youtu.be/YZe1-wBCTAA?list=PLCXERy73Oiz-9QWdPGI-Z1AFXGLTU8ThI&t=455",
+                        "startTime": 321,
+                        "endTime": 445,
+                        "duration": "124 seconds",
+                        "video": "YZe1-wBCTAA",
+                        "embed_url": "https://www.youtube.com/embed/YZe1-wBCTAA?start=321&end=445",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 167,
+                "order": 7,
+                "time_range": "30-40",
+                "title": "Shooting:  c) Drive-pass-pass-pass-shoot-shoot-shoot",
+                "notes": "3 lines: Top, wing, wing. & 2 players on base line with balls.\r\n\r\n1) Start top -> pass wing, wing drive low base and kick to corner, then run pop out to 3\r\n2) opposing corner drift to corner, and top drift to wing\r\n3) corner recieve, kick to wing, kick back to original penetrator for shot.\r\n4) Corner back screen win, catch and shoot (from bl1)\r\n5) Wing to corner and shoot, (b2)",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-317",
+                        "teachingPoint_name": "3 man action",
+                        "teachingPoint_short_description": "busy 3 man action, but has a lot of reps in it.. good, but need notes!",
+                        "startTime": 1270,
+                        "endTime": 1460,
+                        "duration": "190 seconds",
+                        "video": "6AjFlicrZEQ",
+                        "embed_url": "https://www.youtube.com/embed/6AjFlicrZEQ?start=1270&end=1460",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 170,
+                "order": 9,
+                "time_range": "80-90",
+                "title": "Zone Breaker",
+                "notes": "Zone Breaker\r\n\r\nwith options for:\r\na) 2v1 PNR\r\nb) give and go",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-092",
+                        "teachingPoint_name": "give and go (with deception)",
+                        "teachingPoint_short_description": "#4 give and go - deceptive pop, then backcut to basket\r\n\r\nhttps://youtu.be/LjePZIXJ82U?t=7621",
+                        "startTime": 7612,
+                        "endTime": 7621,
+                        "duration": "9 seconds",
+                        "video": "LjePZIXJ82U",
+                        "embed_url": "https://www.youtube.com/embed/LjePZIXJ82U?start=7612&end=7621",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": [
+                    {
+                        "drill_id": "147c3385-026b-4b08-b0ed-d121e2c627d4",
+                        "title": "Give and Go (drills)",
+                        "drillDescription": "Give and go",
+                        "alsoKnownAs": "",
+                        "purpose": "teach offense not to follow the ball.",
+                        "setup": "2 variations - see videos",
+                        "coachingPoints": "",
+                        "instructions": "",
+                        "source": "",
+                        "diagramEmbedUrl_1": "",
+                        "court_requirement": "half"
+                    },
+                    {
+                        "drill_id": "911c5b1b-eab6-464e-97ba-31b49b8ea19d",
+                        "title": "2v1 PNR",
+                        "drillDescription": "2v1 PNR",
+                        "alsoKnownAs": "",
+                        "purpose": "2v1 PNR",
+                        "setup": "O1 about point, O2 at low block\r\nD1 at low block",
+                        "coachingPoints": "Only layups allowed.\r\nDeflection is a turnover.\r\nGo hard with intensity for 3 minutes.\r\nGoal is to get an uncontested shot everytime.\r\nFocus on decision making and passing.",
+                        "instructions": "O2 sprints up and sets the screen\r\nO2 waits for O1 to come off the screen then sprints to rim\r\nX1 2 feet on free through and guarding O1 and O2 \r\nO1 can bounce pass, lob pass or behind back to O2  (must read what the defense gives)\r\nOnly layups allowed.\r\n\r\nDeflection is a turnover.\r\n\r\nGo hard with intensity for 3 minutes.\r\n\r\nGoal is to get an uncontested shot everytime.\r\nFocus on decision making and passing.",
+                        "source": "youtube",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/5SCe3Bfu7F",
+                        "court_requirement": "half"
+                    },
+                    {
+                        "drill_id": "e6bda5ec-908f-4f7b-b410-4804233f1242",
+                        "title": "Zone-Break",
+                        "drillDescription": "Zone-Break",
+                        "alsoKnownAs": "",
+                        "purpose": "Break 2-3 Zone",
+                        "setup": "for offense 4 & 5 in low posts/short corner, starting as low as possible.\r\n1, 2, 3 on 45 and point.",
+                        "coachingPoints": "",
+                        "instructions": "1, 2, 3 swing ball around the time.\r\nweak side big flashes to nail, then retreats\r\nif big gets pass can a) draw defense and pocket pass to other big b) drive/shoot c) kick back out.",
+                        "source": "Al, Deng's big brother",
+                        "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/18Em2e1qDx",
+                        "court_requirement": "half"
+                    }
+                ]
+            },
+            {
+                "id": 169,
+                "order": 10,
+                "time_range": "70-80",
+                "title": "Press breaker (no dribble on the way up)",
+                "notes": "",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 171,
+                "order": 11,
+                "time_range": "90-100",
+                "title": "Free throw runs",
+                "notes": "",
+                "teaching_points": [],
+                "drills": [
+                    {
+                        "drill_id": "481f5394-e2d8-4ede-b9b6-669015fbc604",
+                        "title": "Free throw runs (good warm down)",
+                        "drillDescription": "free through shots under pressure",
+                        "alsoKnownAs": "",
+                        "purpose": "free through shots under pressure",
+                        "setup": "each player takes 2 free throws, while the remainder of the team stands on baseline (facing in).",
+                        "coachingPoints": "take your time",
+                        "instructions": "each player takes 2 free throws, while the remainder of the team stands on baseline (facing in).\r\nafter 2 shots, if both missed - the whole group must run up to centre court and back twice.\r\nif only missed, once only run to centre and back once, if missed none, no running",
+                        "source": "steve",
+                        "diagramEmbedUrl_1": "",
+                        "court_requirement": "half"
+                    }
+                ]
+            }
+        ],
+        "drills": [
+            {
+                "drill_id": "5fdb5b52-5ab1-4114-b9e8-07de417c3268",
+                "title": "DHO 1v1 finishing",
+                "drillDescription": "DHO at free through and 1v1 to basket.  This is a good warm up drill.",
+                "alsoKnownAs": "",
+                "purpose": "close range finishing with DHO",
+                "setup": "2 lines on baseline - 1 side with balls\r\nball hander runs to nail and DHO - then turns into defence and 1v1 to basket\r\nSwap sides, change finishes, footwork",
+                "coachingPoints": "work on finishing",
+                "instructions": "2 lines on baseline - 1 side with balls\r\nball hander runs to nail and DHO - then turns into defence and 1v1 to basket",
+                "source": "Steve did this one.",
+                "diagramEmbedUrl_1": "",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "147c3385-026b-4b08-b0ed-d121e2c627d4",
+                "title": "Give and Go (drills)",
+                "drillDescription": "Give and go",
+                "alsoKnownAs": "",
+                "purpose": "teach offense not to follow the ball.",
+                "setup": "2 variations - see videos",
+                "coachingPoints": "",
+                "instructions": "",
+                "source": "",
+                "diagramEmbedUrl_1": "",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "911c5b1b-eab6-464e-97ba-31b49b8ea19d",
+                "title": "2v1 PNR",
+                "drillDescription": "2v1 PNR",
+                "alsoKnownAs": "",
+                "purpose": "2v1 PNR",
+                "setup": "O1 about point, O2 at low block\r\nD1 at low block",
+                "coachingPoints": "Only layups allowed.\r\nDeflection is a turnover.\r\nGo hard with intensity for 3 minutes.\r\nGoal is to get an uncontested shot everytime.\r\nFocus on decision making and passing.",
+                "instructions": "O2 sprints up and sets the screen\r\nO2 waits for O1 to come off the screen then sprints to rim\r\nX1 2 feet on free through and guarding O1 and O2 \r\nO1 can bounce pass, lob pass or behind back to O2  (must read what the defense gives)\r\nOnly layups allowed.\r\n\r\nDeflection is a turnover.\r\n\r\nGo hard with intensity for 3 minutes.\r\n\r\nGoal is to get an uncontested shot everytime.\r\nFocus on decision making and passing.",
+                "source": "youtube",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/5SCe3Bfu7F",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "e6bda5ec-908f-4f7b-b410-4804233f1242",
+                "title": "Zone-Break",
+                "drillDescription": "Zone-Break",
+                "alsoKnownAs": "",
+                "purpose": "Break 2-3 Zone",
+                "setup": "for offense 4 & 5 in low posts/short corner, starting as low as possible.\r\n1, 2, 3 on 45 and point.",
+                "coachingPoints": "",
+                "instructions": "1, 2, 3 swing ball around the time.\r\nweak side big flashes to nail, then retreats\r\nif big gets pass can a) draw defense and pocket pass to other big b) drive/shoot c) kick back out.",
+                "source": "Al, Deng's big brother",
+                "diagramEmbedUrl_1": "https://thehoopsgeek.com/play/18Em2e1qDx",
+                "court_requirement": "half"
+            },
+            {
+                "drill_id": "481f5394-e2d8-4ede-b9b6-669015fbc604",
+                "title": "Free throw runs (good warm down)",
+                "drillDescription": "free through shots under pressure",
+                "alsoKnownAs": "",
+                "purpose": "free through shots under pressure",
+                "setup": "each player takes 2 free throws, while the remainder of the team stands on baseline (facing in).",
+                "coachingPoints": "take your time",
+                "instructions": "each player takes 2 free throws, while the remainder of the team stands on baseline (facing in).\r\nafter 2 shots, if both missed - the whole group must run up to centre court and back twice.\r\nif only missed, once only run to centre and back once, if missed none, no running",
+                "source": "steve",
+                "diagramEmbedUrl_1": "",
+                "court_requirement": "half"
+            }
+        ],
+        "summary": "Stretch\r\nHandles\r\nDHO warm ups\r\n\r\nZonebuster + 2v1 PNR + lebron cut\r\n\r\n\r\nShooting:\r\na) Top Triangle shoot (BG)\r\nb) DHO heel toe (BG)\r\nc) Drive-pass-pass-pass-shoot-shoot-shoot\r\n\r\nContested small sided games\r\n4v4 - DKS\r\nPress breaker (no dribble on the way up)\r\nZone Breaker \r\n2v2 screen (to be added)\r\n\r\nWarm down\r\nFree throws",
+        "keywords": []
     }
 ]
