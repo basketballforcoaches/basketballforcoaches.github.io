@@ -3329,7 +3329,7 @@
             },
             {
                 "id": 163,
-                "order": 3,
+                "order": 2,
                 "time_range": "5-10",
                 "title": "Mirror Pound Dribble to Ball Tab",
                 "notes": "rick drill",
@@ -3338,11 +3338,24 @@
             },
             {
                 "id": 164,
-                "order": 4,
+                "order": 3,
                 "time_range": "10-20",
                 "title": "DHO",
-                "notes": "steve drill - start to practice finishes",
-                "teaching_points": [],
+                "notes": "steve drill - start to practice finishes\r\nCan also start on sideline - point extended.",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-177",
+                        "teachingPoint_name": "DHO at point into 1v1 - with finishing",
+                        "teachingPoint_short_description": "DHO at point into 1v1 - with finishing \r\n\r\nIntro strong side corner at https://youtu.be/tlGXlFgofXU?t=2420 wiht stunt defense\r\n\r\nStrong side corner rule\r\nLow position corner rule",
+                        "startTime": 2189,
+                        "endTime": 2440,
+                        "duration": "251 seconds",
+                        "video": "tlGXlFgofXU",
+                        "embed_url": "https://www.youtube.com/embed/tlGXlFgofXU?start=2189&end=2440",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
                 "drills": [
                     {
                         "drill_id": "5fdb5b52-5ab1-4114-b9e8-07de417c3268",
@@ -3361,7 +3374,7 @@
             },
             {
                 "id": 165,
-                "order": 5,
+                "order": 4,
                 "time_range": "20-30",
                 "title": "Shooting: a) Top Triangle shoot (BG)",
                 "notes": "BG (tp to be added)\r\nline up at half court\r\nPlayer 1 - run to wing, recieve pass from player 2, shoot (get rebound and return to line)\r\nPlayer 2 - pass and run to opposite wing, recieve from player 3, shoot\r\netc.\r\nGo for 20 makes.",
@@ -3383,7 +3396,7 @@
             },
             {
                 "id": 167,
-                "order": 7,
+                "order": 5,
                 "time_range": "30-40",
                 "title": "Shooting:  c) Drive-pass-pass-pass-shoot-shoot-shoot",
                 "notes": "3 lines: Top, wing, wing. & 2 players on base line with balls.\r\n\r\n1) Start top -> pass wing, wing drive low base and kick to corner, then run pop out to 3\r\n2) opposing corner drift to corner, and top drift to wing\r\n3) corner recieve, kick to wing, kick back to original penetrator for shot.\r\n4) Corner back screen win, catch and shoot (from bl1)\r\n5) Wing to corner and shoot, (b2)",
@@ -3404,8 +3417,30 @@
                 "drills": []
             },
             {
+                "id": 172,
+                "order": 6,
+                "time_range": "00",
+                "title": "pass and cut drill (2 sides)",
+                "notes": "pass and cut drill",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-004",
+                        "teachingPoint_name": "Pass and Cut Drill",
+                        "teachingPoint_short_description": "Need 2 players and 1 coach.\r\nPlayer 1 baseline\r\nPlayer 2 at point\r\n\r\nPlayer 1 passes to coach and closes out player 2.\r\nPlayer 2 flash cuts IN front of his defender to get open\r\nCoach passes to player 2 who attacks and it's 1v1 to bucket.",
+                        "startTime": 3,
+                        "endTime": 25,
+                        "duration": "22 seconds",
+                        "video": "DGK4f0GzAC4",
+                        "embed_url": "https://www.youtube.com/embed/DGK4f0GzAC4?start=3&end=25",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
                 "id": 170,
-                "order": 9,
+                "order": 7,
                 "time_range": "80-90",
                 "title": "Zone Breaker",
                 "notes": "Zone Breaker\r\n\r\nwith options for:\r\na) 2v1 PNR / give and go",
@@ -3491,7 +3526,7 @@
             },
             {
                 "id": 169,
-                "order": 10,
+                "order": 8,
                 "time_range": "70-80",
                 "title": "Press breaker (no dribble on the way up)",
                 "notes": "4 ways to beat a press\r\nhard work no thought (does it really beat a press)\r\ncross action (sideline)\r\nmiddle actions (circle press break)\r\nping pong and screen actions",
@@ -3500,7 +3535,7 @@
             },
             {
                 "id": 171,
-                "order": 11,
+                "order": 9,
                 "time_range": "90-100",
                 "title": "Free throw runs",
                 "notes": "",
