@@ -3626,5 +3626,186 @@
         ],
         "summary": "Stretch\r\nHandles\r\nDHO warm ups\r\n\r\nZonebuster + 2v1 PNR + lebron cut\r\n\r\n\r\nShooting:\r\na) Top Triangle shoot (BG)\r\nb) DHO heel toe (BG)\r\nc) Drive-pass-pass-pass-shoot-shoot-shoot\r\n\r\nContested small sided games\r\n4v4 - DKS\r\nPress breaker (no dribble on the way up)\r\nZone Breaker \r\n2v2 screen (to be added)\r\n\r\nWarm down\r\nFree throws",
         "keywords": []
+    },
+    {
+        "id": 27,
+        "ref_code": "PP-0027",
+        "title": "u12-boys-plan-May-11-2026",
+        "date": "2026-05-11",
+        "duration_minutes": 60,
+        "notes": "basics - \r\n1) Partner passing\r\n2) Handles and crossing (chicken cross) and dribble relay\r\n3) Stationary layups\r\n4) Layup no dribble\r\n5) Longer set up\r\n6) give and go and laker cut\r\n7) Dribble at - baseline cut\r\n8) Pressure\r\n9) Keepings off Dribble Gate\r\n10) Scrimmage",
+        "segments": [
+            {
+                "id": 174,
+                "order": 1,
+                "time_range": "5-10",
+                "title": "Jump stop pivot",
+                "notes": "",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-346",
+                        "teachingPoint_name": "Jump stop and pivot",
+                        "teachingPoint_short_description": "a) front pivot (no ball - but must show hands, then with ball) (right then left)\r\nb) reverse pivot (no ball - but must show hands, then with ball) (right then left)\r\nMust show hands\r\n\r\nWith ball, start alternating hands (practice weak hand)\r\n\r\nReverse pivot is more important and more useful in a game situation.\r\n\r\nhttps://youtu.be/-3ZQ7rK_Rzc?t=94",
+                        "startTime": 46,
+                        "endTime": 94,
+                        "duration": "48 seconds",
+                        "video": "-3ZQ7rK_Rzc",
+                        "embed_url": "https://www.youtube.com/embed/-3ZQ7rK_Rzc?start=46&end=94",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 175,
+                "order": 2,
+                "time_range": "15-20",
+                "title": "partner passing",
+                "notes": "",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-348",
+                        "teachingPoint_name": "Partner Passing",
+                        "teachingPoint_short_description": "1 ball between 2 \r\na) bounce passing\r\nb) shot fake and step around\r\nc) add piggy in middle \r\n\r\nhttps://youtu.be/-3ZQ7rK_Rzc?t=217",
+                        "startTime": 175,
+                        "endTime": 216,
+                        "duration": "41 seconds",
+                        "video": "-3ZQ7rK_Rzc",
+                        "embed_url": "https://www.youtube.com/embed/-3ZQ7rK_Rzc?start=175&end=216",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 176,
+                "order": 3,
+                "time_range": "20-25",
+                "title": "dribble relay",
+                "notes": "dribble relay",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-363",
+                        "teachingPoint_name": "Dribble Relay",
+                        "teachingPoint_short_description": "forces dribble under pressure.\r\n\r\na) left hand only\r\nb) right hand only\r\nc) speed - any hand\r\n\r\nhttps://youtu.be/ADM_nsX7lkA?t=31\r\nhttps://youtu.be/ADM_nsX7lkA?t=70",
+                        "startTime": 31,
+                        "endTime": 70,
+                        "duration": "39 seconds",
+                        "video": "ADM_nsX7lkA",
+                        "embed_url": "https://www.youtube.com/embed/ADM_nsX7lkA?start=31&end=70",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 177,
+                "order": 4,
+                "time_range": "25-30",
+                "title": "Standing layups",
+                "notes": "Standing layups - literally standing near low block - outside > inside",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 178,
+                "order": 5,
+                "time_range": "30-35",
+                "title": "layups  (no dribble)",
+                "notes": "layups  (no dribble)",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-330",
+                        "teachingPoint_name": "give and go lay up line drill",
+                        "teachingPoint_short_description": "The point has ball.  Start by passing the ball to 45.\r\nAfter a little body fake, cut into the zone\r\nShow where you want to recieve the ball\r\nThen passer gets the rebound \r\nBoth players swap lines.",
+                        "startTime": 223,
+                        "endTime": 250,
+                        "duration": "27 seconds",
+                        "video": "FnpnFr5ZMsk",
+                        "embed_url": "https://www.youtube.com/embed/FnpnFr5ZMsk?start=223&end=250",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 179,
+                "order": 6,
+                "time_range": "35-40",
+                "title": "team layups  (no dribble)",
+                "notes": "team layups  (no dribble)",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-331",
+                        "teachingPoint_name": "give and go team drill",
+                        "teachingPoint_short_description": "you need 4 basketballs and 6 players (this is not a hard drill, but does get some repetitions in)\r\n\r\nfull court\r\nsetup in a diamond 2 groups on centre court wing and 2 groups on free throw lines (facing middle)\r\n\r\nTo start this drill, have the first plater of the cue on the right side of the half court line pass the ball hard to the player on the free ftrhough.\r\nAfter the pass, cut to basket and recieve for lay up.\r\nPasser gets the rebound and swap\r\nGot both ends going\r\nEntire drill works without a dribble.\r\n\r\ncan add in screen element, and passing element (behind back etc)",
+                        "startTime": 314,
+                        "endTime": 353,
+                        "duration": "39 seconds",
+                        "video": "FnpnFr5ZMsk",
+                        "embed_url": "https://www.youtube.com/embed/FnpnFr5ZMsk?start=314&end=353",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 180,
+                "order": 7,
+                "time_range": "40-45",
+                "title": "Give and go with laker cut",
+                "notes": "Give and go with laker cut",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-349",
+                        "teachingPoint_name": "give and go (with laker cut)",
+                        "teachingPoint_short_description": "2 lines - point and 45\r\na) Point give (to 45), and go (recieve back and layup), 45 cuts to recieve 2nd inbound ball from coach in pocket and gets a shot up - then rotate back to different lines.",
+                        "startTime": 217,
+                        "endTime": 272,
+                        "duration": "55 seconds",
+                        "video": "-3ZQ7rK_Rzc",
+                        "embed_url": "https://www.youtube.com/embed/-3ZQ7rK_Rzc?start=217&end=272",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 181,
+                "order": 8,
+                "time_range": "45-50",
+                "title": "dribble gate",
+                "notes": "dribble gate",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 182,
+                "order": 9,
+                "time_range": "50-55",
+                "title": "Pressure",
+                "notes": "Pressure",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 183,
+                "order": 10,
+                "time_range": "55-60",
+                "title": "Scrimmage",
+                "notes": "Scrimmage",
+                "teaching_points": [],
+                "drills": []
+            }
+        ],
+        "drills": [],
+        "summary": "basics - \r\n1) Partner passing\r\n2) Handles and crossing (chicken cross) and dribble relay\r\n3) Stationary layups\r\n4) Layup no dribble\r\n5) Longer set up\r\n6) give and go and laker cut\r\n7) Dribble at - baseline cut\r\n8) Pressure\r\n9",
+        "keywords": []
     }
 ]
