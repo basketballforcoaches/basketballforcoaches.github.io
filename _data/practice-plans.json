@@ -3807,5 +3807,120 @@
         "drills": [],
         "summary": "basics - \r\n1) Partner passing\r\n2) Handles and crossing (chicken cross) and dribble relay\r\n3) Stationary layups\r\n4) Layup no dribble\r\n5) Longer set up\r\n6) give and go and laker cut\r\n7) Dribble at - baseline cut\r\n8) Pressure\r\n9",
         "keywords": []
+    },
+    {
+        "id": 28,
+        "ref_code": "PP-0028",
+        "title": "u14-boys-plan-May-11-2026",
+        "date": "2026-05-11",
+        "duration_minutes": 60,
+        "notes": "basics - \r\n1) Partner passing\r\n2) Handles and crossing (chicken cross) and dribble relay\r\n3) Stationary layups\r\n4) Layup no dribble\r\n5) Longer set up\r\n6) give and go and laker cut\r\n7) Dribble at - baseline cut\r\n8) Pressure\r\n9) Keepings off Dribble Gate\r\n10) Scrimmage",
+        "segments": [
+            {
+                "id": 184,
+                "order": 1,
+                "time_range": "5-10",
+                "title": "Jump stop pivot and partner passing",
+                "notes": "add rip/rip and then piggy in middle",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-346",
+                        "teachingPoint_name": "Jump stop and pivot",
+                        "teachingPoint_short_description": "a) front pivot (no ball - but must show hands, then with ball) (right then left)\r\nb) reverse pivot (no ball - but must show hands, then with ball) (right then left)\r\nMust show hands\r\n\r\nWith ball, start alternating hands (practice weak hand)\r\n\r\nReverse pivot is more important and more useful in a game situation.\r\n\r\nhttps://youtu.be/-3ZQ7rK_Rzc?t=94",
+                        "startTime": 46,
+                        "endTime": 94,
+                        "duration": "48 seconds",
+                        "video": "-3ZQ7rK_Rzc",
+                        "embed_url": "https://www.youtube.com/embed/-3ZQ7rK_Rzc?start=46&end=94",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 186,
+                "order": 3,
+                "time_range": "20-25",
+                "title": "dribble relay",
+                "notes": "dribble relay",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-363",
+                        "teachingPoint_name": "Dribble Relay",
+                        "teachingPoint_short_description": "forces dribble under pressure.\r\n\r\na) left hand only\r\nb) right hand only\r\nc) speed - any hand\r\n\r\nhttps://youtu.be/ADM_nsX7lkA?t=31\r\nhttps://youtu.be/ADM_nsX7lkA?t=70",
+                        "startTime": 31,
+                        "endTime": 70,
+                        "duration": "39 seconds",
+                        "video": "ADM_nsX7lkA",
+                        "embed_url": "https://www.youtube.com/embed/ADM_nsX7lkA?start=31&end=70",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 194,
+                "order": 6,
+                "time_range": "30",
+                "title": "Free throws",
+                "notes": "1 person shoots, everyone else on the baseline",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 190,
+                "order": 7,
+                "time_range": "40-45",
+                "title": "Give and go with laker cut",
+                "notes": "Give and go with laker cut",
+                "teaching_points": [
+                    {
+                        "teachingPoint_id": "TP-349",
+                        "teachingPoint_name": "give and go (with laker cut)",
+                        "teachingPoint_short_description": "2 lines - point and 45\r\na) Point give (to 45), and go (recieve back and layup), 45 cuts to recieve 2nd inbound ball from coach in pocket and gets a shot up - then rotate back to different lines.",
+                        "startTime": 217,
+                        "endTime": 272,
+                        "duration": "55 seconds",
+                        "video": "-3ZQ7rK_Rzc",
+                        "embed_url": "https://www.youtube.com/embed/-3ZQ7rK_Rzc?start=217&end=272",
+                        "keywords": [],
+                        "educationalLevel": ""
+                    }
+                ],
+                "drills": []
+            },
+            {
+                "id": 191,
+                "order": 8,
+                "time_range": "45-50",
+                "title": "dribble gate",
+                "notes": "dribble gate",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 192,
+                "order": 9,
+                "time_range": "50-55",
+                "title": "Pressure",
+                "notes": "Pressure",
+                "teaching_points": [],
+                "drills": []
+            },
+            {
+                "id": 193,
+                "order": 10,
+                "time_range": "55-60",
+                "title": "Scrimmage",
+                "notes": "Scrimmage",
+                "teaching_points": [],
+                "drills": []
+            }
+        ],
+        "drills": [],
+        "summary": "basics - \r\n1) Partner passing with rip/sweep (add piggy in middle)\r\n6) give and go and laker cut\r\n7) Dribble at - baseline cut\r\n8) Pressure\r\n9) Free throws",
+        "keywords": []
     }
 ]
