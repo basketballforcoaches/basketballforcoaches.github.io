@@ -6,10 +6,13 @@ permalink: /videos/
 
 <h1>🎬 Teaching Points by Video</h1>
 
-<div class="mb-4">
-  <input type="search" id="video-search" class="form-control w-auto d-inline-block"
-         placeholder="Filter by video title…" style="min-width:280px;">
-  <span id="video-count" class="ms-3 text-muted small"></span>
+<div class="mb-4 d-flex flex-wrap gap-3 align-items-center">
+  <input type="search" id="video-search" class="form-control w-auto"
+         placeholder="Search by title…" style="min-width:260px;">
+  <select id="video-select" class="form-select w-auto" style="min-width:260px;">
+    <option value="">— All videos —</option>
+  </select>
+  <span id="video-count" class="text-muted small"></span>
 </div>
 
 <div id="video-list" class="container-fluid px-0"></div>
@@ -22,10 +25,11 @@ permalink: /videos/
   // Only videos that have at least one teaching point
   const videosWithTPs = allVideos.filter(v => v.teachingPoints && v.teachingPoints.length > 0);
 
-  const container  = document.getElementById("video-list");
-  const sentinel   = document.getElementById("lazy-sentinel");
-  const searchBox  = document.getElementById("video-search");
-  const countLabel = document.getElementById("video-count");
+  const container   = document.getElementById("video-list");
+  const sentinel    = document.getElementById("lazy-sentinel");
+  const searchBox   = document.getElementById("video-search");
+  const selectBox   = document.getElementById("video-select");
+  const countLabel  = document.getElementById("video-count");
 
   let currentVideos = [];
   let loadedCount   = 0;
@@ -109,16 +113,35 @@ permalink: /videos/
     if (entries[0].isIntersecting) renderNextBatch();
   });
 
+  function applyFilters() {
+    const q  = searchBox.value.trim().toLowerCase();
+    const id = selectBox.value;
+    let filtered = videosWithTPs;
+    if (id)  filtered = filtered.filter(v => v.videoId === id);
+    if (q)   filtered = filtered.filter(v => v.title && v.title.toLowerCase().includes(q));
+    initVideos(filtered);
+  }
+
   document.addEventListener("DOMContentLoaded", () => {
+    // Populate the select dropdown
+    videosWithTPs.forEach(v => {
+      const opt = document.createElement("option");
+      opt.value = v.videoId;
+      opt.textContent = v.title.length > 70 ? v.title.slice(0, 67) + "…" : v.title;
+      selectBox.appendChild(opt);
+    });
+
     initVideos(videosWithTPs);
     observer.observe(sentinel);
 
     searchBox.addEventListener("input", () => {
-      const q = searchBox.value.trim().toLowerCase();
-      const filtered = q
-        ? videosWithTPs.filter(v => v.title && v.title.toLowerCase().includes(q))
-        : videosWithTPs;
-      initVideos(filtered);
+      selectBox.value = "";
+      applyFilters();
+    });
+
+    selectBox.addEventListener("change", () => {
+      searchBox.value = "";
+      applyFilters();
     });
   });
 })();
