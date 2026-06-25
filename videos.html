@@ -131,7 +131,11 @@ permalink: /videos/
       selectBox.appendChild(opt);
     });
 
-    initVideos(videosWithTPs);
+    // Pre-filter from URL param e.g. ?v=frlkSlgsawc
+    const urlParam = new URLSearchParams(window.location.search).get("v");
+    if (urlParam) selectBox.value = urlParam;
+
+    applyFilters();
     observer.observe(sentinel);
 
     searchBox.addEventListener("input", () => {
@@ -141,6 +145,10 @@ permalink: /videos/
 
     selectBox.addEventListener("change", () => {
       searchBox.value = "";
+      const params = new URLSearchParams(window.location.search);
+      if (selectBox.value) params.set("v", selectBox.value);
+      else params.delete("v");
+      history.replaceState(null, "", "?" + params.toString() || window.location.pathname);
       applyFilters();
     });
   });
