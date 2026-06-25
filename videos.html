@@ -6,13 +6,24 @@ permalink: /videos/
 
 <h1>🎬 Teaching Points by Video</h1>
 
-<div class="mb-4 d-flex flex-wrap gap-3 align-items-center">
-  <input type="search" id="video-search" class="form-control w-auto"
-         placeholder="Search by title…" style="min-width:260px;">
-  <select id="video-select" class="form-select w-auto" style="min-width:260px;">
-    <option value="">— All videos —</option>
-  </select>
-  <span id="video-count" class="text-muted small"></span>
+<div class="mb-4">
+  <div class="d-flex flex-wrap gap-3 align-items-center mb-2">
+    <label class="fw-semibold mb-0" style="min-width:110px;">Video</label>
+    <input type="search" id="video-search" class="form-control w-auto"
+           placeholder="Search by title…" style="min-width:240px;">
+    <select id="video-select" class="form-select w-auto" style="min-width:240px;">
+      <option value="">— All videos —</option>
+    </select>
+  </div>
+  <div class="d-flex flex-wrap gap-3 align-items-center">
+    <label class="fw-semibold mb-0" style="min-width:110px;">Teaching Point</label>
+    <input type="search" id="tp-search" class="form-control w-auto"
+           placeholder="Search by name…" style="min-width:240px;">
+    <select id="tp-select" class="form-select w-auto" style="min-width:240px;">
+      <option value="">— All teaching points —</option>
+    </select>
+  </div>
+  <span id="video-count" class="text-muted small mt-2 d-block"></span>
 </div>
 
 <div id="video-list" class="container-fluid px-0"></div>
@@ -27,8 +38,10 @@ permalink: /videos/
 
   const container   = document.getElementById("video-list");
   const sentinel    = document.getElementById("lazy-sentinel");
-  const searchBox   = document.getElementById("video-search");
-  const selectBox   = document.getElementById("video-select");
+  const videoSearch = document.getElementById("video-search");
+  const videoSelect = document.getElementById("video-select");
+  const tpSearch    = document.getElementById("tp-search");
+  const tpSelect    = document.getElementById("tp-select");
   const countLabel  = document.getElementById("video-count");
 
   let currentVideos = [];
@@ -113,44 +126,78 @@ permalink: /videos/
     if (entries[0].isIntersecting) renderNextBatch();
   });
 
+  function clearVideoFilters()  { videoSearch.value = ""; videoSelect.value = ""; }
+  function clearTpFilters()     { tpSearch.value = "";    tpSelect.value = ""; }
+
+  function updateUrl() {
+    const params = new URLSearchParams();
+    if (videoSelect.value) params.set("v",  videoSelect.value);
+    if (tpSelect.value)    params.set("tp", tpSelect.value);
+    const qs = params.toString();
+    history.replaceState(null, "", qs ? "?" + qs : window.location.pathname);
+  }
+
   function applyFilters() {
-    const q  = searchBox.value.trim().toLowerCase();
-    const id = selectBox.value;
-    let filtered = videosWithTPs;
-    if (id)  filtered = filtered.filter(v => v.videoId === id);
-    if (q)   filtered = filtered.filter(v => v.title && v.title.toLowerCase().includes(q));
+    const vq   = videoSearch.value.trim().toLowerCase();
+    const vid  = videoSelect.value;
+    const tq   = tpSearch.value.trim().toLowerCase();
+    const tpid = tpSelect.value;
+
+    let filtered = videosWithTPs.map(v => ({ ...v, teachingPoints: v.teachingPoints.slice() }));
+
+    // Video filters
+    if (vid) filtered = filtered.filter(v => v.videoId === vid);
+    if (vq)  filtered = filtered.filter(v => v.title && v.title.toLowerCase().includes(vq));
+
+    // TP filters — narrow TPs within each video, then drop empty videos
+    if (tpid || tq) {
+      filtered = filtered
+        .map(v => ({
+          ...v,
+          teachingPoints: v.teachingPoints.filter(tp => {
+            if (tpid) return tp.teachingPoint_id === tpid;
+            return (tp.teachingPoint_name || "").toLowerCase().includes(tq) ||
+                   (tp.teachingPoint_short_description || "").toLowerCase().includes(tq);
+          })
+        }))
+        .filter(v => v.teachingPoints.length > 0);
+    }
+
     initVideos(filtered);
   }
 
   document.addEventListener("DOMContentLoaded", () => {
-    // Populate the select dropdown
+    // Populate video dropdown
     videosWithTPs.forEach(v => {
       const opt = document.createElement("option");
       opt.value = v.videoId;
       opt.textContent = v.title.length > 70 ? v.title.slice(0, 67) + "…" : v.title;
-      selectBox.appendChild(opt);
+      videoSelect.appendChild(opt);
     });
 
-    // Pre-filter from URL param e.g. ?v=frlkSlgsawc
-    const urlParam = new URLSearchParams(window.location.search).get("v");
-    if (urlParam) selectBox.value = urlParam;
+    // Populate TP dropdown (all TPs across all videos, sorted by ID)
+    const allTPs = videosWithTPs.flatMap(v => v.teachingPoints);
+    allTPs.sort((a, b) => a.teachingPoint_id.localeCompare(b.teachingPoint_id, undefined, { numeric: true }));
+    allTPs.forEach(tp => {
+      const opt = document.createElement("option");
+      opt.value = tp.teachingPoint_id;
+      const label = `${tp.teachingPoint_id} – ${tp.teachingPoint_name}`;
+      opt.textContent = label.length > 70 ? label.slice(0, 67) + "…" : label;
+      tpSelect.appendChild(opt);
+    });
+
+    // Pre-filter from URL params ?v= and ?tp=
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("v"))  videoSelect.value = params.get("v");
+    if (params.get("tp")) tpSelect.value    = params.get("tp");
 
     applyFilters();
     observer.observe(sentinel);
 
-    searchBox.addEventListener("input", () => {
-      selectBox.value = "";
-      applyFilters();
-    });
-
-    selectBox.addEventListener("change", () => {
-      searchBox.value = "";
-      const params = new URLSearchParams(window.location.search);
-      if (selectBox.value) params.set("v", selectBox.value);
-      else params.delete("v");
-      history.replaceState(null, "", "?" + params.toString() || window.location.pathname);
-      applyFilters();
-    });
+    videoSearch.addEventListener("input",  () => { clearTpFilters();    updateUrl(); applyFilters(); });
+    videoSelect.addEventListener("change", () => { clearTpFilters();    videoSearch.value = ""; updateUrl(); applyFilters(); });
+    tpSearch.addEventListener("input",     () => { clearVideoFilters(); updateUrl(); applyFilters(); });
+    tpSelect.addEventListener("change",    () => { clearVideoFilters(); tpSearch.value = "";    updateUrl(); applyFilters(); });
   });
 })();
 </script>
