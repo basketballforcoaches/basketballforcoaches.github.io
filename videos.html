@@ -1,0 +1,125 @@
+---
+layout: default
+title: Teaching Points by Video
+permalink: /videos/
+---
+
+<h1>🎬 Teaching Points by Video</h1>
+
+<div class="mb-4">
+  <input type="search" id="video-search" class="form-control w-auto d-inline-block"
+         placeholder="Filter by video title…" style="min-width:280px;">
+  <span id="video-count" class="ms-3 text-muted small"></span>
+</div>
+
+<div id="video-list" class="container-fluid px-0"></div>
+<div id="lazy-sentinel" style="height: 50px;"></div>
+
+<script>
+(function () {
+  const allVideos = {{ site.data["teaching_points_by_video"] | jsonify | safe }};
+
+  // Only videos that have at least one teaching point
+  const videosWithTPs = allVideos.filter(v => v.teachingPoints && v.teachingPoints.length > 0);
+
+  const container  = document.getElementById("video-list");
+  const sentinel   = document.getElementById("lazy-sentinel");
+  const searchBox  = document.getElementById("video-search");
+  const countLabel = document.getElementById("video-count");
+
+  let currentVideos = [];
+  let loadedCount   = 0;
+  const batchSize   = 2;
+
+  function esc(str) {
+    return String(str ?? "")
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+
+  function resetVideo(id) {
+    const el = document.getElementById(id);
+    if (el) el.parentNode.replaceChild(el.cloneNode(true), el);
+  }
+  window.resetVideo = resetVideo;
+
+  function renderNextBatch() {
+    const batch = currentVideos.slice(loadedCount, loadedCount + batchSize);
+    if (batch.length === 0) return;
+
+    batch.forEach(video => {
+      const section = document.createElement("div");
+      section.className = "mb-5";
+
+      const tpRows = video.teachingPoints.map(tp => {
+        const iframeId = `vid-${esc(tp.video)}-${tp.startTime}-${tp.endTime}`;
+        return `
+          <div class="row mb-4 border rounded p-3 align-items-start">
+            <div class="col-md-6">
+              <div class="ratio ratio-16x9">
+                <iframe
+                  id="${iframeId}"
+                  src="${esc(tp.embed_url)}"
+                  title="${esc(tp.teachingPoint_name)}"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen>
+                </iframe>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <h6 class="mb-1">${esc(tp.teachingPoint_id)} – ${esc(tp.teachingPoint_name)}</h6>
+              <p class="text-muted small mb-1"><strong>Duration:</strong> ${esc(tp.duration)}</p>
+              ${tp.teachingPoint_short_description
+                ? `<p class="small">${esc(tp.teachingPoint_short_description)}</p>`
+                : ""}
+              <button class="btn btn-outline-secondary btn-sm"
+                      onclick="resetVideo('${iframeId}')">🔁 Reset</button>
+            </div>
+          </div>`;
+      }).join("");
+
+      section.innerHTML = `
+        <h2 class="h4 mb-1">
+          <a href="${esc(video.url)}" target="_blank" rel="noopener">${esc(video.title)}</a>
+        </h2>
+        <p class="text-muted small mb-3">
+          ${esc(video.uploadDate)}
+          &nbsp;·&nbsp; ${video.teachingPoints.length} teaching point${video.teachingPoints.length !== 1 ? "s" : ""}
+        </p>
+        ${tpRows}
+        <hr>`;
+
+      container.appendChild(section);
+    });
+
+    loadedCount += batchSize;
+  }
+
+  function initVideos(videos) {
+    currentVideos = videos;
+    loadedCount   = 0;
+    container.innerHTML = "";
+    countLabel.textContent = `${videos.length} video${videos.length !== 1 ? "s" : ""}`;
+    renderNextBatch();
+  }
+
+  const observer = new IntersectionObserver(entries => {
+    if (entries[0].isIntersecting) renderNextBatch();
+  });
+
+  document.addEventListener("DOMContentLoaded", () => {
+    initVideos(videosWithTPs);
+    observer.observe(sentinel);
+
+    searchBox.addEventListener("input", () => {
+      const q = searchBox.value.trim().toLowerCase();
+      const filtered = q
+        ? videosWithTPs.filter(v => v.title && v.title.toLowerCase().includes(q))
+        : videosWithTPs;
+      initVideos(filtered);
+    });
+  });
+})();
+</script>

@@ -4,6 +4,7 @@ theme: minima
 # Add navigation
 header_pages:
   - concepts.html
+  - videos.html
   - teaching-points.md
   - practice/index_v2.md
   - blog.html
